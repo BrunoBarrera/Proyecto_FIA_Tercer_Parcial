@@ -1,0 +1,33 @@
+Implante reactiva médula espinal
+El sistema incluye un dispositivo para regular la presión sanguínea evitando perder el 
+conocimiento cada vez que esté en posición vertical.
+La atrofia multisistémica es un trastorno neurodegenerativo esporádico (AMS-P) de aparición en la 
+edad adulta que se caracteriza por rasgos parkinsonianos o cerebelosos y por un fallo autonómico se 
+manifiesta en forma de hipotensión ortostática o desregulación urodinámica. Este aspecto está 
+causado por la degeneración de las neuronas catecolaminérgicas en la médula ventrolateral rostral 
+y una de tipo parcial de las preganglionares simpáticas en la médula espinal torácica, con la 
+preservación de las neuronas en los ganglios simpáticos.
+Dirigido por Jocelyne Bloch, neurocirujana del Hospital Universitario de Lausana y Grégoire Courtine, 
+profesor de neurociencia de la Escuela Politécnica Federal de Lausana (Suiza) un equipo de 
+neurocientíficos desarrollaron un implante electrónico que se ubica en la médula espinal para
+reactivar las neuronas preganglionares simpáticas en una paciente con una hipotensión
+ortostática.
+Estudio de caso
+Una mujer de 48 años tenía una historia de cuatro años de rigidez de las extremidades, temblor en 
+reposo en ambas manos, bradicinesia y micrografía. Estos signos motores llevaron inicialmente a un 
+diagnóstico de enfermedad de Parkinson idiopática. La levodopa-benserazida redujo parcialmente 
+estos signos. Varios meses después del inicio del tratamiento empezaron a aparecer espasticidad en 
+las extremidades, hipotensión ortostática, hipertensión supina, vértigo postprandial e incontinencia. 
+Estos signos eran compatibles con una atrofia multisistémica de tipo parkinsoniano.
+Como consecuencia de un síncope que se produjo en los 60 segundos siguientes a la bipedestación, 
+quedó postrada en cama. La adición de medidas conservadoras incluyendo el cruce de piernas y el 
+uso de medias de compresión, no fue suficiente para prevenir estos episodios.
+Se le implantó un sistema de estimulación de la médula espinal que mejoraba la caída de la presión 
+sanguínea cuando adoptaba una postura erguida y a los tres meses era capaz de caminar más de
+250 m. Este ralentizaba el desarrollo de la hipotensión después de que la paciente se pusiera de pie 
+permitiendo que la autorregulación cerebral, se acomodara a la reducción de la presión sanguínea.
+Dado que los riesgos asociados a esta intervención neuroquirúrgica parecen ser limitados y son 
+similares a los asociados al uso del sistema para el tratamiento del dolor, este enfoque puede 
+considerarse para el apoyo de la estabilidad hemodinámica en personas con atrofia multisistémica. 
+El sistema ralentizó principalmente el descenso de la presión arterial durante los desafíos 
+ortostáticos y los resultados se limitaron a ocho meses de seguimiento.

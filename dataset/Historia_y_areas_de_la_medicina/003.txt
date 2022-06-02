@@ -1,0 +1,329 @@
+Evolución histórica del razonamiento clínico
+RESUMEN
+El razonamiento clínico como proceso cognitivo regulador del diagnóstico médico ha 
+experimentado cambios apreciables a través de la historia. Con este artículo se 
+pretende realizar una descripción histórica del razonamiento clínico, para contribuir 
+a afianzar su relevancia como componente racional del método clínico, responsable,
+en gran medida, de la eficiencia del diagnóstico médico. El estudio abarcó las 
+transformaciones del razonamiento clínico desde la Edad Antigua hasta la Edad 
+Contemporánea, teniendo en cuenta las principales tendencias filosóficas vigentes en 
+cada etapa. Se concluyó que la descripción de las corrientes de pensamiento 
+relacionadas con el razonamiento a través del desarrollo histórico y fílosófico de la 
+humanidad propicia enmarcar los postulados del razonamiento clínico en la práctica 
+médica y en el proceso de enseñanza-aprendizaje de las asignaturas clínicas dentro de 
+las concepciones contemporáneas.
+MEDISAN 2019; 23(6):1165
+Palabras clave: razonamiento clínico; historia del razonamiento clínico; historia del 
+método clínico.
+
+Introducción
+El razonamiento clínico ha sido definido como el proceso cognitivo necesario para 
+evaluar y atender el problema médico de un paciente. Constituye una fase crítica en la 
+conducción de un problema de salud, en cuya solución, la buena orientación del 
+conjunto de pruebas y exploraciones que se realicen evitará el uso inadecuado de 
+exámenes complementarios, el consumo innecesario de medicamentos y una probable 
+causa de iatrogenia.(1,2,3)
+MEDISAN 2019; 23(6):1166
+Ahora bien, el razonamiento clínico ocupa un lugar medular en el diagnóstico médico; 
+es el precursor de la decisión y la acción. Ha sido y sigue siendo la base de las 
+decisiones que afectan la vida presente y futura de los pacientes; además, ha dirigido 
+el curso del diagnóstico y el tratamiento en todos los tiempos y latitudes.(4,5,6)
+Múltiples autores(7,8,9,10) han notificado una disminución de la eficiencia del 
+razonamiento clínico debido, posiblemente, a la sobrevaloración de las nuevas 
+tecnologías en el diagnóstico médico. Esta situación se traduce en un mayor nivel de 
+utilización de medios de diagnóstico, lo que aumenta el costo de la atención médica y 
+el número de intervenciones innecesarias sobre los pacientes.
+Se ha convocado a la recuperación de la eficiencia del método clínico mediante el uso 
+racional de los medios diagnósticos y terapéuticos.
+(11) Esto significa que el
+razonamiento clínico debe ocupar su lugar en el diagnóstico médico, para lograr la 
+solución efectiva de los problemas clínicos con la menor cantidad de evidencias 
+basadas en exámenes complementarios. Al mismo tiempo, a partir del binomio 
+práctica médica-educación médica, podrá ser incorporado de forma más eficaz al 
+proceso de enseñanza-aprendizaje para alcanzar la suficiente maestría en las 
+habilidades de razonamiento clínico, requisito establecido como uno de los objetivos a 
+seguir por la mayoría de las universidades de ciencias médicas a escala internacional,
+lo cual puede tener implicaciones en el diseño y aplicación de metodologías para su 
+incorporación más efectiva al proceso formativo.(12,13)
+La comprensión de la importancia del razonamiento clínico en la educación médica 
+puede enfatizarse a través de los rasgos más característicos de su surgimiento y 
+desarrollo en la historia de la medicina, los cuales han estado matizados por las 
+tendencias filosóficas predominantes en las diferentes etapas. El objetivo del presente 
+estudio es realizar una descripción histórica de las principales tendencias del 
+razonamiento clínico, para contribuir a afianzar su relevancia como componente 
+racional del método clínico, responsable, en gran medida, de la eficiencia del 
+diagnóstico médico. 
+MEDISAN 2019; 23(6):1167
+Rasgos evolutivos del razonamiento clínico a través de las 
+principales etapas del desarrollo histórico
+El diagnóstico médico ha estado ligado íntimamente a la percepción que tenía el 
+facultativo sobre la naturaleza de la enfermedad en cada etapa histórica del desarrollo 
+de la humanidad. Así, las concepciones mágico - religiosas iniciales dieron paso al 
+desarrollo de un conocimiento más preciso de los procesos morbosos, de acuerdo con 
+el entorno sociocultural predominante en cada etapa. 
+El razonamiento clínico desde la Edad Antigua hasta el Renacimiento
+En el mundo antiguo, el carácter mágico-religioso de la medicina mesopotámica, 
+egipcia, judía, hindú, griega y de la antigua China fue sustituido por el surgimiento de 
+la medicina científica en Grecia.(14)
+De hecho, la práctica de la medicina científica griega, representada fundamentalmente 
+por Hipócrates, se basaba en la observación meticulosa del enfermo, lo que produjo 
+amplias descripciones de los diferentes estados morbosos. Su principal aporte radica 
+en que separó la práctica de la medicina de las especulaciones filosóficas y la magia.14
+Mediante la sistematización de sus reflexiones clínicas propició la realización de 
+deducciones y predicciones por el médico antiguo que, desde los templos de 
+Esculapio, desarrollaban un pensamiento diagnóstico que les permitía formular un 
+pronóstico y seguir una determinada conducta terapéutica.(15)
+Las descripciones de Hipócrates están libres de magia y misticismo; en ellas se 
+describen con objetividad los hallazgos de las exploraciones clínicas y se toman 
+medidas terapéuticas que responden a un pensamiento lógico, alejado de 
+especulaciones abstractas. Entre las 2 principales escuelas de la medicina científica, la 
+de Cnido y la de Coos, se llegaron a establecer discrepancias en cuanto al 
+razonamiento. La de este último, representada por Hipócrates, privilegiaba el aspecto 
+sensoperceptual dado por la observación y la descripción. La escuela del primero daba 
+mayor importancia a las teorías provenientes del razonamiento y la discusión de los 
+médicos. Frente al empirismo hipocrático se proyectaba una especie de racionalismo 
+precursor de la ciencia.(15,16,17)
+MEDISAN 2019; 23(6):1168
+El razonamiento silogístico en el mundo antiguo, base de la lógica formal aristotélica, 
+intentaba establecer la verdad de sus conclusiones a través de 2 factores: la 
+conclusión tiene que emanar de las premisas y estas tienen que ser ciertas. Así, el 
+silogismo se convertiría en la forma del razonamiento deductivo, como el método más 
+común de la lógica formal.(18)
+La lógica aristotélica se basa en 3 principios que son enunciados como lógicos 
+supremos, puesto que existen sin demostración, ellos son: identidad, no contradicción
+y tercero excluido.(19)
+Dichos principios no fueron incorporados al razonamiento médico de la época, al 
+parecer por 3 motivos: Hipócrates murió cuando Aristóteles había cumplido 14 
+años;(20) la pérdida por largo tiempo de las obras de Aristóteles y la existencia de 
+pocos de sus libros en la biblioteca de Alejandría, así como la desnaturalización de su 
+obra por los filósofos sucesivos.(17)
+La filosofía naturalista de Hipócrates desapareció tempranamente debido a que el 
+éxito inicial de la abstracción y la deducción como herramientas heurísticas permitió 
+a los griegos un extraordinario desarrollo y éxito en las ciencias formales (matemática 
+y lógica), no así en las ciencias naturales; la naturaleza era vista como impura e 
+imprecisa y la inducción como método de investigación no pudo ser aceptada.(17,20)
+Hipócrates fue cronológicamente posterior a Sócrates, por lo que alcanzó el tiempo de 
+progreso filosófico representado por el espíritu juicioso socrático que volvió humana 
+la filosofía.(20)
+Al comparar las obras de estos 2 filósofos se revela que Hipócrates es el Sócrates de la 
+ciencia de curar,
+(20) quien enseñó a los filósofos la reflexión aplicada a todos los 
+efectos y buscó la verdad con la duda en todas partes; su reflexión no se dirigía a 
+ningún sistema en particular, la desenvolvía libremente sobre todos los resultados 
+sistemáticos para averiguar la verdad. Hipócrates, por su parte, recomendó a los 
+médicos la observación, dirigida por el raciocinio sobre todos los hechos fisiológicos y 
+patológicos; con su observación asociaba todas las hipótesis en la medida que le 
+parecían estar de acuerdo con la experiencia. 
+Además de los aportes de Hipócrates, la escuela médica de Alejandría, fundada en el 
+Siglo IV AC, hizo importantes contribuciones al razonamiento en la medicina de la 
+MEDISAN 2019; 23(6):1169
+época, entre las cuales se destacan: realización de disecciones de cadáveres y 
+vivisecciones en condenados a muerte realizadas por Herófilo ante sus alumnos, así 
+como estudios realizados por Erasistrato, considerado como un precursor de la 
+Fisiología.(16) Estos hechos contribuyeron a un razonamiento sobre bases más 
+objetivas, al ofrecer un material empírico ignorado hasta ese momento. 
+Después de Hipócrates, Claudio Galeno (Siglo II DC) se convirtió en el principal difusor 
+de sus doctrinas en el mundo romano. Recopiló los conocimientos médicos existentes 
+hasta entonces y los legó a la posteridad a través de una extensa obra. Aunque sus 
+concepciones y teorías contienen muchas especulaciones y poca correspondencia con 
+la realidad.(16) Galeno no creó escuela médica alguna ni se le conocieron discípulos,
+pero su doctrina ejerció una poderosa influencia durante varios siglos posteriores.(14)
+Los romanos hicieron grandes aportes a la medicina a través de la construcción de 
+hospitales, así como la creación de las primeras escuelas de medicina. Posteriormente, 
+surgieron sociedades o colegios donde se discutían los problemas médicos. Así, Roma 
+se convirtió en centro de enseñanza médica.(14)
+Con la caída del imperio romano, el desarrollo del conocimiento médico entró en 
+decadencia debido al dominio de la Iglesia Católica, la cual eliminó la lectura de los 
+textos griegos. A partir de entonces la enseñanza y el estudio de la medicina se
+realizaban únicamente en los monasterios, que era donde se conservaban los 
+documentos clásicos de carácter médico provenientes de los griegos.(14)
+Los escolásticos medievales centraron su atención en la lógica aristotélica, por ello el 
+razonamiento silogístico alcanzó gran esplendor. Al respecto, se ha señalado que las 
+construcciones laberínticas de la lógica formal hacían parecer que estaban realmente 
+inmersos en una discusión muy profunda, cuando en realidad no discutían nada. La 
+razón de esto reside en la propia naturaleza de la lógica formal donde el contenido no 
+cuenta.(18)
+La escolástica fue una forma específica de la filosofía propia de la vida espiritual de la 
+sociedad feudal, en la cual se expresó del modo más pleno la subordinación del 
+pensamiento investigador a la fe religiosa. Incluso, pensadores dotados de eminentes 
+aptitudes, no buscaban la verdad sino medios para fundamentar las verdades 
+MEDISAN 2019; 23(6):1170
+reveladas. El pensamiento no escrutaba el problema sino que era conducido a un 
+resultado que se daba por cierto de antemano.(21)
+Por su parte, la medicina monástica concebía la curación del enfermo únicamente por 
+intermedio de Dios, por ello decayeron los conocimientos teóricos y no progresaron 
+los que ya existían sobre anatomía y fisiología. La disección de cadáveres fue 
+prohibida durante siglos y como consecuencia, persistieron muchos conceptos 
+erróneos de la antigüedad que atrasaron el avance de la medicina.(14)
+El estancamiento de los conocimientos médicos en la Edad Media favoreció que la 
+doctrina dogmática de Galeno predominara más allá del medioevo y sirviera de 
+fundamento a la enseñanza de la medicina hasta bien entrado el siglo XVIII.(16) En los 
+monasterios se conservó y se cultivó el saber médico precedente, pero el método 
+dogmático de la Iglesia fue un obstáculo para el desarrollo de la capacidad de 
+razonamiento de los que practicaban la medicina.(14) Los intentos por apartarse de esa 
+doctrina fueron silenciados. Uno de los casos más relevantes fue el de Rogelio Bacon 
+(1278-1292), quien descuella entre los eminentes hombres de ciencia de la época, 
+pues antepuso el experimento y el razonamiento lógico como fuentes del saber, a la 
+noción de Dios. Por plantear un nuevo entendimiento de la escolástica y de la ciencia 
+fue condenado a una larga enclaustración.(21)
+Durante la Baja Edad Media, cuando la ciencia era considerada como consecuencia, a 
+nivel humano, de un conocimiento absoluto de origen divino, el razonamiento clínico 
+no podía ser de otra manera que deductivo y todo error no podía ser más que de 
+procedimiento, puesto que el conocimiento era por definición verdadero.(21,22)
+Con el Renacimiento hubo una creciente insatisfacción con la lógica formal, que había 
+sido deformada por la Iglesia Católica, al conservar solamente el silogismo como 
+forma de razonamiento donde se olvidaron los elementos de la dialéctica contenidos 
+en la lógica aristotélica. Este rechazo tuvo su reflejo en el movimiento hacia el 
+empirismo, lo que representó un enorme impulso a la investigación científica y el 
+experimento.(18) Resultó necesaria la búsqueda de nuevos enfoques filosóficos del 
+razonamiento y la cognición: “la única alternativa viable a métodos inadecuados e 
+incorrectos de razonamiento es desarrollar métodos adecuados y correctos”.(18) La 
+MEDISAN 2019; 23(6):1171
+búsqueda de estos nuevos enfoques constituyó la premisa fundamental de los 
+filósofos modernos.
+El razonamiento clínico desde la Edad Moderna hasta la Edad 
+Contemporánea
+El período de la filosofía moderna (siglos XVII y XVIII), que se inicia con Descartes y 
+culmina con Kant, presentó como rasgos más importantes: independencia del ejercicio 
+de la razón y de la filosofía respecto a la fe y la teología; estudio del sujeto, de sus 
+estructuras y mecanismos; mayor preocupación por las cuestiones relativas al 
+conocimiento y fascinación por los resultados de las ciencias. La obra kantiana, al final 
+de este período, representa un sistema original donde se combinan racionalismo y 
+empirismo.(23)
+Durante el siglo XVII, la medicina complementó la observación de los fenómenos 
+naturales con la introducción de métodos experimentales.(24) Al filósofo inglés Francis 
+Bacon se debe que la inducción haya alcanzado la categoría de método experimental, 
+con sus propios caracteres. Bacon acepta la base dialéctica de Aristóteles para el 
+origen de las ideas que parte de lo particular a lo general y establece la inducción 
+como un verdadero método.(17)
+El principio de inducción se ha considerado durante años, como una aplicación 
+particular del razonamiento clínico. La recogida de datos clínicos y su ordenación 
+posterior permite, con mayor o menor grado de certeza, emitir un diagnóstico.(25)
+A principios del siglo XVIII, la identificación de la lesión morfológica demostrable 
+mediante la correlación entre la autopsia y los síntomas permitió concebir la 
+enfermedad como algo más que un conjunto de síntomas y signos. Surgió así el 
+método anatomoclínico, cuyos principales exponentes fueron el italiano Morgagni y el 
+francés Bichat. Esto cambió el razonamiento clínico, al dirigir la interpretación de la 
+enfermedad desde el síntoma a la lesión anatomopatológica.(16) El presupuesto teórico 
+fue que las afecciones existen dentro de un orden natural y solo requieren para ser 
+diagnosticadas, que sean reconocidas y clasificadas. A partir de este presupuesto, el 
+MEDISAN 2019; 23(6):1172
+razonamiento clínico se orientó hacia la correlación de síntomas y signos clínicos con 
+alteraciones anatómicas o fisiopatológicas, y lo denominado hasta entonces como 
+especie morbosa se convirtió paulatinamente en lesión o enfermedad.
+Con la aparición del método anatomoclínico, el razonamiento clínico pasó del 
+empirismo puro al racionalizado. El médico aspiraba a diagnosticar en vida la lesión 
+causante de la enfermedad, en consecuencia, la concepción de la lesión anatómica 
+como hallazgo de autopsia se transformó en la lesión anatómica como fundamento del 
+saber clínico.(26) Los antecedentes de dicho método se encuentran en el método 
+analítico desarrollado por Descartes para llegar a la verdad más de un siglo antes, 
+basado en la duda, el análisis, la síntesis y la comprobación. El desarrollo de este
+método analítico significó una ruptura con la línea de pensamiento anterior y 
+constituyó la base de lo que luego sería el método científico.(26)
+Existen diversas similitudes entre cómo entendió Descartes su método analítico para 
+llegar a la verdad y la forma que tuvieron los precursores del método anatomoclínico 
+para llegar al diagnóstico. Esto se reafirma en que dicho método no respondía 
+satisfactoriamente las interrogantes acerca de las causas verdaderas de la enfermedad 
+ni los mecanismos de respuesta y adaptación del organismo y su expresión en el 
+cuadro morboso. Se avanza entonces del estudio semiológico y la comprobación 
+necrópsica, que esclarecen poco el proceso patogénico, al estudio de la fisiología 
+alterada sobre una base no solo observacional sino experimental.(16,26)
+Aunque no representó una relación directa ni de causa efecto, la nueva manera 
+analítica de pensar supuso una novedad con respecto al pensamiento previo y tuvo 
+una gran repercusión en el posterior desarrollo de la medicina como ciencia.
+Resulta evidente entonces que los niveles de certeza del juicio clínico han variado en 
+dependencia del sistema de pensamiento en el cual se inserta este. Además, existe una
+marcada interrelación entre la práctica médica y la lógica como ciencia del 
+razonamiento;
+(27) pero la aplicación de la lógica formal exclusivamente es insuficiente
+para la obtención del conocimiento científico y, por tanto, para servir como único 
+sustento del razonamiento clínico. 
+La lógica formal y la dialéctica forman una unidad pero se diferencian porque aquella 
+reproduce conocimientos mientras que esta los produce.(28) De acuerdo con esta idea,
+MEDISAN 2019; 23(6):1173
+se ha planteado que la dialéctica no niega los silogismos, sino que los combina para 
+propiciar una mayor comprensión de la realidad eternamente cambiante.(18)
+El movimiento y la contradicción como bases del razonamiento pueden ser abordados 
+solamente desde la lógica dialéctica, pero en el razonamiento, las leyes de la dialéctica 
+y las de la lógica formal actúan simultáneamente. En el razonamiento clínico, como 
+forma particular del razonamiento, tienen lugar las influencias de la lógica formal y la 
+lógica dialéctica como vías para la búsqueda de la verdad, que en la práctica clínica 
+equivale a la concreción del diagnóstico del enfermo.
+A principios del siglo XIX, las influencias de la filosofía moderna propiciaron la 
+introducción en la medicina del método experimental por el fisiólogo francés Claude 
+Bernard. Desde ese momento la medicina comenzó a contar con un método 
+estructurado, en el cual los conocimientos clínicos debían basarse en hechos 
+comprobados experimentalmente.(29)
+El método científico a escala observacional y experimental se utiliza en la medicina 
+individual a través del método clínico, si se acepta que toda observación bien hecha es 
+una investigación y toda terapéutica bien diseñada es un experimento.(16) De lo que se 
+trata es de mirar terca y tenazmente el experimento espontáneo que todo paciente 
+brinda, tal como expresó Sergent, el célebre clínico francés de la primera mitad del 
+siglo XX. 
+La búsqueda de signos y síntomas patognomónicos (aquellos que, relatados por el 
+paciente, adquieren el valor epistémico de signos por el peso de su presencia y su 
+constancia) siguió siendo prioritario para el médico clínico del siglo XIX.(22)
+En la segunda mitad del siglo XIX se inicia la filosofía contemporánea como un intento 
+de superación del idealismo hegeliano. Sus principales corrientes fueron el 
+positivismo, el marxismo, el vitalismo, el existencialismo, la fenomenología y el 
+neopositivismo.
+Con los progresos del saber científico contemporáneo se impuso el materialismo 
+dialéctico a mediados del siglo XIX, como la única doctrina filosófica exacta de estos
+tiempos. La historia marxista de la filosofía enseña a dominar de un modo profundo la
+teoría y el método del materialismo dialéctico, así como a aplicarlos de modo creativo 
+en la vida y en la práctica.(21)
+MEDISAN 2019; 23(6):1174
+La concepción dialéctico-materialista modificó la teoría del conocimiento e introdujo 
+nuevos elementos en la lógica como ciencia. Entre estos elementos sobresalen: ley del 
+desarrollo aplicada al pensamiento, abstracción científica como un potente 
+instrumento para el análisis del proceso de desarrollo y análisis de la relación entre 
+esencia y fenómeno como uno de los puntos de partida del análisis teóricocognoscitivo de la relación entre lo sensorial y lo racional en la construcción del 
+conocimiento.(30)
+A partir de la segunda mitad del siglo XX se realizaron numerosos estudios sobre los 
+procesos involucrados en el razonamiento clínico, en la enseñanza de las habilidades 
+para resolver problemas y la evaluación de su adquisición.(2,12,31,32) Estos estudios han 
+propiciado un mayor conocimiento sobre la metodología del razonamiento clínico y el 
+método de trabajo básico de la medicina clínica.
+Los modelos más actuales explican el razonamiento clínico dentro de la teoría del 
+proceso dual.(31,32,33,34) De acuerdo con esta teoría existen 2 sistemas cognitivos que 
+aunque actúan por separado se relacionan entre sí: no analítico y analítico.
+El razonamiento clínico no analítico se basa en el reconocimiento de patrones 
+acumulados a través de la experiencia.(2) Representa un complejo proceso mental 
+basado en una rápida asociación a partir de los aspectos más visibles del problema 
+clínico estudiado.(31) Posiblemente se trata de la forma más simple de estructuración 
+mental de los conocimientos, en forma de guión mental de una enfermedad, en el cual 
+la hipótesis diagnóstica más probable corresponde al guión que primero aflore. 
+Por otro lado, el razonamiento clínico analítico es de uso tradicional, en el que se han 
+centrado los educadores médicos; supone un análisis cuidadoso de la relación entre 
+los síntomas, signos y diagnósticos como indicadores de la pericia clínica. Este modelo 
+utiliza el pensamiento analítico hipotético-deductivo, el cual representa un 
+acercamiento genérico que puede utilizarse en ausencia de una estructura cognitiva 
+organizada, esto facilita el diagnóstico cuando el problema médico se encuentra fuera 
+del área de la experiencia del clínico.(31)
+La teoría del proceso dual no agota la explicación del razonamiento clínico. Nuevos 
+preceptos se unen con el razonamiento basado en los sistemas computarizados y la 
+medicina basada en la evidencia que dan paso a una naciente etapa en desarrollo, con 
+MEDISAN 2019; 23(6):1175
+el predominio del razonamiento clínico cuantitativo. Un acercamiento al 
+razonamiento clínico con enfoque didáctico también contribuirá a aumentar la 
+comprensión del problema para su incorporación más efectiva en la educación 
+médica.(35)
+Conclusiones
+La descripción de las corrientes de pensamiento relacionadas con el razonamiento a 
+través del desarrollo histórico y fílosófico de la humanidad, permite enmarcar los 
+postulados del razonamiento clínico en la práctica médica y en el proceso de 
+enseñanza-aprendizaje de las asignaturas clínicas dentro de las concepciones 
+contemporáneas. 
+El razonamiento clínico ha estado condicionado por el desarrollo histórico de 
+concepciones teóricas estructuradas sobre la base del desarrollo socioeconómico de 
+cada etapa y se articula en 2 pilares esenciales: la lógica formal aristotélica y la lógica 
+dialéctica, matizados por las tendencias filosóficas predominantes en cada etapa 
+desde el mundo antiguo hasta la contemporaneidad. 
+La reflexión derivada del análisis histórico-filosófico del razonamiento clínico permite 
+comprender la necesidad de ejecutar acciones metodológicas para transformar el 
+proceso de enseñanza-aprendizaje de las asignaturas clínicas en función del 
+razonamiento clínico, lo cual parte de matices que provienen de corrientes 
+renovadoras de saberes, donde el núcleo del conocimiento se delimita en el desarrollo 
+de las estructuras internas del pensamiento, que posibilita transformaciones 
+cualitativas del sujeto que aprende, aspecto esencial en la formación médica 
+contemporánea. 

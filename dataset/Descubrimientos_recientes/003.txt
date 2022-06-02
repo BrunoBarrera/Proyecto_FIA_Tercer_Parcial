@@ -1,0 +1,43 @@
+
+La FDA aprueba la IA que ayuda a los hospitales a reducir las fracturas perdidas en un
+29%
+Margarita Colangelo
+	Co-Fundador Jthereum (39,000 seguidores)	
+Fecha de publicación: 3 de mar. de 2022
+Esta semana, la FDA aprobó el software Gleamer BoneView@ Al para detectar fracturas y lesiones esqueléticas traumáticas en los EE. UU. Esta es la primera solución en recibir la aprobación de la FDA y la CE en esta categoría. En un estudio reciente, BoneView ayudó a los hospitales a reducir las fracturas no detectadas en un 29 % y aumentó la sensibilidad en un 30 % para los exámenes con más de una fractura. En el estudio publicado por la Facultad de Medicina de la Universidad de Boston, se demostró que tiempo que reduce el tiempo de lectura. BoneView recibió la certificación de marca CE clase 2a en la Unión Europea en marzo de 2020 y ha sido ampliamente adoptado en más de 300 instituciones en 13 países.
+"BoneView puede cambiar todo sobre la forma en que se realiza la lectura de rayos X hoy en día. Los proveedores en los EE. UU. nos dicen que quieren mejorar el proceso de diagnóstico radiográfico y optimizar el manejo del paciente. Estamos encantados y orgullosos de ofrecer a los médicos y pacientes BoneView Al para este estado avance de última generación en radiología y atención al paciente".
+Christian Allouche, director ejecutivo y cofundador de Gleamer
+Debido a la gran cantidad de radiografias que deben leer los radiólogos, los pacientes a menudo tienen que esperar horas en la sala de emergencias antes de que puedan ser vistos, evaluados y recibir tratamiento. Las lesiones esqueléticas traumáticas son una de las principales fuentes de consulta en los servicios de urgencias, representando 1/3 de las visitas anuales. Los errores de interpretación de fracturas representan el 24% de los errores de diagnóstico perjudiciales en Urgencias. Las inconsistencias en el diagnóstico de fracturas son más comunes entre las 5:00 p. m. y las 3:00 a. m. debido en parte a la fatiga.
+
+Gleamer desarrolló BoneView para ayudar a los radiólogos, cirujanos ortopédicos, médicos de urgencias, reumatólogos, médicos de familia y asistentes médicos a diagnosticar fracturas en sus pacientes. BoneView detecta fracturas en imágenes de rayos X y las envía a los radiólogos para su validación final. El algoritmo es una herramienta segura, confiable, que ahorra tiempo y es fácil de usar. El algoritmo BoneView Al está autorizado para la detección y el diagnóstico asistidos por computadora por la FDA y resalta las regiones de interés con cuadros delimitadores alrededor de las áreas donde se sospecha que hay fracturas para que los radiólogos puedan priorizar la lectura de esas radiografias.
+Norte. Mås de 3500 radi610gos y médicos de urgencias ahora confian en BoneView en sus rutinas clinicas. La soluci6n ahora estå disponible en los EE. UU. directamente a través de Gleamer y a través de otras plataformas, incluidas Fujifilm, Aidoc, Ferrum
+Health, Blackford Analysis.
+
+Validaci6n Clinica
+El estudio de Gleamer, realizado entre julio de 2020 y enero de 2021, utiliz6 imågenes adquiridas en los EE. UU. de mültiples centros en instrumentos de una amplia variedad de fabricantes e involucr6 a lectores de la Facultad de Medicina de la Universidad de Boston, la Facultad de Medicina Renaissance de la Universidad de Stony Brook y el
+Hospital General de Massachusetts. Escuela Médica de Harvard.
+Un conjunto de datos de 480 rayos X fue lefdo por 24 lectores que evaluaron los rayos X con y sin IA. Para simular el escenario de la Vida real, el estudio incluy6 lectores de radiografias de la práctica clínica real para diagnosticar fracturas en sus pacientes. La precisión diagnóstica de fracturas de cada lector, con y sin asistencia de IA, se comparó con el estándar de oro. También evaluaron el rendimiento diagnóstico de la IA sola frente al estándar de oro. El modelo de IA se entrenó en un gran conjunto de datos de rayos X de varios hospitales para identificar fracturas de extremidades, pelvis, torso, columna lumbar y caja torácica.
+Resultados del estudio
+Gleamer demostró que BoneView Al puede detectar y marcar rápidamente las radiografias con fracturas positivas, lo que ayuda a los hospitales a reducir las fracturas perdidas
+• redujo la tasa de falsos negativos en las radiografias en un 29 %
+• reducción del tiempo de lectura en un 15 % en exámenes seleccionados específicamente por su dificultad
+• redujo el tiempo de lectura en 6,3 segundos por paciente.
+• proporcionó una mejora del 10,4 % en la sensibilidad de detección de fracturas
+e aumento de la sensibilidad en un 30% para exámenes con más de I fractura.
+• el rendimiento independiente para la detección de fracturas tuvo un AUC de 0,97
+• mejoró la especificidad de la detección de fracturas por parte de radiólogos y no radiólogos que involucran muchas ubicaciones anatómicas, incluidos pie/tobillo, rodilla/pierna, cadera/pelvis, mano/muñeca, codo/brazo, hombro/clavícula, caja torácica y columna toracolumbar.
+26/5/22, 20:58	FDA Clears Al That Helps Hospitals Reduce Missed Fractures By 29%
+Margaretta Colangelo
+
+26/5/22, 20:58	FDA Clears Al That Helps Hospitals Reduce Missed Fractures By 29%
+Margaretta Colangelo
+
+https://www.linkedin.com/pulse/fda-approves-gleamers-boneview-ai-software-detect-colangelo?trk=content-search-results-full-link	1/9
+
+https://www.linkedin.com/pulse/fda-approves-gleamers-boneview-ai-software-detect-colangelo?trk=content-search-results-full-link	1/9
+
+26/5/22, 20:58	FDA Clears Al That Helps Hospitals Reduce Missed Fractures By 29%
+Margaretta Colangelo
+
+https://www.linkedin.com/pulse/fda-approves-gleamers-boneview-ai-software-detect-colangelo?trk=content-search-results-full-link	1/9
+

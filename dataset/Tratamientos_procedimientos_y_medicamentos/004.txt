@@ -1,0 +1,15 @@
+Inyección para el tratamiento de la sepsis
+06 de Mayo del 2022
+* 
+Un sistema de nanopartículas, denominado D-TZP, es el transporte de la polimixicina b. Este reduce selectivamente la toxicidad para las células de mamíferos, pero conserva las propiedades antibióticas. 
+
+La sepsis y el shock séptico son afecciones potencialmente mortales que implican respuestas inflamatorias sistémicas graves. Son frecuentes en las unidades de cuidados intensivos y representan entre el 4% y el 17% de los ingresos en los países de ingresos altos, entre el 17 y el 26% de la mortalidad hospitalaria y 23.700 millones de dólares de gastos hospitalarios.
+La causa es una invasión masiva de patógenos que introducen en el sistema patrones moleculares asociados a patógenos (PAMP), como lipopolisacáridos (LPS) o lipoproteínas.  El reconocimiento de los PAMP por parte del sistema inmunitario del huésped induce la producción y liberación de citoquinas proinflamatorias, quimiocinas, especies reactivas de oxígeno y óxido nítrico, lo que genera la respuesta inflamatoria. En la sepsis, lainflamación continúa sin resolverse llevando al huésped a un círculo vicioso de hiperinflamación e inmunosupresión compensatoria.
+Actualmente se trata con antibióticos de amplio espectro y reanimación con líquidos y vasopresores con el objetivo de controlar el cuadro y apoyar las funciones de los órganos. La elevada tasa de mortalidad y la falta de éxito en los recientes esfuerzos de desarrollo de fármacos apuntan a una necesidad crítica insatisfecha de una intervención médica eficaz en el tratamiento.
+Investigadores de la Facultad de Farmacia y la Facultad de Ingeniería de la Universidad de Purdue están desarrollando un tratamiento pendiente de patente que podría solucionar esta situación. Para ello observaron un fármaco existente: la polimixina B (PMB), un péptido antimicrobiano catiónico y un potente absorbente de LPS eficaz contra la mayoría de las bacterias Gram-negativas debido a su efecto perjudicial sobre la membrana. Este se une al LPS con alta afinidad inhibiendo la señalización del receptor tipo Toll 4 (TLR4) para regular a la baja las respuestas inflamatorias agudas.
+Para contener el fármaco utilizaron nanopartículas que funcionan como una plataforma para cargar agentes terapéuticos en la superficie y ayudarlos a interactuar con los objetivos en la circulación. Además, pueden modificar la biodistribución de las cargas útiles reduciendo así la toxicidad específica de los órganos críticos.
+Sobre la base de estas características, las nanopartículas se han explorado en el tratamiento de la sepsis como una forma de secuestrar toxinas, matar bacterias y dirigirse a los neutrófilos activados o a los macrófagos. Esta, en específico, parece haber servido como una capa "parachoques" para evitar el contacto directo de la PMB con las células y ayudar a reducir el daño de la membrana.
+En modelos de sepsis en ratones, el 100% de los tratados con la nanopartícula quedaron protegidos de la inflamación excesiva y sobrevivieron.
+Fuente bibliográfica
+DOI: 10.1126/sciadv.abj1577
+

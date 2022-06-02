@@ -1,0 +1,12 @@
+Test sanguíneo de alta precisión para alzhéimer
+03 Marzo 2022	 
+Está diseñado sobre la validación del amiloide-β plasmático 42/40 que detecta las placas características de la patología. 
+La enfermedad de Alzheimer (EA) se caracteriza por la acumulación de las placas amiloides y los ovillos neurofibrilares que se desarrolla entre una a dos décadas antes que se desarrollen los síntomas.
+El reciente y rápido desarrollo de biomarcadores sanguíneos para su diagnóstico promete acelerar los ensayos clínicos y ampliar su disponibilidad. Varios grupos han informado que los ensayos de alta precisión del Aβ42/Aβ40 plasmático detectan con exactitud la amiloidosis cerebral. Algunos estudios longitudinales descubrieron que este se volvía anormal incluso antes de la PET. 
+Un análisis de sangre desarrollado en la Facultad de Medicina de la Universidad de Washington, en San Luis, ha demostrado una gran precisión en la detección de los primeros signos de la enfermedad, en un estudio en el que participaron casi 500 pacientes de tres continentes, lo que supone que la prueba debería considerarse para el cribado y el diagnóstico de rutina.
+Desarrollado por Randall J. Bateman, profesor de neurología y sus colegas, el examen evalúa si las placas amiloides han comenzado a acumularse en el cerebro basándose en la relación de los niveles de las proteínas beta amiloides Aβ42 y Aβ40.
+La evaluación de la enfermedad mediante escáneres cerebrales PET -que sigue siendo la norma de oro- tieneun costo medio de 5.000 a 8.000 dólares por escáner (entre 4.000.000 a 16.000.000 millones de pesos). Otra prueba habitual, que analiza los niveles de proteína beta-amiloide y tau en el líquido cefalorraquídeo, cuesta unos 1.000 dólares (800.000 CLP apróx), y requiere un proceso de punción lumbar que algunos pacientes no están dispuestos a soportar.
+Los resultados confirmaron que el análisis de sangre de Aβ42/Aβ40 mediante una técnica de espectrometría de masas por inmunoprecipitación proporciona resultados altamente precisos y consistentes tanto para los individuos con deterioro cognitivo, como para los que no lo tienen.
+Cuando los niveles de amiloide en sangre se combinaron con otro importante factor de riesgo -la variante genética APOE4-, la precisión del análisis fue del 88% en comparación con las imágenes cerebrales y del 93% en comparación con la punción lumbar.
+Fuente bibliográfica
+DOI: 10.1212/WNL.0000000000013211

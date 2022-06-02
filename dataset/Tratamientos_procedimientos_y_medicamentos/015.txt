@@ -1,0 +1,10 @@
+TAR temprana evita tuberculosis
+24 Febrero 2022	 
+La medicación contra el VIH administrada dos semanas después de la infección, en primates no humanos, ayudó a contener la enfermedad bacteriana latente.
+Los estudios realizados con el modelo de primates no humanos de la coinfección por Mycobacterium tuberculosis/virus de la inmunodeficiencia humana han revelado respuestas protectoras independientes de los linfocitos T CD4 que suprimen la reactivación de la infección tuberculosa latente. En particular, se correlaciona con la reactivación debida a la coinfección con el virus de la inmunodeficiencia de los simios (VIS).
+Dos semanas marcan una gran diferencia en el tratamiento de la versión animal del VIH y la tuberculosis, según informan científicos del Instituto de Investigación Biomédica de Texas. El hallazgo ayuda a entender la compleja interacción entre estas dos patologías y puede ayudar a avanzar en el desarrollo de terapias y una vacuna combinada.
+Para ayudar a estudiar lo que ocurre en los humanos, los investigadores les administraron terapia antirretroviral combinada (TARC) dos semanas después de la infección para estudiar la restauración de la inmunidad de las células T CD4  y si esto prevenía la reactivación de la TBC, en comparación, con su inicio cuatro semanas después.
+El inicio temprano de la medicación aumentó la supervivencia, condujo a un mejor control de la replicación viral y redujo la activación inmunitaria en la periferia y la vasculatura pulmonar, disminuyendo la tasa de reactivación. Se observó la presencia de T CD8 y una reducción significativa del recambio de macrófagos en el tejido pulmonar.
+Los investigadores señalan que la diferencia de dos semanas puede no aplicarse directamente a los humanos, en parte, porque es poco probable que la mayoría de las personas sean diagnosticadas y comiencen el tratamiento del VIH de manera temprana. El verdadero valor del hallazgo es identificar la activación inmunitaria crónica como el principal motor de la reactivación de la tuberculosis latente tras la infección y poder estudiar ahora los posibles mecanismos de protección.
+Fuente bibliográfica
+DOI: 10.1172/JCI153090

@@ -1,0 +1,471 @@
+ADHERENCIA TERAPÉUTICA: CONCEPTOS, DETERMINANTES Y NUEVAS ESTRATEGIAS
+RESUMEN: Antecedentes: La no adhesión al tratamiento medicamentoso es considerada un fenómeno complejo y multifactorial 
+desde los años 70. De acuerdo a esto y con el objetivo principal mejorar las tasas mundiales de adherencia a los tratamientos comúnmente usados, la Organización Mundial de la Salud (OMS) lanzó en el 2001 el Proyecto sobre Adherencia Terapéutica. A partir de este, 
+se han realizado multiples estudios en este tema con una alta variabilidad de resultados. Se realizó la revisión de recomendaciones 
+para el estudio de la adherencia terapéutica, implicaciones y consecuencias de la no adherencia, escalas que evalúan adherencia, 
+factores predictores, factores que inluyen y estrategias de intervención. Fuentes: se reviso la base de datos de Google académico 
+que identiico lo estudios sobre adherencia publicados entre los años 2014- 2016. Desarrollo: La OMS deinió la adherencia como el 
+grado en que el comportamiento de una persona se corresponde con las recomendaciones acordadas de un prestador de asistencia 
+sanitaria, en relación con la toma de medicación, el seguimiento de una dieta o la modiicación de hábitos de vida. La magnitud del 
+grado de no adhesión mundial a los tratamientos de Enfermedades Crónicas (EC) varía de 25% a 50% (incluso 30-60% en otros estudios), pero esta adhesión a tratamientos, es mucho menor en los países en vía de desarrollo por la escasez de recursos sanitarios y 
+las inequidades en el acceso a la atención de salud. Conclusión: Las intervenciones para mejorar la adherencia deben ser discutidas 
+con el paciente, considerando sus problemas y necesidades individuales.
+Palabras claves: adherencia al tratamiento, Cumplimiento de la medicación, No adhesión al Tratamiento
+
+INTRODUCCIÓN
+El concepto de la adherencia al tratamiento no es un concepto nuevo. Los autores Ortego, López y Álvarez (2004) de la 
+Universidad de Cantabria, España, reieren que es a partir de 
+los años 70 que el estudio de la adherencia adquiere un mayor 
+interés empírico. A partir de ese año se ponen de maniiesto una 
+serie de consecuencias negativas asociadas al incumplimiento 
+de las prescripciones de medicamentos. Éstas se pueden agrupar en cuatro áreas: incrementos en los riesgos, morbilidad y 
+mortalidad; aumento en la probabilidad de cometer errores en el 
+diagnóstico y tratamiento; crecimiento del coste sanitario (costo 
+en servicios de salud); y desarrollo de sentimientos de insatisfacción y problemas en la relación que se establece entre el 
+profesional de salud y el cliente.5
+Un asunto de importancia por muchos años en la comunidad médica internacional ha sido, sobre quién recae la responsabilidad de que un tratamiento prescrito sea efectivo o no, 
+señalando al cliente como el único responsable de que el tratamiento para su enfermedad sea exitoso o no. A pesar de que 
+la no adherencia es una práctica común, es poco detectada por 
+los profesionales de salud, ya que es una conducta difícil de medir debido a los diversos factores que inluyen sobre ella. 
+De acuerdo con la Organización Mundial de la Salud (OMS), la 
+medición y evaluación de la adherencia terapéutica, es una necesidad continua, que permite la planiicación de tratamientos 
+efectivos, eicientes y de calidad. 5, 24.
+El incumplimiento terapéutico o falta de adherencia al tratamiento es un problema prevalente y relevante en la práctica 
+clínica, que tiende a aumentar y es especialmente frecuente en 
+personas con enfermedades crónicas7
+, por tal razón se ha considerado presentar la siguiente revisión del tema.
+ADHERENCIA A TRATAMIENTO MÉDICO
+La OMS deinió en el 2004 la adherencia como el grado 
+en que el comportamiento de una persona se corresponde con 
+las recomendaciones acordadas de un prestador de asistencia sanitaria, en relación con la toma de medicación, el seguimiento de una dieta o la modiicación de hábitos de vida. Este 
+enfoque resalta tanto la participación activa del paciente como 
+la responsabilidad del profesional sanitario para crear un clima 
+de diálogo que facilite la toma de decisiones compartidas, por 
+tanto, la evaluación de la adherencia debe incluir no solo la 
+toma de los medicamentos en los horarios y dosis prescritas 
+por el médico tratante, sino también la asistencia a las citas de 
+control en los servicios de salud, la realización de exámenes 
+médicos y el logro de estilos de vida saludables, que incluyen 
+la práctica de actividad física regular, alimentación saludable, la disminución o abstinencia del consumo de alcohol y cigarrillos entre otras.1-9
+En este sentido, otros autores consultados, como Haynes 
+y Sackett concuerda en una deinición más simpliicada, describiendo la adherencia como el grado de coincidencia del comportamiento de un paciente en relación con los medicamentos 
+que ha de tomar, el seguimiento de una dieta o los cambios 
+que ha de hacer en su estilo de vida con las recomendaciones 
+de los profesionales de la salud que le atienden; Martín Alfonso, descompone la adherencia al tratamiento y la conceptualiza 
+como un comportamiento complejo con carácter de proceso, 
+conformado por una estructura y dinámica interna, que integra 
+un componente personal y uno comportamental propiamente 
+dicho del paciente, además de un componente relacional en el 
+que se encuentra implicado el profesional de salud, dirigidos al 
+logro de un resultado beneicioso para la salud.2,5,10
+Martin (2006) expone sobre la adherencia deiciente como: 
+la diicultad en iniciar el tratamiento dado, suspensión temporaria o abandono de los medicamentos o terapias prescritas, 
+errores en la omisión de las dosis de los medicamentos, equivocarse al ingerir los medicamentos en las horas y/o dosis indicadas, no modiicar su estilo de vida necesario para mejorar en su 
+estado de salud física o emocional, y posponer el hacerse las 
+pruebas médicas indicadas, entre otros.5
+Se reconoce así, el comportamiento terapéutico como la 
+búsqueda de atención médica, conseguir el medicamento recetado, tomar la medicación de forma apropiada, cumplir con 
+las consultas de seguimiento y ejecutar las modiicaciones pertinentes, desde la higiene personal hasta el autocuidado, entre 
+otros, por lo cual se considera un proceso complejo. Si bien es 
+cierto que los fármacos son eicaces si se toman sistemática y 
+adecuadamente, según lo encontrado en este trabajo y mencionado en otros estudios, la adherencia no consta solamente 
+de la ingesta, sino de prácticas sanitarias, atención psicológica, odontológica y nutricional, entre otras cuestiones importantes.4,11
+
+Es importante diferenciar la adherencia del cumplimiento 
+puesto que éste último está centrado en la propuesta del profesional de la salud y la obligación pasiva del paciente, por el 
+contrario, la adherencia es un proceso mucho más dinámico y 
+es el resultado de conductas o acuerdos a los que el profesional 
+llega con el paciente.5-8
+La no adhesión al tratamiento medicamentoso en las Enfermedades Crónicas (EC), comúnmente veriicada por la prueba de Morisky-Green-Levine, entre otras descritas más adelante en esta revisión, es considerada un fenómeno complejo y de 
+múltiples factores, asociado a bajos niveles socioeconómicos, 
+prescripción de esquemas terapéuticos complejos e insatisfacción con el servicio de salud, factores que prevalecen en la población con hipertensión arterial sistémica (HAS).5,12,13
+Una forma sencilla de clasiicar la falta de adherencia terapéutica según los autores puede ser la siguiente: 5
+1. Primaria: se reiere cuando la prescripción médica no se 
+retira de la farmacia. 
+2. Secundaria: cuando se alteran la dosis correctas de los 
+medicamentos, el cambio en los intervalos de las dosis, 
+el olvido en la administración del fármaco, un aumento en 
+la frecuencia de las dosis o la suspensión del tratamiento 
+antes del tiempo recomendado.5-8.
+RECOMENDACIONES PARA EL ESTUDIO DE LA ADHERENCIA TERAPEÚTICA.
+Existe acuerdo en considerar la importancia de la medición periódica del cumplimiento terapéutico, ya que hay distintas modalidades de incumplimiento farmacológico, en función 
+de cuándo decide el paciente dejar de tomar la medicación. 
+Por un lado, es posible que el paciente ni siquiera comience 
+a tomar la medicación, o puede comenzar a tomarla del modo 
+adecuado pero al cabo de un tiempo abandonarla prematuramente.14.
+El grado de adherencia varía de acuerdo al tipo de estudio, 
+a la población, así como a los métodos utilizados para calcularla. Una de las recomendaciones de la OMS es que los estudios 
+deben centrarse en áreas importantes como los indicadores de 
+calidad de vida relacionada con la salud (CVRS) ya que debido 
+a la falta de indagación en este aspecto, el fenómeno de adherencia pasa desapercibido dentro de las políticas y los programas de salud; de manera que es pertinente describir si los 
+niveles de adherencia al tratamiento tienen o no una inluencia 
+o asociación signiicativa con la CVRS.12,13,15,16.
+La CVRS es un subconjunto de la calidad de vida, y hace 
+referencia al impacto de la enfermedad y el tratamiento, en la 
+percepción de bienestar de la persona, y, desde ese punto de 
+vista, la satisfacción con el tratamiento es una característica básica de la adherencia, lo que evidencia una posible relación teórica, ya que ambos conceptos son multidimensionales y están 
+relacionados con la persona. El cumplimiento farmacológico y la 
+adherencia constituyen uno de los pilares básicos para que los 
+tratamientos actualmente disponibles sean efectivos 8,11,17. 
+En los niños los responsables del tratamiento son los cuidadores primarios, del apego al tratamiento y de las decisiones 
+que se den en torno al mismo. Debe tomarse en cuenta la opinión de los niños, defendiendo su derecho a ser escuchados 
+y a hacer valer su autonomía, evaluando en conjunto con el 
+personal de salud la capacidad de decisión que el menor tiene 
+sobre sus tratamientos.11.
+En relación a la adherencia es importante hacer referencia 
+al término de la autoeicacia, el cual se relaciona con la voluntad y la capacidad de las personas para inluir activamente en 
+diversas conductas de la vida cotidiana, especíicamente en los 
+comportamientos de prevención y manejo de enfermedades y 
+condiciones crónicas. La autoeicacia es una variable mediacional que se relaciona con los comportamientos saludables, la 
+adherencia al tratamiento y la disminución de los síntomas físicos y psicológicos. Altos niveles de autoeicacia se relacionan 
+con estados de ánimo más positivos, condiciones de salud más 
+favorables, menor cantidad de síntomas de distrés psicológico y 
+mayor cumplimiento de las prescripciones médicas. En cambio, 
+los bajos niveles de autoeicacia se relacionan con el distrés psicológico, el afecto negativo y la disfunción comportamental, 
+especialmente en pacientes crónicos.18
+La magnitud del grado de no adhesión mundial a los tratamientos de Enfermedades Crónicas (EC) varía de 25% a 50% 
+(incluso 30-60% en otros estudios), pero esta adhesión a tratamientos, es mucho menor en los países en vía de desarrollo 
+por la escasez de recursos sanitarios y las inequidades en el 
+acceso a la atención de salud. En el caso del Tratamiento Antirretroviral de gran actividad (TARGA), la prevalencia de la adherencia terapéutica es un proceso complejo que está inluido por 
+múltiples factores relacionados con el paciente, la enfermedad, 
+el fármaco, el entorno y el médico.1,5,7,18,19.
+La variabilidad del grado de adherencia se da en relación 
+al tipo de enfermedad: 70% en asmáticos, 50% en hipertensos, 
+diabéticos y dislipidémicos, 30-40% en enfermedades agudas 
+entre otras. En otros estudios se detectó una mayor adhesión al 
+tratamiento antihipertensivo entre los pacientes cuyo diagnóstico data desde hace menos de 5 años (55%), que iniciaron el 
+tratamiento desde el momento del diagnóstico (81%).20,21
+Estudios describen que los pacientes diabéticos controlados con hipoglicemiantes orales presentan un porcentaje de 
+falta de adherencia de 30-51% y los pacientes controlados con 
+insulina, cerca de un 25%.14
+
+IMPLICACIONES Y CONSECUENCIAS DE LA NO ADHERENCIA TERAPÉUTICA Y ADHERENCIA DEFICIENTE
+El incumplimiento terapéutico constituye un problema sanitario de primer orden que afecta directamente a los pacientes, 
+independientemente de su edad y de su situación clínica.14
+La conducta de no adherencia terapéutica o una adherencia deiciente tiene como resultado:5
+1. Aumento en los costos médicos.
+2. El número de análisis de laboratorios innecesarios.
+3. El cambio en las dosis o en los tipos de medicamentos.
+4. Los cambios en los planes de servicio de rehabilitación o 
+tratamiento que debe hacer el profesional.
+5. Las visitas continuas del cliente a las salas de emergencia.
+6. Las hospitalizaciones recurrentes.
+7. El deterioro de la salud.
+8. El surgimiento o la exacerbación de los problemas emocionales.
+9. En casos severos la muerte del Paciente.
+Los efectos de la no adherencia terapéutica repercuten en 
+los aspectos clínicos, psicosociales y económicos de las personas que requieren tratamientos prolongados. El aspecto económico, se maniiesta en los gastos por concepto de pérdida económica por ausentismo laboral secundario a su condición con 
+la consecuente repercusión en la productividad de su puesto de 
+trabajo, pérdidas en la economía familiar y gastos adicionales 
+que se representan en reingresos hospitalarios o interconsultas 
+y exámenes adicionales.23
+Los pacientes con mala adherencia a la medicación presentan más enfermedades médicas concomitantes y mayor 
+prevalencia de síntomas somáticos. Además, generan una mayor utilización de los servicios de salud.9 La proliferación de 
+presentaciones comerciales diferentes podría estar relacionada 
+con errores y diicultar la adherencia al tratamiento.10
+La no adherencia reduce los beneicios del tratamiento, 
+sesga la evaluación clínica de la eiciencia del tratamiento, conlleva a la prescripción de dosis de medicamentos más altas y, 
+en algunos casos, la prescripción de medicamentos que no son 
+necesarios.8, 23.
+La falta de conciencia de la enfermedad es el factor no 
+farmacológico principal que puede diicultar la adherencia terapéutica de los clientes, también se considera que la falta de 
+apoyo familiar y/o social, así como el consumo de sustancias 
+tóxicas (drogas y/o alcohol).5
+ESCALAS QUE EVALUAN ADHERENCIA A TRATAMIENTO
+Las escalas utilizadas para evaluar el cumplimiento del 
+tratamiento sobre todo en salud mental atienden en términos 
+generales, a tres ámbitos: conciencia de enfermedad o insight, 
+actitud hacia los fármacos y tolerabilidad (especialmente a los 
+efectos adversos de la medicación).17
+
+La OMS (2004) asegura que no existe un “patrón de oro” 
+para medir la adherencia y que, aunque se han aplicado variedad de estrategias, “todas tienen inconvenientes para evaluar 
+los comportamientos de adherencia terapéutica”. “Un enfoque 
+multi-métodos constituye la medición más avanzada del comportamiento de adherencia terapéutica”.9
+1. Cuestionario de No Adhesión de Medicamentos del 
+Equipo Qualiaids (CAM-Q): abarca tres diferentes dimensiones del constructo referentes a la adhesión (toma de la 
+dosis, comportamiento en lo que se reiere a la medicación 
+y resultado clínico).12
+2. Cuestionario de Adherencia a la Medicación Simpliicado (Simpliied Medication Adherence Questionnaire, SMAQ). Utilizado para medir el nivel de adherencia al 
+Tratamiento antirretroviral de gran actividad (TARGA). Se 
+deine como paciente adherente al que obtiene una puntuación superior al 85% de cumplimiento en las visitas 1 a 
+6, recogido con el cuestionario.7,16,17
+3. Cuestionario MBG (Martín Bayare Grau). Este es un 
+cuestionario cubano, genérico para la medición de la adherencia al tratamiento, consta de 3 categorías (Cumplimiento del tratamiento, Implicación personal y Relación 
+transaccional) y 12 ítems con escala tipo Likert de 0 a 4 
+puntos. Clasiica los niveles de adherencia así: total de 38 
+a 48 puntos, parcial de 18 a 37 puntos y no adheridos de 0 
+a 17 puntos.2,13,19
+4. El test de Morisky-Green-Levine: es un método indirecto de valoración del cumplimiento terapéutico y empleado 
+con frecuencia en enfermedades crónicas. Consta de 4 
+preguntas con respuesta dicotómica que pretende valorar 
+si el paciente adopta actitudes correctas en relación con el 
+tratamiento (se considera cumplidor si responde de forma 
+correcta a las 4 preguntas. Presenta una alta especiicidad, 
+alto valor predictivo positivo, escasos requisitos de nivel 
+sociocultural para su comprensión y es económico. Entre 
+sus desventajas podemos citar su bajo valor predictivo 
+negativo, baja sensibilidad y que tiende a sobreestimar el 
+cumplimiento.7,10,14,21
+5. El test de Batalla: evalúa el grado de conocimiento del 
+paciente sobre su enfermedad, asumiendo que el mayor 
+grado de conocimiento sobre su patología implica un mayor grado de cumplimiento. Dentro de sus ventajas están 
+que es un método con buena sensibilidad, breve, comprensible, económico y muy fácil de aplicar. Como desventaja 
+se tiene baja especiicidad y exactitud media, tendiendo a 
+sobrestimar el cumplimiento.7,21 
+6. Escala de Miller para Medición de Adherencia Terapéutica en Pacientes con Enfermedades Cardiovasculares: Validada en Chile, informa sobres cinco aspectos 
+considerados en las indicaciones de las enfermedades 
+cardiovasculares (seguimiento de la dieta, limitación del 
+consumo de tabaco, seguir actividades prescritas, toma de 
+medicamentos y manejo del estrés) propuestos en cuatro 
+enunciados, que indagan el cumplimiento en casa, trabajo, 
+actividades recreativas y sociales. El puntaje luctúa de 20 
+a 100. A medida que aumenta el puntaje, mayor es la adherencia terapéutica.24
+7. Otros métodos: Escala de Medición de Adherencia (ITASM), Cuestionario de Porcentaje de Ingesta de Drogas, Vigilancia Electrónica, Parámetros bioquímicos y isiológicos.7
+FACTORES EN LA NO ADHERENCIA TERAPEÚTICA
+Estudios abordan la adherencia al tratamiento desde un 
+enfoque basado en los factores ambientales y los individuales 
+relacionados con el paciente.25,26
+La Organización Mundial de la Salud (OMS) describe la 
+adherencia al tratamiento como un comportamiento complejo 
+del paciente inluido por múltiples factores clasiicados en 5 dimensiones.5,8,9,14,27
+1. Factores socioeconómicos 
+El estado socioeconómico deiciente, la pobreza, el analfabetismo, el bajo nivel educativo, el desempleo, la falta de redes 
+de apoyo social, las condiciones de vida inestables, la lejanía 
+del centro de tratamiento, el costo elevado del transporte público, el alto costo de los medicamentos, las situaciones ambientales cambiantes, la cultura y las creencias populares acerca de 
+la enfermedad y el tratamiento, la disfunción familiar y algunos 
+factores socio demográicos como la edad y la raza son factores 
+que tienen un efecto considerable en la adherencia.5
+La instrucción educativa dentro de programas de rehabilitación se ha probado, mejora la técnica y la adherencia al 
+tratamiento en un porcentaje importante de pacientes.28 Cuanto mayor es el grado de conocimiento del paciente sobre su 
+enfermedad, mayor es el compromiso con el autocuidado y la 
+adhesión al tratamiento. 1 Los años de estudio se asociaron al 
+seguimiento de la toma de medicamentos, a medida que aumenta la escolaridad, aumenta el puntaje de adherencia en la 
+toma de medicamentos, se observó un aumento de la proporción de no adherencia en áreas cuya población tiene primaria 
+incompleta.12,18,21,23,26
+Las áreas con mayor proporción de población que no realizaba aportes jubilatorios, ni le descontaban aportes jubilatorios, 
+presentaron proporción más elevada de no adherencia al tratamiento; También existen estudios previos que han relacionado 
+la condición de pensionista con el incumplimiento Esta situación también se observó en las áreas con mayor proporción de 
+hogares con Necesidades Básicas Insatisfechas (NBI) según 
+capacidad de subsistencia y en las áreas con mayor proporción 
+de viviendas que no contaban con un servicio de transporte público a menos de 300 m de la vivienda. Respecto a la edad, los 
+resultados son coincidentes con los de estudios previos mostrando una relación entre la presencia de incumplimiento y una 
+menor edad.25,26 
+Se ha realizado múltiples estudios sobre la adherencia 
+al tratamiento de TB, en el cual a pesar que este es un tratamiento gratuito existe bajo nivel de adherencia y sugiere que 
+existen otros factores asociados a la no adherencia. Hay otras 
+características de la población asociadas a una mayor proporción del abandono, estas se relacionan con mayor situación de 
+vulnerabilidad socioeconómica en los hogares, con una mayor 
+precariedad laboral, con menores niveles de educación formal 
+del jefe de hogar y con menor proporción de ocupados por hogar. Las áreas con mayor proporción de individuos con empleos 
+sin protección social tienen mayor porcentaje de no adherencia. 
+Así, el empleo reduce la capacidad de cumplir con el tratamiento en contextos de alta informalidad, adherencia a la dieta y 
+de bajo nivel de ingresos sin protección social, ya que para los 
+pacientes implica la pérdida de días laborales y por ende de 
+ingresos básicos. En el estudio de Galiano & Montesinos, el 
+mayor abandono del tratamiento también estuvo asociado a la 
+condición de ser varón, empleado y sin protección social.23,26
+2. Factores relacionados con la atención médica 
+La OMS explica que entre los factores relacionados con el 
+equipo de asistencia sanitaria que ejercen un efecto negativo 
+en la adherencia, están: “sistemas deicientes de distribución 
+de medicamento, proveedores de asistencia sanitaria recargados de trabajo, falta de incentivos y retroalimentación sobre el 
+desempeño”.9
+Desde esta perspectiva los factores relacionados con la 
+atención medica incidentes en la adherencia al tratamiento son: 
+el efecto negativo que puede tener el que los servicios de salud 
+en general recibidos sean deicientes, la inexistencia de un seguro o plan médico, la falta de conocimiento o adiestramiento 
+del equipo de los profesionales de la salud sobre el manejo y 
+control de las enfermedades crónicas, el poco personal profesional disponible para atender a los clientes, recargándolos de 
+trabajo y teniendo como consecuencia que las consultas médicas sean breves. Así como, la poca capacidad del sistema de 
+salud para que los profesionales puedan educar a los clientes 
+sobre su enfermedad y el auto cuidado. Finalmente, hay que 
+REYES FLORES EN, ET AL.
+REV MED HONDUR, Vol. 84, Nos. 3 y 4, 2016 129
+ADHERENCIA TERAPÉUTICA
+mencionar la falta de conocimiento de los profesionales sobre 
+la conducta de la adherencia del tratamiento.5
+Razones relacionadas con el profesional sanitario como la 
+falta de tiempo en la comunicación médico-paciente, constituye 
+un motivo para el abandono del régimen terapéutico. La relación establecida entre profesionales y pacientes en el proceso 
+de la adherencia al tratamiento (componente relacional) pudiera 
+contribuir en mayor medida a la misma.6,7,19
+3. Factores relacionados con la enfermedad o condición del paciente 
+Esta área se relaciona a las exigencias particulares de la 
+enfermedad que aqueja al cliente. Destacan la gravedad de los 
+síntomas, el grado o severidad de la discapacidad (física, psicológica, social y vocacional), el progreso de la enfermedad y la 
+disponibilidad de tratamientos efectivos.5
+Las enfermedades que transcurren sin síntomas molestos, 
+como ser las enfermedades crónicas, suelen presentar tasas de 
+adherencia muy bajas.15
+Algunos factores psicológicos, como pueden ser el estrés y 
+la ansiedad no inluyeron en la adherencia, pero sí la depresión; 
+la cual fue el único factor asociado signiicativamente con mala 
+adherencia al tratamiento farmacológico. Un mejor efecto percibido del tratamiento sí está signiicativamente relacionado con 
+la adherencia terapéutica y de esta forma los pacientes experimentan una mejora de la sintomatología depresiva.7,17
+4. Factores relacionados con el tratamiento 
+La complejidad del régimen médico, la duración del tratamiento, los fracasos de tratamientos anteriores, los cambios 
+frecuentes en el tratamiento, los efectos secundarios, la mejoría 
+de síntomas, el olvido, el número de medicamentos prescritos, 
+conocimientos sobre el tratamiento, duración del mismo y cobertura y coste de la medicación.5,7,9,10,15,16,23
+Las tasas más altas de no adherencia al tratamiento se 
+producen cuando el tratamiento se realiza en el medio extrahospitalario. La prescripción por principio activo supone un factor 
+de confusión para los ancianos, así como las vías de administración incomodas (vía rectal e intramuscular).7,15,20
+Se ha comprobado que los regímenes de medicación 
+mono dosis dan lugar a mejores tasas de adherencia que los 
+regímenes multidosis. 5.
+El no recibir las dosis prescritas es una de las causas más 
+frecuentes de falta de adherencia.15
+5. Factores relacionados con la autonomía del paciente.
+Los factores psicológicos y no los cognitivos, más las opciones de tratamiento que se le presenten al paciente. Son las 
+variables que determinarán la adherencia al tratamiento: negación, el temor a la dependencia en otros, la ansiedad provocada 
+por el complejo régimen de medicamentos y el sentirse estigmatizado por la enfermedad.5,20
+En un estudio realizado en Málaga, España en el año 2014 
+se observó que la adherencia fue de un 54,5% en los pacientes 
+que viven acompañados frente a un 42,4% en los que viven solos. Los pacientes que presentaron riesgo de ansiedad tuvieron 
+menor adherencia respecto a los que no lo presentaron. En el 
+análisis posterior, se conirmó la relación entre falta de adherencia y las variables residencia, tipo de convivencia y riesgo 
+de ansiedad.10
+La OMS ha encontrado que la no frustración de los pacientes con respecto a la atención del personal de salud es un factor 
+que contribuye con la adherencia a los tratamientos.9
+Aunque no se comprende cómo estos factores interactúan 
+en la adherencia, hay constancia de que los siguientes inluyen 
+en ella: los recursos disponibles que el paciente tiene, sus actitudes, sus creencias, el conocimiento, las percepciones y las 
+expectativas de éste acerca de su enfermedad. Igualmente, la 
+motivación del paciente para buscar y continuar con el tratamiento, la autoeicacia, las expectativas con respecto al resultado, el estrés psicosocial, la angustia por los efectos adversos, el 
+conocimiento y la inadecuada habilidad para controlar los síntomas de la enfermedad, las creencias negativas con respecto 
+a la efectividad del mismo, la incredulidad en el diagnóstico, el 
+no interpretar bien las instrucciones, la baja asistencia a citas 
+de seguimiento, la desesperanza, el temor a la dependencia 
+en otros.5
+Aspectos como la estigmatización y discriminación que sufren los pacientes pueden llevarlos a un deterioro de las relaciones humanas y la pérdida del interés por la salud. La estigmatización social que reciben las mujeres es otro factor que impide una 
+adecuada adhesión. El apoyo de la pareja también resulta importante para mantener un buen nivel de adhesión. En cuanto mayor 
+sea el cuidado y la estima de sí mismo, mayor será el apego al 
+tratamiento en las personas que por su condición de fragilidad o 
+vulnerabilidad suelen tener más complicaciones de salud.6,11
+A pesar de conocer lo que debe ser hecho, los pacientes 
+no actúan de conformidad con ese conocimiento, ya que en 
+cuanto el conocimiento es racional, la adhesión es un proceso 
+multifactorial inluenciado por factores emocionales, sociales, 
+biológicos y culturales.7,12
+FACTORES PREDICTORES DE BAJA ADHERENCIA TERAPEUTICA
+Los predictores más relacionados son: falta de conocimiento de la patología y de las consecuencias del incumplimiento del 
+tratamiento isioterapéutico, percepción de falta de seguimiento 
+por parte del profesional, creencias y percepciones propias de 
+su tratamiento.8
+Los predictores demográicos evaluados con mayor frecuencia ligados a la falta de adherencia fueron la edad, el género, nivel socioeconómico y de estudios, estado civil, la raza y 
+la situación laboral.7
+En cuanto a la raza, parece que en los afroamericanos la 
+adherencia es signiicativamente menor. La situación psicológica: la adherencia es mucho menor en pacientes depresivos o 
+con alteraciones del humor. La edad predice patrones de adhesión, siendo los jóvenes los menos adherentes; las personas 
+130 REV MED HONDUR, Vol. 84, Nos. 3 y 4, 2016
+entre los 61 y 70 años son los que más adherencia presentan aunque otros estudios no hacen diferencia entre ellos, en 
+este caso los factores determinantes para la falta de adhesión 
+al tratamiento, en ambos sexos, fue el olvido de la toma de la 
+medicación por parte del paciente y la no medicación cuando 
+el paciente se encontraba bien, aunque en otros estudios, los 
+grupos con mejor nivel de adherencia son los de 61 a 65 años y 
+66 a 70 años (62 y 63 % respectivamente) y aquellos con menor 
+nivel de adherencia estaban entre los rangos de 51 a 55 años, 
+con un 5 % del total para esa edad.13, 21
+La mayoría de los estudios mostraron que no hay diferencia signiicativa en cuanto al género, aunque suelen ser más adherentes las mujeres. En estudio de cohorte en el departamento 
+de atención primaria y salud familiar de la Universidad de Chile, 
+se encontró que la adherencia al tratamiento farmacológico fue 
+de 36.3% (186/513) para todo el grupo, superior en mujeres 
+(38.4% vrs 28.9%). El bajo ingreso familiar y nivel educacional, 
+y el sexo masculino se relacionaron con el riesgo de no adherencia.7,13,27
+Un resultado es que las tasas de adhesión se deterioran 
+con el tiempo. A mayor cronicidad de tratamiento, menor grado 
+de adhesión.15
+FACTORES QUE INFLUYEN EN LA BAJA ADHERENCIA
+Dentro de estos se incluyen los nivel intra e interpersonal. 
+Las primeras hacen referencia a la falta de compromiso y de 
+motivación por parte del paciente, la percepción de bienestar, 
+la aceptación de reglas, la creencia en el tratamiento y en la 
+capacidad de realizar las tareas prescritas, la tolerancia al dolor 
+y las alteraciones emocionales. Dentro de las barreras interpersonales, los autores incluyen la falta de apoyo familiar o isioterapéutico. 8.
+Algunos investigadores identiican entre los moduladores 
+de la adherencia terapéutica al apoyo social. Esta variable psicosocial ha sido abordada como factor de relevante impacto en 
+la calidad de vida de los enfermos crónicos, en la vulnerabilidad 
+al estrés, el ajuste y aceptación de la enfermedad y otros aspectos del proceso salud enfermedad.6,7,18,20,24
+ESTRATEGIAS DE INTERVENCION PARA MEJORAR LA 
+ADHERENCIA TERAPEÚTICA
+La adherencia terapéutica debe verse como una forma de 
+comportamiento del paciente y no como una patología que se 
+debe curar y es importante que esta conducta sea enfocada en 
+el paciente y no en el médico, así como diferenciar si esta es 
+intencional o no.5
+Los profesionales sanitarios, y especialmente los médicos 
+de atención primaria, deben conocer el fenómeno de la falta de 
+adherencia, detectarlo y averiguar sus causas, así como tener 
+recursos para poder intervenir eicazmente en los pacientes. 
+Por tanto son los médicos y el personal de enfermería en el nivel de atención primaria, los principales profesionales sanitarios 
+involucrados en actuar sobre aquellos pacientes en los que no 
+se alcancen los objetivos terapéuticos preijados, comenzando 
+por considerar lo siguiente:14
+• No culpabilizar.
+• Individualización de la intervención.
+• Fortalecimiento de la relación.
+• Participación de distintos profesionales.5
+Estrategias de intervención: 
+• Intervenciones simpliicadoras del tratamiento
+• Intervenciones educativas.
+• Intervenciones de apoyo familiar/social.
+• Intervenciones de refuerzo conductual.5
+Un primer paso siempre necesario es valorar la presencia 
+de posibles factores predictores de falta de adherencia a posteriori, tales como insuiciente conocimiento del paciente de la 
+enfermedad.
+Entender los determinantes psicológicos que ayudan a 
+mejorar la adherencia terapéutica y que están en relación con 
+aspectos propios del paciente.1
+Las diicultades en el cumplimiento de las recomendaciones pueden estar ligadas mayormente a la relación transaccional, a ese vínculo que se genera entre el profesional de la salud 
+y el paciente, más que en la motivación propia. En el caso de 
+Baez et al., su estudio concluye que el manejo de la adherencia 
+por un equipo multidisciplinario inluye de manera positiva en el 
+mejoramiento de la calidad de vida de los pacientes, y que la 
+intervención personalizada constituye una herramienta básica 
+para conseguir tal propósito.13
+Darle al paciente instrucciones claras y escrito sobre cómo 
+y cuándo debe administrarse el tratamiento. Informar del tratamiento no solo al paciente, sino también a otra persona próxima 
+a este, que pueda ayudarle. Seleccionar la forma de administración más apropiada. Realizar revisiones periódicas de los fármacos que estén utilizando, brindar información a los pacientes 
+sobre su enfermedad y los tratamientos en general mejora la 
+adherencia, asimismo, eleva la satisfacción de los pacientes y 
+mejora los resultados o hallazgos en salud. Existen estudios 
+que demuestran que los pacientes con mayor satisfacción con 
+la información recibida sobre sus medicamentos mejoran la adherencia a los tratamientos en general.15,16
+Una intervención especíica eiciente, que sirva en todos 
+los casos, posiblemente requiera de la combinación de varias 
+estrategias (llamadas telefónicas, recordatorios, seguimiento 
+estrecho, auto monitorización supervisada, terapia familiar, terapia psicológica, etc.)
+Algunos estudios sugieren que modalidades de cuidado 
+integrado que incluyan técnicas psicoterapéuticas cognitivoconductuales y de entrevista motivacional podrían tener mayor 
+beneicio en el control de enfermedades crónicas.3
+CONCLUSIONES
+Las intervenciones para mejorar la adherencia deben ser 
+discutidas con el paciente, considerando sus problemas y necesidades individuales. Recomendaciones a tener en cuenta son:
+• Si un paciente presenta falta de adherencia, indagar si es intencionada o no.
+• Analizar las creencias y preocupaciones del paciente sobre su 
+medicación.
+• Realizar intervenciones dirigidas a los problemas especíicos: sugerir a los pacientes que lleven un registro de las 
+tomas de la medicación, simpliicar el régimen posológico, 
+utilizar pastilleros o similares, etc.
+• Si se producen efectos adversos, hablar con el paciente 
+sobre los mismos, los efectos a largo plazo de la medicación, las preferencias del paciente a la hora de manejar los 
+efectos adversos, considerar el ajuste de dosis, el cambio 
+a otro medicamento y otras estrategias.
+• Preguntar al paciente si el coste de la medicación le supone un problema, y considerar opciones para reducirlo.1
+En línea con los estudios publicados, destaca con altos 
+porcentajes de acuerdo que el cumplimiento terapéutico puede incrementarse con el establecimiento de una adecuada relación profesional sanitario-paciente, la importancia del papel 
+conjunto entre el médico/enfermera y el cuidador principal del 
+enfermo, la necesidad de contar con fármacos que se toleren 
+mejor, y que el paciente disponga de suiciente información sobre la enfermedad, entre otros. La educación del paciente es 
+un factor clave que debe ser combinada con intervención es 
+motivacionales centradas en producir cambios signiicativos en 
+el comportamiento del paciente con relación a su enfermedad y 
+su tratamiento.14
+Por último, los profesionales sanitarios debemos ser conscientes del nuevo paradigma en relación con el manejo de las 
+enfermedades crónicas, que es considerar el papel central y relevante que tiene el paciente y su entorno (familia, comunidad) 
+como copartícipe y responsable del manejo de su enfermedad. 
+El paciente activo, informado y participativo en la toma de decisiones terapéuticas es un buen aliado para lograr un grado 
+de adherencia óptimo para conseguir los resultados en salud 
+deseados.1

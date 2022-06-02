@@ -1,0 +1,254 @@
+Introducción a la Medicina Familiar 
+Autor. Prof. Gabriel Battistella 
+1. Definición y concepto de Medicina. 
+La medicina ha sido definida corrientemente como "la ciencia que tiene por objeto la conservación y el restablecimiento de la salud"  o "el arte de prevenir, cuidar y asistir en la curación de la enfermedad", o finalmente, "la ciencia de curar y precaver las enfermedades" (1). 
+Desde el tiempo de la Grecia clásica se ha pensado que los dos objetivos de la medicina son conservar la salud y curar las enfermedades. De allí las dos hijas del dios Esculapio, Hygieia y Panacea. Hygieia era la diosa de la conservación de la salud, mientras que Panacea lo era de la curación de las enfermedades. De sus nombres han derivado las palabras higiene y panacea; esta última para dar a entender "un medicamento que se supone eficaz para curar diversas enfermedades". Más recientemente, Claude Bernard (2), en su  obra "Introducción a la Medicina Experimental", propone también que los dos objetivos de la medicina son "conservar la salud y curar las enfermedades".   
+También se puede definir a la medicina como el conjunto de conceptos, procedimientos y recursos materiales, con los que se busca prevenir y curar las enfermedades. 
+7: 1-3 7.Frank JD. Persuation and healing. A comparative study of psychotherapy. Baltimore: The Johns Hopkins University Press; 1974.p.137-51. 
+ 
+2. Evolución del pensamiento científico  
+ 
+Paradigmas 
+ 
+El concepto de paradigma (un vocablo que deriva del griego paradeigma) se utiliza en la vida cotidiana como sinónimo de “ejemplo” o para hacer referencia a algo que se toma como “modelo”. A partir de la década del ?60, los alcances de la noción se ampliaron y „paradigma? comenzó a ser un término común en el vocabulario científico y en expresiones epistemológicas cuando se hacía necesario hablar de modelos o patrones. 
+Una de las primeras figuras de la historia que abordaron el concepto de paradigma,  fue el filósofo griego Platón que realizó su propia definición expresando que esta palabra venía a determinar a lo que son las ideas o los tipos de ejemplo de una cosa en cuestión. 
+El filósofo Thomas Kuhn, fue quien se encargó de renovar la definición teórica de este término para otorgarle una acepción más acorde a los tiempos actuales, al adaptarlo para describir con él a la serie de prácticas que trazan los lineamientos de una disciplina científica a lo largo de un cierto lapso temporal. 
+De esta forma, un paradigma científico establece aquello que debe ser observado; la clase de interrogantes que deben desarrollarse para obtener respuestas en torno al propósito que se persigue; qué estructura deben poseer dichos interrogantes y marca pautas que indican el camino de interpretación para los resultados obtenidos de una investigación de carácter científico. 
+Cuando un paradigma ya no puede satisfacer los requerimientos de una ciencia (por ejemplo, ante nuevos hallazgos que invalidan conocimientos previos), es sucedido por otro. Se dice que un cambio de paradigma es algo dramático para la ciencia, ya que éstas aparecen como estables y maduras. 
+En las ciencias médicas se habla de dos paradigmas: uno supuestamente viejo: modelo biomédico y otro biopsicosocial relacionado, con la atención primaria de la salud.  
+ 
+ 
+Paradigma biomédico: tiene su origen en el paradigma flexneriano.  
+El  paradigma biomédico se compone de los siguientes elementos ideológicos: 
+• Mecanicismo: Analogía del cuerpo humano con la máquina, donde hombres-máquina, profesionales de la salud, a través de instrumentos máquinas actúan sobre máquinas-hombre, los pacientes, reparando sus defectos. 
+• Biologismo: El biologismo presupone el reconocimiento predominante de la naturaleza biológica de las enfermedades, de sus causas y consecuencias. 
+• Individualismo: La práctica médica es doblemente individualista. Primero, al elegir como su objeto al individuo y, segundo, al alienarlo, excluyendo de su vida los aspectos sociales. 
+• Especialización: La práctica médica profundiza el conocimiento específico, en detrimento de la globalidad inherente a su objeto. 
+• Exclusión de prácticas alternativas: La práctica médica oficial se considera la única científica y anula o restringe, por ineficaces, “a priori”, otras prácticas. 
+• Tecnificación del acto médico: La tecnología pasa a tener un valor en sí misma, como nueva forma de relación entre los hombres y la enfermedad. 
+• Énfasis en la medicina curativa: La práctica médica concentra su actuación 
+ 
+PARADIGMA Regionalizado/Biopsicosocial/Basado en APS 
+Por otro lado, las formas organizacionales tendientes al retorno a lo social y a la demanda colectiva contienen otros elementos ideológicos distintos que conforman lo que se podría denominar, genéricamente, paradigma regionalizado. 
+Sus elementos ideológicos son: 
+•Holismo: El sujeto de la práctica médica es visto como una unidad biopsico- social, inserto en una realidad histórica. 
+•Determinación social del proceso salud/enfermedad/atención: El biologismo restrictivo no es negado, pero sí superado por la incorporación de variables socioeconómicas que son las determinantes del proceso salud/enfermedad/atención. 
+•Colectivismo: Se rescata la naturaleza colectiva de los sujetos, sin que eso implique un desconocimiento de sus dimensiones individuales. 
+• Equilibrio entre el conocimiento general y el especializado: Se establece, en los diversos niveles jerárquicos de la práctica médica, una distribución entre saberes generales y especializados, de forma equilibrada. 
+• Tecnología adecuada: La tecnología adecuada es aquella que presenta un costo social mínimo acorde a su nivel de complejidad y la eficacia de sus resultados.  
+Integralidad de la atención: Se recompone la integralidad de las acciones promocionales, preventivas, curativas y rehabilitadoras.”  
+ 
+Este modelo biopsicosocial es un modelo holístico o modelo de salud integral utilizado en medicina  familiar, formulado por primera vez en 1977. Es un modelo general, o enfoque, que plantea que los factores biológicos, psicológicos (lo que implica pensamientos, emociones y conductas), y factores sociales, juegan un papel importante en el funcionamiento humano en el contexto de la enfermedad o la percepción de enfermedad. Implica, pues, que hay determinantes generales que influyen en la salud y en el desarrollo humano incluidos sus determinantes sociales y, por tanto, los económicos. 
+La salud y la enfermedad se transmiten en red. Este enfoque, evolucionado desde la Teoría General de Sistemas puede ser visto como un contraste de complejidad con el modelo tradicional, reduccionista de la medicina biomédica que sugiere que cada proceso de enfermedad se puede explicar en términos de una desviación de la función normal subyacente, como un agente patógeno, genético o anormalidad en el desarrollo, o una lesión. La teoría general de sistemas o teoría de sistemas o enfoque sistémico es un esfuerzo de estudio interdisciplinario que trata de encontrar las propiedades comunes a entidades llamadas sistemas. Definimos pues el sistema como aquel conjunto de elementos en interacción tal que una modificación cualquiera de uno de ellos desencadena una modificación de todos los demás. 
+PARADIGMAS ASISTENCIALES DE LAS PRÁCTICAS MEDICAS 
+PARADIGMA FLEXNERIANO  PARADIGMA REGIONALIZADO Mecanicismo  Holismo Biologismo  Determinación social del proceso: 
+“Salud/Enfermedad/Intervención” Individualismo  Colectivismo Especialización  Equilibrio generalista/especializado Tecnificación del acto médico  Tecnología adecuada Énfasis en lo curativo  Integralidad de la atención  
+ 
+ 
+Se ha demostrado que el abordaje de individuos aislados, sin tomar en cuenta su contexto más cercano, ofrece una percepción errónea de lo que está ocurriendo. Las personas se  encuentran inmersas en una trama de relaciones humanas y sus consecuencias recíprocas, interaccionando una y otra vez. Esto lleva a la transformación de un modelo de pensamiento lineal de causa-efecto, a un modelo de pensamiento sistémico o de causalidad circular.  
+ 
+ 
+ 
+ 
+ 
+3. Definición y concepto de Medicina Familiar. El proceso de 	especialización. 
+Principios, habilidades y características de la Medicina Familiar 
+ 
+3.1 ¿Qué es la Medicina Familiar?  
+“Podemos definir a la Medicina Familiar como una  especialidad médica que proporciona atención sanitaria continua e integral al individuo y a la familia. Es la especialidad que integra las ciencias biológicas, clínicas, sociales  y del comportamiento. El ámbito de la medicina familiar abarca todas las edades, ambos sexos, cada uno de los sistemas orgánicos y todas las enfermedades. 
+La medicina general o familiar es una disciplina académica y científica con contenidos pedagógicos, investigación, evidencia fundamentada y actividad clínica propia, y es una especialidad clínica orientada a la Atención Primaria. (La definición europea de Medicina General / 
+Medicina de Familia Versión resumida Euract, 2005 Academia Europea de Profesores de Medicina General (Red dentro de WONCA Europe) 
+Los médicos de familia son médicos personales, responsables en primer lugar de prestar una atención integral y permanente a todos los individuos que solicitan atención médica, independientemente de su edad, sexo o enfermedad. Atienden a los individuos en el contexto de su familia, su comunidad y su cultura, respetando siempre la autonomía de los personas. 
+Como implica su definición, incluye el manejo de la persona en la salud y en la enfermedad, una relación especial con el paciente y con la familia y un enfoque integral del cuidado de la salud “. 
+Tradicionalmente la atención del paciente ha sido fragmentada considerando sólo su enfermedad y no su bienestar. Esto ha conducido al deterioro de la calidad de la atención, poca satisfacción del paciente, poca preocupación por la prevención y el auto cuidado. 
+Con el enfoque familiar se ve a la persona dentro de un sistema familiar e inmerso en un contexto social y cultural que condiciona su bienestar y aporta factores de riesgo de enfermar y factores protectores de su salud. Estos factores van a condicionar el estado de salud de la persona. Tiene capacidades para  actuar en una comunidad, a partir de un conocimiento e interacción con la misma, con un sentido de trabajo en red, articulando acciones con los otros servicios que la comunidad comparte.  
+Hagamos un poco de historia 
+ 
+La Medicina Familiar se originó de la rama más antigua de la medicina: “La Medicina General”. 
+En América del Norte las necesidades de salud eran cubiertas por una gran variedad de clínicos, dentro de los cuales solo se incluían unos pocos médicos que se formaban en Europa, puesto que en los Estados Unidos y Canadá, no existían facultades de medicina. Esto hizo a la postre, que todos los clínicos graduados o no, practicaran como médicos generales. Es así como en el siglo XVIII nació la Medicina General en América. Tanto en América del Norte como en Europa, el siglo XIX fue la era del médico general. Después de la presentación del informe Flexner, en 1910, en los Estados Unidos, la medicina familiar pierde su espacio porque la enseñanza de la medicina se orientó a las especialidades. Antecedentes históricos de la Medicina Familiar. (3) 
+ 
+Estas especialidades estaban concentradas en los grandes hospitales, en donde se había generado un gran desarrollo de los conocimientos de carácter académico. 
+Después de la segunda guerra mundial se inició una gran explosión tecnológica e informática, que impulsó la aparición de la subespecialización. Esto trajo como consecuencia la orientación de los médicos cada vez más marcada hacia el mecanicismo, pero a su vez cada vez más alejada “de la persona”. Las especialidades y subespecialidades fueron adquiriendo progresivamente un mayor prestigio, lo que de alguna manera colocó las habilidades técnicas de este tipo de profesionales por encima de los cuidados personales que pudieron proporcionarle a sus pacientes. Estos factores hicieron que la Medicina General perdiera en forma vertiginosa su estatus y popularidad, hasta llevarla a una fase de casi desaparición. 
+Los médicos generales de “cabecera” tan queridos por la población, quedaron relegados a profesionales de ¡segunda clase!, poco apreciados por la sociedad y por su propio gremio, lo que redujo aún más el número de médicos disponibles para la atención primaria e integral. 
+Como consecuencia lógica de este nuevo tipo de atención tan especializada, se produjo una serie de efectos indeseables como la fragmentación de la atención del individuo, la despersonalización, la lucha de territorios propios de cada especialidad, la desintegración de la asistencia médica y la deshumanización entre otros. 
+En  la década de los 40, la respuesta de los médicos generales se manifestó en la creación de academias y colegios dedicados a la medicina general para impulsar una práctica médica con base en el modelo del médico de familia. En Canadá se fundó el Colegio de Médicos de Familia en 1954. También se produjeron en la década del 60  reformulaciones de la acción  de la medicina general, que se dio en forma simultánea en Gran Bretaña, Australia y Estados Unidos. En este último país, los planificadores de la salud y la población en general, censuraron duramente la despersonalización de la atención médica, la fragmentación del ser humano y la alta dependencia de la tecnología. 
+ 
+ 
+ 
+ 
+La medicina familiar es la única especialidad médica que no ha surgido del progreso de las ciencias médicas y tecnológicas, sino por la presión de atender imperiosas necesidades sociales tanto de las comunidades como del Estado (4).  
+ 
+ 
+En 1966,  el informe Willard lo utiliza la especialidad Medicina Familiar para denominar a una forma de atención médica que debía ser creada por exigencia de la sociedad americana que había expresado su disconformidad con el tipo de atención de la salud vigente en ese momento, basada en una medicina predominantemente tecnológica ejercida por especialistas y provista mayormente en los hospitales o complejos centros médicos. Aunque es en 1969, con la fundación del American Board of Family Practice y la creación de las primeras residencias para formar médicos de familia, cuando este proceso tiene su inicio oficial . 
+En 1969, se aprobó la medicina familiar en los Estados Unidos y se crearon los programas educativos de postgrado. 
+En 1970, en Chicago, en la Cuarta Conferencia Mundial de Médicos Generales, se estableció la WONCA (Organización Mundial de Colegios, Academias y Asociaciones Generales/ Médicos de Familia). 
+En América Latina y el Caribe comenzó la concientización para la implantación y desarrollo de programas de medicina familiar en las facultades de medicina y en los años 70 comenzó la aplicación de la formación posgraduada de la medicina familiar en México, Brasil, Bolivia, Costa Rica, Argentina, Colombia, Ecuador y Venezuela. 
+En Cuba a la especialidad de Medicina Familiar se le denomina Medicina General Integral (MGI), y tiene como principal escenario de formación a la propia comunidad en la que el residente se desempeña como médico de familia, bajo la asesoría permanente de un grupo de profesores tutores de las especialidades de Medicina Familiar, Medicina Interna, Pediatría, Ginecobstetricia y Psicología. La formación posgraduada de MGI tiene como eje fundamental la educación en la práctica del servicio concreto de atención primaria de salud (5) 
+ 
+En 1978 se celebró, con la participación de 140 países, la Conferencia de Alma Atá, que concluyó con la Declaración de Alma Atá en la que se aprobó la estrategia de atención primaria como la pertinente para alcanzar Salud Para Todos. 
+En 1981, se creó el Centro Internacional para la Medicina Familiar. 
+En 1991, la Declaración de WONCA sostiene el papel del médico general/familia en los sistemas de atención de salud. 
+En noviembre de 1994 se realizó la conferencia conjunta de la OMS, WONCA en London, Ontario Canadá, que elaboró un documento de trabajo titulado “Hacer que la Práctica Médica y la Educación Médica sean más adecuadas a las necesidades de la gente: La contribución del Médico de Familia” con 21 recomendaciones que implican grandes cambios en los sistemas de salud. Abarcan desde la financiación y asignación de los recursos a la capacitación y la formación de los médicos. Con esta base, en Buenos Aires, en 1996, se llevo a cabo la Conferencia Regional de Líderes y Expertos de las Américas “La Medicina Familiar en la reforma de los Servicios de Salud” que propuso la Declaración de Buenos Aires que señala que “la enseñanza de medicina familiar debe adecuarse a necesidades de servicio, las universidades deben tener una participación más activa y responsable en la formación de los recursos relacionados con la medicina familiar tanto en pregrado como en postgrado”.(6) 
+ 
+ En 2002, en Sevilla, tuvo lugar la I Cumbre Iberoamericana de Medicina Familiar que señaló que para corregir el atraso en que se encuentran las escuelas de medicina de los países iberoamericanos en lo que respecta a la introducción de la medicina familiar en el currículo de grado es necesario un gran esfuerzo y la adopción de estrategias adecuadas a la situación de cada país pero que deberían tener como denominadores comunes los siguiente enunciados: 
+* „ Es necesario formular alianzas estratégicas para acelerar la incorporación de la medicina de familia y la atención primaria a las enseñanzas teóricas y prácticas de los currículos de pregrado en los países iberoamericanos.  
+* „ Hay que movilizar voluntades y garantizar recursos, en cada país para la puesta en marcha de experiencias curriculares innovadoras en la enseñanza de la medicina de familia y la atención primaria en el pregrado con clara y temprana articulación con los servicios de salud. „ 
+* La formación de profesores y líderes docentes en medicina familiar es esencial para avanzar en los objetivos propuestos.  
+* El establecimiento de programas de colaboración e intercambio internacionales en este campo es una estrategia primordial. „ 
+* Es preciso alcanzar un desarrollo adecuado de la medicina de familia y la atención primaria dentro de las estructuras académicas de facultades y escuelas de medicina iberoamericanas.  
+* En cada país, se deberán diseñar estrategias nacionales que permitan la introducción de la disciplina de medicina de familia en el currículo de pregrado. „ 
+* La constitución de una Task Force Iberoamericana para el desarrollo de la medicina familiar académica es un instrumento esencial para profundizar en los cambios de orientación, organización y contenidos de los currículos de las facultades de medicina. „ Resulta importante que este grupo de trabajo asuma el encargo concreto y específico de operativizar las recomendaciones del documento elaborado en esta Cumbre, así como profundizar en el conocimiento y análisis evolutivo de la situación real de la medicina familiar en las universidades iberoamericanas. 
+ 
+ 
+Principios de la Medicina Familiar 
+ 
+Ian McWhinney es considerado por la mayoría de las personas vinculadas a la Medicina Familiar y General como el verdadero “padre” de la especialidad en nuestro continente. Se  desempeñó como 
+Jefe del Departamento de Medicina Familiar de la Universidad de Western Ontario, Canadá por casi 20 años. Su verdadero logro podría decirse que fue haber conceptualizado a la Medicina familiar y General como ningún otro, convirtiéndola en algo entendible para la gente y para el resto del ámbito de la salud en general, y también desarrollándola académicamente. Su libro “Introduction  to Family Medicine”, luego reeditado como “Textbook o Family Medicine” es uno de los  principales libros de cabecera para todos los Médicos de Familia y Generalistas, en él se describen los pilares fundamentales de la especialidad, entre los cuáles se destacan los “Nueve Principios del Médico de Familia”, a saber: 
+Primer Principio: 
+“El Médico de Familia está comprometido más con la persona que con un cuerpo particular de conocimientos, grupos de enfermedades o técnicas especiales”.  
+ 
+La visión integral de la persona es lo que destaca a la Medicina Familiar y General por sobre el resto de las especialidades médicas. No ve al paciente como un caso ”x”, “el paciente de la cama 8”, un órgano en particular, o una enfermedad determinada. Lo ve como un todo, como una persona que experimenta una enfermedad y/o dolencia, particular e irrepetible. La capacidad de ver patologías prevalentes en adultos y niños así como el abordaje biopsicosocial de los motivos de consulta  permiten un grado de entendimiento y conocimiento de los pacientes muy difícil de lograr por otros especialistas. El compromiso con la persona radica en su evaluación inicial, contención ante su padecimiento, acompañamiento, y de ser factible dar respuesta diagnóstica y/o terapéutica. Si esto no es factible, porque excede al conocimiento/técnica, el compromiso es coordinar su atención (por ejemplo: consultar a otro especialista) pero sin perder el seguimiento de la evolución del problema. La relación con los pacientes se interpreta mejor comprendiendo la visión longitudinal que aplica, ya que no se  pone un punto final en la relación con el paciente, es decir que el vínculo no termina ante la resolución del evento, sino que prosigue indefinidamente en el tiempo donde se trabajará en actividades de promoción y prevención correspondientes, y de acompañamiento en su evolución por las diferentes etapas del Ciclo Vital Familiar. 
+ 
+Segundo Principio: 
+“El Médico de Familia  intenta comprender el contexto de la enfermedad”. 
+ 
+¿Qué mejor para comprender una situación que poder analizarla en todos sus contextos y/o dimensiones?. Los problemas de nuestros pacientes siempre estarán inmersos en un determinado contexto familiar, social, cultural, económico y temporal. Su correcto análisis  permitirá comprender sus dolencias, y generar hipótesis sobre las causas de diferentes síntomas, la adherencia a determinados tratamientos, los temores a determinados estudios  diagnósticos o patologías, etc. También  permitirá adecuar las indicaciones, el lenguaje, y poder indagar las redes de sostén que se presentan. 
+Tercer Principio: 
+“El médico de familia considera cada contacto con sus pacientes o familia como una ocasión ideal para aplicar medidas de prevención o educación sanitaria”. 
+ 
+Las actividades de promoción de la salud y prevención de la enfermedad deben ser una tarea obligada y sistemática no solo de los médicos que trabajan en el ámbito de la atención primaria, sino de todos los integrantes del Equipo de Salud, y en todos los niveles de complejidad del sistema. 
+Cuarto Principio: 
+“El médico de familia considera al conjunto de sus pacientes como una población en riesgo”. 
+ 
+Los Médicos de Familia y Generalistas no solo consideran a un paciente particular sino también al grupo poblacional a su cargo. Y dado el axioma “Todas las personas están expuestas al riesgo de enfermar o morir” es importante destacar que no solo es responsable de las personas que realizan una consulta médica, desde el punto de vista de la salud pública muchas veces requieren más atención y mayores acciones los grupos poblacionales que no consultan puesto que serían los más vulnerables. 
+ 
+ Quinto Principio: 
+“El médico de familia se considera a sí mismo parte de la red comunitaria de apoyo y atención sanitaria”. 
+ 
+Todas las comunidades tienen, formal o informalmente, constituida una red de apoyo integrada por organizaciones de diferentes segmentos sociales (organizaciones no gubernamentales, iglesias, grupos de ayuda, etc). La atención médica se sustenta muchas veces en el apoyo terapéutico que brindan, con un valor agregado que puede ser desde bolsas de trabajo, asesoramiento legal, comedores comunitarios, hogares de tránsito, bancos de drogas, etc.(por ejemplo en patologías como el Alcoholismo, Violencia familiar, Abuso de drogas, etc.). 
+ 
+Sexto Principio: 
+“Desde un punto de vista ideal, los médicos de familia deben compartir el mismo hábitat que sus pacientes”. 
+ 
+Un principio difícil de cumplir, sobre todo en el ámbito de las grandes urbes, pero que de cumplirse le otorga al Médico un valor agregado en todas sus acciones por el conocimiento in situ de la realidad de la comunidad en la que trabaja. Si no se cumple, debería conocer con bastante novel de profundidad las características socioambientales, económicas y culturales de la comunidad en donde desarrolla su tarea. 
+ 
+Séptimo Principio: 
+“El médico de familia atiende a los pacientes en la consulta, en sus domicilios y en el hospital”. 
+ 
+Otro principio de difícil cumplimiento hoy en día, pero que se está buscando reinstalar mundialmente, ejemplo de ello es en la actualidad la tendencia a recanalizar los servicios de atención médica a través de modalidades de atención domiciliaria para subgrupos poblacionales definidos como pacientes con enfermedades crónicas, cuidados paliativos,  etc; o brindando mayor accesibilidad a los servicios a través de la asignación a médicos o grupos interdisciplinarios de una población nominal a cargo en un área geográfica delimitada. En muchos casos esta tendencia surge desde por su mayor beneficio económico, pero al margen de ello tenemos la oportunidad de reinstalar la figura del médico en el domicilio de los pacientes, revalorizando el vínculo y afianzando aun más las raíces de nuestra especialidad.  
+ 
+ 
+Octavo Principio: “El médico de familia concede más importancia a los aspectos subjetivos de la medicina”. 
+ 
+Este es uno de los aspectos que más  marcan como verdaderos Médicos de Familia, como máximos referentes de las dolencias de los pacientes. Esta  capacidad para escuchar marca la diferencia, entender, contextualizar y aplicar la empatía  facilita comprender para luego explicar desde un punto de vista no científico, con lenguaje llano y claro. El vínculo con los pacientes es una de las herramientas terapéuticas más poderosas que existen, la confianza y el respeto, no se deben ganar solamente por la destreza clínica sino también por estos atributos que  diferencian, desgraciadamente, de muchos especialistas, eminencias, que prefieren escucharse a sí mismo antes que a sus pacientes. 
+ 
+ 
+Noveno Principio: 
+“El médico de familia es un gestor de recursos” 
+ 
+La longitudinalidad, la visión integral, y el trato personalizado llevan indefectiblemente a ser “especialistas en los pacientes”, a conocerlos como ningún otro médico. Le agregamos a ello una  ubicación privilegiada en el sistema de salud, como verdaderas puertas de entrada, con capacidad de resolución y filtro adecuado e idóneo, que orientan la circulación de los pacientes por los diferentes niveles de complejidad. Estas capacidades y ventajas  dan a su vez el rol de ser verdaderos gestores de recursos del paciente y del sistema de salud. Una adecuada labor como médicos de famialia es beneficiosa tanto para el paciente como para el financiador de los gastos sanitarios.  
+ 
+La familia se considera como unidad de atención, pues se enfoca como causa de muchos problemas de salud de sus miembros, y como apoyo para solucionarlos y prevenirlos. Podemos encontrar distintas características que distinguen a un médico de familia: 
+ 
+* Debe saber tomar decisiones con un alto nivel de incertidumbre, identificando precozmente los problemas graves, manejar problemas indiferenciados, identificar riesgos y ligeras desviaciones de la normalidad, y saber utilizar sus conocimientos sobre las personas para observar tempranamente el inicio de las enfermedades e impedir su progreso. 
+* Utiliza adecuadamente el tiempo en el diagnóstico y tratamiento de los problemas de salud, e identifica los procesos graves en los que se requiere una intervención rápida. 
+* Debe no solo informarse sino educarse, autoevaluarse constantemente, e identificar sus necesidades de aprendizaje en la práctica. Es importante aprender fundamentado en la actitud reflexiva y crítica sobre la experiencia diaria e inmediata de su propio trabajo, que debe ser analizado aplicando la metodología científica. Su principal fuente de aprendizaje es la experiencia de su propia práctica. 
+* El Médico de Familia debe tener un mayor conocimiento de las condiciones comunes que raramente llegan al especialista. 
+* El médico de familia trata simultáneamente problemas médicos agudos y crónicos de pacientes individuales. La medicina de familia tiene que ocuparse de todos los problemas de salud del paciente individual. No puede limitarse a controlar solamente la enfermedad que está presente, y frecuentemente el médico tendrá que ocuparse de múltiples problemas. Muchas veces, el paciente consulta por problemas varios, cuyo número aumenta con la edad. La respuesta simultánea a diversas peticiones hace necesaria una gestión jerárquica de los problemas que tenga en cuenta tanto las prioridades del paciente como las del médico. 
+ 
+* El médico de familia, normalmente es el primer punto de contacto con el sistema de atención sanitaria, pues proporciona acceso abierto e ilimitado a sus usuarios y se ocupa de todos los problemas de salud, independientemente de la edad, sexo u otra característica de la persona en cuestión. No debería haber obstáculos en el acceso al mismo y los médicos de familia deberían ocuparse de todo tipo de pacientes, jóvenes o mayores, hombres o mujeres, y de sus problemas de salud. La medicina general es esencial, y es el primer recurso. Cubre un amplio campo de actividades, determinadas por las necesidades y deseos de los pacientes. Esta perspectiva general da lugar a las muchas facetas de la disciplina y a la oportunidad de su utilización en la gestión de los problemas individuales y comunitarios. 
+ 
+* El médico de familia desarrolla un enfoque centrado en la persona, orientado hacia el individuo, su familia y su comunidad. La medicina de familia se ocupa de las personas y de sus problemas en el contexto de sus circunstancias vitales, no con patologías impersonales o “casos”. El punto de partida del proceso es el paciente. Tan importante es comprender cómo se enfrenta el paciente a su enfermedad y cómo la percibe, como ocuparse del proceso de la enfermedad mismo. El denominador común es la persona, con sus creencias, miedos, expectativas y necesidades. 
+ 
+* El médico de familia posee un proceso de consulta único que crea una relación a lo largo del tiempo, mediante una comunicación efectiva entre médico y paciente. Cada contacto entre el paciente y su médico de familia contribuye a una historia que evoluciona, y cada consulta individual puede alimentarse de dicha experiencia previa compartida. El valor de esta relación personal viene determinado por las capacidades de comunicación del médico de familia y es, por sí mismo, terapéutico. 
+* El médico de familia se ocupa de los problemas de salud en sus dimensiones física, psicológica, social, política, cultural y existencial. La disciplina debe reconocer todas estas dimensiones simultáneamente, y otorgar el peso apropiado a cada una de ellas. El comportamiento de la enfermedad y los patrones de la misma se ven influidos por muchos de estos aspectos, y mucha errores son el  resultado de intervenciones que no se ocupan de la raíz del problema del paciente. 
+ 
+* El Médico de Familia combina las opiniones y habilidades de muchos consultores con las necesidades específicas de cada paciente. 
+ 
+ 
+Igualmente se han descrito un grupo de habilidades específicas del Médico de Familia, que exponemos a continuación: 
+* Habilidades para resolver problemas indiferenciados dentro del contexto de una relación continua con los individuos y las familias. 
+* Habilidades preventivas para identificar los riesgos y detectar lo más pronto posible cualquier desviación de la normalidad en los pacientes que atiende. 
+* Habilidades para utilizar de forma eficaz el conocimiento de las relaciones interpersonales en el tratamiento de los pacientes. 
+* Habilidades terapéuticas para manejar adecuadamente la relación médico paciente familia y optimizar la efectividad de todos los tipos de terapia. 
+* Habilidades para manejar y utilizar los recursos de la comunidad y el sistema de los servicios de salud en beneficio de los pacientes. 
+* La capacidad para dirigir e integrar el conocimiento y las habilidades de los diversos profesionales. Esta última es esencial en un Médico de Familia. (7) 
+ 
+ 
+Competencias centrales 
+La definición de la disciplina de medicina general / medicina de familia y del médico especializado en ella, debe conducirnos directamente a las competencias centrales del médico generalista / médico de familia. 
+“Centrales” significa esenciales para la disciplina, independientemente del sistema de atención sanitaria en el que se ejerzan. 
+Las once características de la disciplina están relacionadas con once capacidades que todo médico especialista en medicina de familia debería dominar. A causa de su interrelación, se las agrupa en seis categorías independientes de competencias centrales. 
+A continuación se describen los principales aspectos de cada grupo. 
+ 
+Gestión de la Atención Primaria Incluye la habilidad de: 
+– gestionar el contacto inicial con los pacientes, ocupándose de problemas no seleccionados; – cubrir todo el espectro de estados de salud; 
+– coordinar la atención con otros profesionales de la Atención Primaria y con otros especialistas; 
+– dominar efectiva y apropiadamente la asistencia médica y la utilización del servicio sanitario; – poner a disposición del paciente los servicios apropiados dentro del sistema de atención sanitaria; – actuar como defensor del paciente. Atención centrada en la persona Incluye la habilidad de: 
+– adoptar un enfoque centrado en la persona al ocuparse de pacientes y problemas en el contexto de las circunstancias del paciente; 
+– desarrollar y aplicar la consulta de la medicina general, a fin de provocar una relación médicopaciente efectiva, con respeto por la autonomía del paciente; – comunicar, establecer prioridades y actuar en colaboración; 
+– proporcionar la continuidad longitudinal de la atención, según lo determinado por las necesidades del paciente y remitiéndose a una gestión permanente y coordinada de la atención médica. 
+ 
+Capacidades específicas para la solución de problemas Incluyen la habilidad de: 
+– relacionar los procesos específicos de toma de decisiones con el predominio y la incidencia de la enfermedad en la comunidad; 
+– reunir selectivamente e interpretar la información de los exámenes físicos que constan en la historia clínica y en las investigaciones, y aplicarlos a un plan de gestión apropiado, en colaboración con el paciente; 
+– adoptar principios de trabajo apropiados (por ejemplo, la investigación acumulativa, utilizando el tiempo como herramienta, y tolerar la incertidumbre); 
+– intervenir con urgencia cuando sea necesario; 
+– gestionar condiciones que se pueden presentar de forma temprana y no clara; 
+– hacer un uso efectivo y eficiente de los diagnósticos y las intervenciones terapéuticas. 
+ 
+Enfoque integral 
+Incluye la habilidad de: 
+– gestionar simultáneamente múltiples problemas y patologías, y problemas de salud del individuo tanto agudos como crónicos; 
+– promover la salud y el bienestar aplicando apropiadamente estrategias de fomento de la salud y de prevención de enfermedades; 
+– gestionar y coordinar la promoción de la salud, la prevención, las curas, la atención y los cuidados paliativos, y la rehabilitación. 
+ 
+Orientación comunitaria Incluye la habilidad de: 
+– reconciliar las necesidades sanitarias de los pacientes individuales y las necesidades sanitarias de la comunidad en la que viven, en equilibrio con los recursos disponibles. 
+ 
+Enfoque global 
+Incluye la habilidad de: 
+– utilizar un modelo biopsicosocial teniendo en cuenta las dimensiones cultural y existencial. (8) 
+ 
+ 
+La medicina familiar es una disciplina académica 
+La medicina familiar es una disciplina académica ya que cuenta con las siguientes atributos: os autores en el área, sugiriendo incluir al menos, los siguientes: 
+El campo de acción de un médico de familia está relacionado con la intervención para prevenir, diagnosticar y tratar todas aquellas condiciones y enfermedades por las cuales consultan los pacientes, que no son derivadas a otro nivel de atención del sistema. Los contenidos a los que deben abocarse serán variables, dependiendo de la realidad que les toque enfrentar y la comunidad que deban atender. Se prevee que aproximadamente el 85%  de las consultas  son las más  prevalentes e indudablemente del manejo del médico de familia. Aún más, dado que aquel 15% que es interconsultado,  será evaluado en primera instancia por el médico de familia, a menudo en una etapa de la enfermedad muy temprana e indiferenciada. El campo de acción del médico de familia puede ser expresado como "la detección de la más temprana desviación de la normalidad". Asimismo, otra área de fuerte influencia de la medicina familiar en los últimos ha llegado a ser el cuidado de los pacientes con enfermedades crónicas, dada su fuerte relación con los estilos de vida de la población tanto en su génesis (determinantes de salud) como en su tratamiento (medidas farmacológicas y no farmacológicas, consejería, etc). 
+El  cuerpo de conocimientos de la medicina familiar es muy amplio, pero definido. El comportamiento humano, que determina la forma en que la enfermedad se presenta en el individuo y su reacción y/o adaptación a ella. Las influencias sociales en el proceso de salud-enfermedadatención, incluyendo el estudio de las dinámicas comunitarias y las implicancias sociales de la salud (salud y trabajo comunitario). Asimismo, incluye el estudio de las organizaciones a través de las cuales los servicios de salud son otorgados, para entender las dinámicas sociales que se dan entre una institución de salud y sus usuarios, tanto a nivel individual como colectivo. 
+• 
+La medicina familiar posee un grupo de técnicas analíticas. Al definir (diagnosticar) o resolver (tratamiento) los problemas clínicos, el médico de familia, más que cualquier otro especialista, toma en cuenta formalmente no sólo la fisiopatología de la enfermedad sino que además la psicología y sociología de su paciente. Dado que el médico de familia habitualmente conoce bien a sus pacientes como personas así como su ambiente físico y social, él está en la mejor posición para observar las probables asociaciones causales entre enfermedad, personalidad, y ambiente; y para actuar de acuerdo a ellas sea preventiva o terapéuticamente. 
+La medicina familiar posee un área de investigación específica relacionada al campo de la epidemiología, el comportamiento, problemas ambientales, etc. 
+ La medicina familiar posee una  filosofía propia. En el plano de las actitudes y los valores lo que marca al médico de familia es su primordial interés por las personas7. Los médicos de otras disciplinas, sin duda, están interesados en las personas, pero mientras otro especialista puede estar interesado en las personas tanto como en la enfermedad, el médico de familia está interesado en la persona antes que la enfermedad. Este "sentido humanístico" del médico de  familia es algo que está al centro de su quehacer. Asimismo, el médico de familia presenta una actitud única hacia las enfermedades: para él lo que causa problemas al paciente es importante, independiente de si su origen es emocional o físico. En este sentido, el médico de familia no reconoce jerarquías de enfermedad, ni divide a los pacientes en "casos interesantes" y "neuróticos" o "psicosomáticos". Dicha "integralidad" no sólo se refleja en la concepción biopsicosocial de los problemas de salud, sino también en el entendimiento del proceso salud-enfermedad-atención como un continuo que es posible y necesario abordar considerando dicha continuidad. Una tercera actitud característica de la filosofía del médico de familia es el reconocimiento explícito del papel que juega su propia personalidad en la dinámica de la relación médico-paciente-familia. Asimismo, entiende que las organizaciones de salud en las cuales ejerce su labor forman parte de una red social más amplia con la cual será necesario entenderse y trabajar en conjunto. Así el concepto de "salud comunitaria" también influye poderosamente en el quehacer diario del médico de  familia. 
+El médico de familia requiere un  entrenamiento intelectualmente riguroso. La adquisición de las habilidades, conocimientos y actitudes anteriormente mencionadas requiere un entrenamiento tan riguroso como el de cualquier otra especialidad. Esto ha sido reconocido en la mayoría de los países desarrollados en los cuales existen desde hace más de una década programas de entrenamiento rigurosos para médicos de familia, y se ha ido consolidando en los países de nuestra región en los últimos años.  
+ 
+La interrelación de las competencias centrales y aplicación de características esenciales caracteriza la disciplina y pone de relieve la complejidad de la especialidad. Esta interrelación se ve reflejada en el siguiente gráfico del árbol Wonca: (9) 
+ 
+ 
+ 
+ 
+BIBLIOGRAFIA 
+1.Rancés. Diccionario Ilustrado de la Lengua Española. Barcelona: Editorial Ramón Sopena SA;1972. 
+2 .Bernard C. Introducción al estudio de la medicina experimental. Buenos Aires: Emecé Editores SA.; 1944.p.11. Rev Med Hered 1996;  
+(3) Historical Background of Family Medicine. Odalys Rivero Canto, Ilsa Marty Jiménez,  Maritza Morales Rojas, Ana Ernestina Salgado Fonseca, Nancy Acosta Alonso. MEDICIEGO 2010; 16 
+ 
+(4) Iturbe P. La medicina familiar: calidad en Atención Primaria, base del sistema nacional de salud. Med Fam. 1987; 4:23-34. 
+ 
+(5). Lemus ER, Borroto ER, Aneiros-Riba R. Atención Primaria de Salud, Medicina Familiar y Educación Médica. La Paz: Biblioteca de Medicina; 1998. 
+ 
+(6 ) La Medicina Familiar en la reforma de los Servicios de Salud” (CIMF/OPS/WONCA, Buenos Aires, 	1996). 	Accesible 	http://www.fundacionaequus.com.ar/biblioteca/declaracion-debuenosaires.pdf. Acceso 14 de mayo del 2008 
+ 
+(7) Mc Whinney I. Introducción a la medicina familiar. Mérida: Universidad de los Andes; 1987:1-24. 
+ 
+(8) . Martín Zurro A, Cano Pérez JF. Compendio de Atención Primaria. Harcourt; 
+Madrid: 2000:1-5 
+ 
+ 
+(9) La definición europea de Medicina General/Medicina de Familia. Academia Europea de Profesores de Medicina General. Wonca. 2007 Sociedad Española de Medicina de Familia y Comunitaria. Semfyc. Barcelona.  
+ 
+ 
+ 	Introducción a la Medicina Familiar 	 
+
+ 	Introducción a la Medicina Familiar 	 
+
+ 	Introducción a la Medicina Familiar 	 
+

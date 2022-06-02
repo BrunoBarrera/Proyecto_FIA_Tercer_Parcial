@@ -1,0 +1,135 @@
+ 
+ 
+ENDOSCOPIA
+ 
+
+ 
+
+ARTÍCULO DE REVISIÓN
+ 
+
+Uso de la coagulación con plasma de argón para el manejo de la reganancia de peso posterior al bypass gástrico
+en Y de Roux
+Fernando Marmolejo-Saavedra1*, Alexandra S. Valencia-Valverde1, Karina Flores-Marín2,
+Roberto Delano-Alonso2, Mucio Moreno-Portillo2, José de J. Herrera Esquivel2, Luz S. Romero-Loera1, Martín E. Rojano-Rodríguez1  y Carlos Valenzuela Salzar2
+1División de Cirugía Bariátrica; 2División de Endoscopia Gastrointestinal. Hospital General “Dr. Manuel Gea González”, Ciudad de México, México
+
+
+
+
+Resumen
+El número de procedimientos bariátricos ha aumentado de manera importante en los últimos años. A la par de este incre- mento se encuentra el número de complicaciones asociadas a ellos, siendo una de las más importantes la reganancia de peso, la cual tradicionalmente se ha tratado con cambios en el estilo de vida y que cuando falla requiere de la cirugía de revisión que presenta alta morbilidad. Recientemente se han descrito procedimientos endoscópicos para la reganancia de peso posterior a un procedimiento bariátrico que intentan disminuir la morbilidad asociada a la cirugía de revisión conser- vando la tasa de éxito. La coagulación con plasma de argón es una de las que mejores resultados ha presentado y en esta revisión exploramos sus indicaciones, técnica y las comparaciones con otras técnicas endoscópicas.
+
+Palabras clave: Cirugía bariátrica. Bypass gástrico. Coagulación con plasma de argón. Endoscopia. Obesidad.
+
+Use of Argon plasma coagulation for weight regain after Roux-en-Y gastric bypass
+Abstract
+Bariatric procedures have increased significantly in recent years, along with this increase are the complications associated, one of the most important being weight regain, which has traditionally been treated with changes in lifestyle and that when it fails it requires revisional surgery that presents high morbidity. Recently, endoscopic procedures have been described for weight regain after a bariatric procedure, which attempt to reduce the morbidity associated with revisional surgery while preserving the success rate. Argon plasma coagulation have the best results reported, and in this review we explore its in- dications, technique, and comparisons with other endoscopic techniques.
+
+Key words: Bariatric surgery. Gastric bypass. Weight regain. Argon plasma coagulation. Endoscopy. Obesity.
+
+
+
+
+
+
+
+ 
+
+Correspondencia:
+*Fernando Marmolejo-Saavedra
+E-mail: fdo.marmolejo@gmail.com
+ 
+
+Fecha de recepción: 17-06-2021 Fecha de aceptación: 13-09-2021 DOI: 10.24875/END.21000034
+ 
+
+Disponible en internet: 28-12-2021 Endoscopia. 2021;33(3):106-109 www.endoscopia-ameg.com
+ 
+0188-9893/© 2021. Asociación Mexicana de Endoscopia Gastrointestinal, publicado por Permanyer México SA de CV, todos los derechos reservados.
+ 
+
+ 
+Introducción
+El número de procedimientos bariátricos ha ido en aumento debido a dos factores principalmente: el au- mento en la prevalencia de sobrepeso y obesidad de la población y la evidencia que sugiere que estos pro- cedimientos son el mejor tratamiento para lograr una pérdida de peso sostenida1,2. En la población mexicana el porcentaje de adultos mayores de 20 años con so- brepeso y obesidad es del 75.2% según lo descrito por Levi et al.3; Zerrweck et al. refieren que los procedi- mientos bariátricos más frecuentemente realizados en México son el bypass gástrico en Y de Roux (BGYR) y la gastrectomía vertical en manga (MG) con 45.6 y 44.7% respectivamente4. A pesar de los amplios bene- ficios de la cirugía bariátrica, se estima que la mayoría de los pacientes sometidos a BGYR recuperarán entre el 20 y el 30% del peso que perdieron inicialmente y un tercio de los pacientes recuperaran casi todo el peso perdido, destacando como causas principales la dilatación de la gastro-yeyuno anastomosis y la fístula gastro-gástrica5,6. En su reporte de 2018 Angrisani et al. describen que la tasa de cirugía revisional co- rresponde al 14.1 % del total de procedimientos bariá- tricos anuales, de los cuales el 63% se realizan por reganancia de peso y el 26% por corrección de com- plicaciones7. Estas cirugías revisionales tienen como objetivo modificar los factores anatómicos antes des- critos, pero presentan una tasa de complicación de hasta el 14.3%8, por lo que se han buscado métodos con menos morbilidad para tratar la reganancia de peso, siendo los métodos endoscópicos los de primera elección y entre ellos la coagulación con plasma de argón (APC) uno de los que ha cobrado más interés9.
+Esta revisión pretende presentar la evidencia más reciente y significativa relacionada con el uso de la APC, así como su comparación con otras técnicas endoscópicas para el manejo de la reganancia de peso posterior al BGYR.
+
+Abordaje del paciente con reganancia de peso y selección del paciente candidato para coagulación con plasma de argón
+Van Baak et al. recomiendan que una vez que se identifica al paciente con sospecha de reganancia de peso es importante realizar una historia clínica detalla- da, se debe comparar el índice de masa corporal (IMC) inicial con el actual, la composición corporal, descartar la presencia de factores metabólicos o nutricionales
+ 
+que promuevan la reganancia de peso y descartar también la presencia de alteraciones en salud mental10.
+Después de esta investigación inicial se debe programar una endoscopia digestiva alta para valorar alteraciones anatómicas que puedan ser causa de la reganancia de peso, siendo una de las más importan- tes la dilatación de la anastomosis gastro-yeyunal (GYA), misma que se considerará asociada a la rega- nancia de peso cuando sea mayor a 2 cm.
+
+Descripción de la técnica de aplicación de la coagulación con plasma de argón
+Thompson et al.11 describieron por primera vez en 2006 el uso de la APC para disminuir el tamaño de la GYA.
+La APC es una técnica sin contacto que se basa en la aplicación de una corriente eléctrica a los tejidos a través del flujo del gas ionizado argón12.
+El mecanismo que explica la pérdida de peso poste- rior al uso de la APC se relaciona con el grado de reducción del diámetro de la GYA, ya que una anasto- mosis dilatada llevará a una disminución del tiempo de vaciamiento gástrico que se traducirá clínicamente en un aumento en la ingesta de alimentos debido a una menor sensación de plenitud posprandial. La cicatriza- ción producida por la APC en la GYA da un efecto duradero con cada sesión, logrando la consecuente disminución de tamaño de la GYA, con lo que el pa- ciente presentará mayor sensación de plenitud pos- prandial debido al aumento en el tiempo de vaciamiento del remanente gástrico y consecuente reducción en la ingesta de alimentos13.
+
+Energía utilizada
+Normalmente se utilizan 80-70 W con una tasa de flujo de argón de 1-2 l/min. Realizando un halo de aproximadamente 1-2 cm alrededor de la anastomosis12,14.
+Se han utilizado dosis más bajas, pero se han repor- tado peores resultados en cuanto a la pérdida de peso y mismo perfil de seguridad, por lo que la recomenda- ción continúa siendo utilizar dosis de 70-80 W6.
+
+Intervalo de sesiones
+En cada sesión se recomienda medir el diámetro de la GYA con un instrumento objetivo que puede ser una regla endoscópica o una guía previamente graduada.
+ 
+Endoscopia. 2021;33(3)
+
+ 
+Se recomienda realizar sesiones cada dos meses de manera indefinida hasta obtener un diámetro deseado o hasta la aparición de síntomas que sugieran que se alcanzó este, como pueden ser la saciedad temprana o la plenitud prolongada14.
+
+Manejo postratamiento
+Se recomienda el uso de inhibidores de la bomba de protones hasta tres meses después de la última sesión y sucralfato 10 días después de cada sesión. Con una dieta líquida por 20 días después de cada aplicación14.
+
+Resultados del uso de la coagulación con plasma de argón
+En 2020, Quadros et al. realizaron un estudio con- trolado aleatorizado en donde compararon el uso de la APC para disminuir el diámetro de la GYA con un grupo control; los dos grupos tuvieron manejo multidisciplina- rio (nutrición y psicología) para tratar de disminuir la reganancia de peso. Los pacientes tuvieron un segui- miento de 14 meses realizando endoscopia cada dos meses. Se incluyeron 42 pacientes (22 en el grupo APC y 20 en el grupo control) y tuvieron una pérdida de seguimiento del 0%, con características demográfi- cas sin diferencias significativas. A los seis meses, en el grupo de APC se reportó una pérdida de peso de
+9.73 kg, reportando un diámetro promedio de la GYA de 14 mm. En cuanto a la sintomatología, hubo un in- cremento en la saciedad posprandial. Todos los pará- metros anteriores se reportaron con significancia estadística al compararlos con el grupo control. A los 14 meses se obtuvo una pérdida de 15.8 kg y un por- centaje de exceso de peso perdido (%EPP) del 15.6%. Un aspecto importante de este estudio fue que a la mitad del seguimiento el grupo control se sometió a APC con el fin de comparar si el manejo multidiscipli- nario no endoscópico para disminuir la reganancia de peso previo al uso del APC mejoraba la respuesta a este, sin embargo no se encontró ninguna asociación significativa. No se reportaron complicaciones14.
+
+Como terapia adyuvante
+En 2020, Jaruvongvanich et al. realizaron un metaa- nálisis comparando la eficacia y la seguridad de la sutura endoscópica de espesor completo con APC (ft-TORe) contra el uso aislado de la APC (AMPC-TO- Re) para el manejo de la reganancia de peso tras el
+ 
+BGYR. Sus variables principales fueron el %EPP y el diámetro de la GYA. Los estudios analizados tuvieron una heterogeneidad significativa con I2 > 50%. Se en- contraron 16 estudios de 2015 a 2020. El grupo de ft-TORe tuvo 737 pacientes y el grupo de AMPC-TORe tuvo 888 pacientes. En todos los casos del primer gru- po se utilizó la APC después de realizar la sutura en- doscópica. Los intervalos entre las sesiones de AMPC-TORe fueron de 6 a 12 semanas hasta lograr diámetro o peso adecuados. Se encontró un %EPP significativamente mayor para AMPC-TORe a los 12 meses (5.8 vs. 9.5%). En el grupo de AMPC-TORe se encontró asociación entre los diámetros de la GYA pre-TORe más grandes, los diámetros de la GYA post-TORe más chicos y los mayores cambios de diá- metro (pretratamiento y postratamiento) con un mayor
+%EPP a los seis meses. Se ocuparon de una a tres
+sesiones con AMPC-TORe y solo una sesión con ft-TO- Re. Los autores concluyen que ambos tratamientos son seguros y eficaces para el manejo de la reganan- cia de peso posterior al BGYR. Sin embargo reportan que el AMPC-TORe logró una mayor pérdida de peso a los 12 meses13.
+
+Complicaciones de técnica de argón
+Jaruvongvanich et al. reportaron tener una tasa de complicaciones del 6.4%, siendo la estenosis de la GYA la complicación más común. Ninguno de los ca- sos de estenosis requirió manejo quirúrgico, ya que todas fueron tratadas de manera exitosa con dilatación endoscópica13.
+Otras complicaciones reportadas son el desarrollo de úlceras en la zona a la cual se le aplicó la APC, disfagia, fuga en la GYA y sangrado de tubo digestivo alto. Mismas que pueden ser tratadas de manera en- doscópica la mayor parte de las veces15.
+
+Otras técnicas
+Clip OVESCO
+Heylen et al. en 2011 describieron el uso del clip OVESCO (over the scope clip) (AG, Tübingen, Alema- nia) para los pacientes que tenían reganancia de peso. En su estudio aplicaron el clip en la GYA de 94 pacien- tes con reganancia de peso posterior a un BGYR, obteniendo disminución del tamaño de la GYA de hasta el 80% de su tamaño inicial, con lo que lograron dis- minución sostenida del IMC a más de un año de su aplicación16.
+ 
+
+ 
+Conclusiones
+A pesar de que la cirugía bariátrica tiene evidencia de ser el método más eficaz en pérdida de peso y remisión de enfermedades asociadas a la obesidad, existe un porcentaje de pacientes que presentan reganancia de peso luego de un procedimiento bariátrico, por lo que es importante realizar un abordaje multidisciplinario so- bre su etiología y de esa manera intervenir de manera enfocada y detener la reganancia con métodos menos invasivos que ofrezcan menos morbilidad y una tasa de éxito adecuados. Al realizar una revisión de la evidencia que existe sobre la reganancia de peso en pacientes que se han sometido a cirugía bariátrica podemos de- notar que no existen guías para el manejo endoscópicos ni consensos sobre la reganancia de peso posterior a un BGYR. Con base en los estudios más recientes se han descrito dos factores que se han asociado a una mayor pérdida de peso con el manejo con APC: factores anatómicos como lo es el tamaño del diámetro de la GYA al terminar el tratamiento y la diferencia entre el tamaño al inicio del tratamiento y el tamaño al final del tratamiento. Así mismo, un mayor tamaño de la GYA al inicio del tratamiento predice una buena respuesta al tratamiento, con pérdidas de hasta 15 kg en el primer año posterior al uso de APC. El costo será elevado por el número de sesiones necesarias y sería importante compararlo con los costos de la cirugía de revisión, pero al momento no hay estudios que lo hagan. La APC ha demostrado un excelente perfil de seguridad que al ser comparado con el de la cirugía de revisión resulta ser mejor8. Se requiere mayor seguimiento de los pacientes, ya que por el momento solo se cuenta con estudios que reportan resultados a 12 meses.
+
+Financiamiento
+Este estudio no cuenta con apoyo financiero.
+
+Conflicto de intereses
+Este estudio no presenta conflicto de intereses.
+
+Responsabilidades éticas
+Protección de personas y animales. Los autores declaran que para esta investigación no se han realiza- do experimentos en seres humanos ni en animales.
+ 
+Confidencialidad de los datos. Los autores decla- ran que en este artículo no aparecen datos de pacientes.
+Derecho a la privacidad y consentimiento infor- mado. Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+Bibliografía
+1.	Aminian A, Chang J, Brethauer SA, Kim JJ. ASMBS updated position statement on bariatric surgery in class I obesity (BMI 30-35 kg/m2). Surg Obes Relat Dis. 2018;14(8):1071-87.
+2.	Issues C, Surgery B. American Society for Metabolic and Bariatric Surgery Position Statement on Emergency Care of Patients with Com- plications Related to Bariatric Surgery. Surg Obes Relat Dis. 2010;6(2):115-7.
+3.	Instituto Nacional de Estadística y Geografía. Encuesta Nacional de Salud y Nutricion 2018-19. Resultados Nacionales [Internet]. México: Instituto Nacional de Estadística y Geografía, Instituto Nacional de Salud Pública, Secretaría de Salud; 2020. Disponible en: https://ensanut.insp. mx/encuestas/ensanut2018/doctos/informes/ensanut_2018_informe_fi- nal.pdf
+4.	Zerrweck C, Rodríguez NR, Sánchez H, Zurita LC, Márquez M, Herrera MF. Bariatric surgery in Mexico: training, practice and surgical trends. Updates Surg. 2021;73(4):1509-14.
+5.	Adams TD, Davidson LE, Litwin SE, Kim J, Kolotkin RL, Nanjee MN, et al. Weight and metabolic outcomes 12 years after gastric bypass. N Engl J Med. 2017;377(12):1143-55.
+6.	Jirapinyo P, de Moura DTH, Dong WY, Farias G, Thompson CC. Dose response for argon plasma coagulation in the treatment of weight regain after Roux-en-Y gastric bypass. Gastrointest Endosc. 2020;91(5):1078-84.
+7.	Angrisani L, Santonicola A, Iovino P, Vitiello A, Higa K, Himpens J, et al. IFSO Worldwide Survey 2016: Primary, endoluminal, and revisional pro- cedures. Obes Surg. 2018;28(12):3783-94.
+8.	Qiu J, Lundberg PW, Birriel JT, Claros L, Stoltzfus J, El Chaar M. Revi- sional bariatric surgery for weight regain and refractory complications in a single MBSAQIP accredited center: What are we dealing with? Obes Surg. 2018;28(9):2789-95.
+9.	Cambi MPC, Baretta GAP, Magro DO, Boguszewski CL, Ribeiro IB, Jirapinyo P, et al. Multidisciplinary approach for weight regain-how to manage this challenging condition: an expert review. Obes Surg. 2021;31(3):1290-303.
+10.	van Baak MA, Mariman ECM. Mechanisms of weight regain after wei- ght loss - the role of adipose tissue. Nat Rev Endocrinol. 2019;15(5):274-87.
+11.	Thompson CC, Slattery J, Bundga ME, Lautz DB. Peroral endoscopic reduction of dilated gastrojejunal anastomosis after Roux-en-Y gastric bypass: A possible new option for patients with weight regain. Surg Endosc Other Interv Tech. 2006;20(11):1744-8.
+12.	Baretta GA, Alhinho HC, Matias JE, Marchesini JB, de Lima JH, Empinotti C, et al. Argon plasma coagulation of gastrojejunal anas- tomosis for weight regain after gastric bypass. Obes Surg. 2015;25(1):72-9.
+13.	Jaruvongvanich V, Vantanasiri K, Laoveeravat P, Matar RH, Vargas EJ, Maselli DB, et al. Endoscopic full-thickness suturing plus argon plasma mucosal coagulation versus argon plasma mucosal coagulation alone for weight regain after gastric bypass: a systematic review and meta-analy- sis. Gastrointest Endosc. 2020;92(6):1164-75.e6.
+14.	de Quadros LG, Neto MG, Marchesini JC, Teixeira A, Grecco E, Junior RLK, et al. Endoscopic argon plasma coagulation vs. multidisci- plinary evaluation in the management of weight regain after gastric bypass surgery: a randomized controlled trial with SHAM Group. Obes Surg. 2020;30(8):3260-2.
+15.	Moon RC, Teixeira AF, Neto MG, Zundel N, Sander BQ, Ramos FM, et al. Efficacy of utilizing argon plasma coagulation for weight regain in Roux-en-Y gastric bypass patients: a multi-center study. Obes Surg. 2018;28(9):2737-44.
+16.	Heylen AMF, Jacobs A, Lybeer M, Prosst RL. The OTSC®-clip in revi- sional endoscopy against weight gain after bariatric gastric bypass sur- gery. Obes Surg. 2011;21(10):1629-33.

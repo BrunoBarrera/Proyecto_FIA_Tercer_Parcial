@@ -1,0 +1,258 @@
+Neurofisiología del aprendizaje y la memoria. Plasticidad Neuronal
+
+Resumen
+La vida sin memoria no es vida, así como inteligencia sin la capacidad de expresarla no es inteligencia. El resto de las funciones cognitivas no
+tuvieran sentido si el cerebro perdiera la capacidad para recuperar y recordar experiencias previas. El aprendizaje y la memoria son las funciones
+superiores fundamentales que nos permiten adaptar al medio, construir nuestra historia como seres únicos. Son procesos complejos que aún
+todavía desafía a investigadores en un intento de aclarar los mecanismos neurofisiológicos básicos implicados. Este desafío nos motiva a hacer
+una revisión actualizada sobre el tema en la que resumimos las principales formas de aprendizaje, los diferentes tipos de memoria, sus estructuras
+cerebrales asociadas, los mecanismos celulares y moleculares implicados en el almacenamiento de información en los distintos tipos de memoria,
+los mecanismos de la potenciación sináptica a largo plazo y cómo se ha impuesto como un modelo sinaptocelular de memoria muy atractivo.
+Introducción
+La capacidad del sistema nervioso de cambiar se le llama plasticidad
+neuronal, la cual está implicada en el desarrollo embriológico. Sin
+embargo, en el adulto la plasticidad también tiene un sitial importante para aprender nuevas habilidades, establecer nuevas memorias y
+responder a las adversidades del medio [1,2]. De hecho, el aprendizaje
+es el proceso por el cual los organismos modifican su conducta para
+adaptarse a las condiciones cambiantes del medio que los rodea. Es el
+modo principal de adaptación de los seres vivos. [3-6] Por lo tanto, el
+aprendizaje puede considerarse como un cambio en el sistema nervioso que resulta de la experiencia y que origina cambios duraderos en la
+conducta de los organismos.
+El aprendizaje es el proceso por el que adquirimos el conocimiento sobre el mundo, mientras que la memoria es el proceso por el que el conocimiento es codificado, almacenado, consolidado, y posteriormente
+recuperado. El aprendizaje y la memoria son procesos íntimamente relacionados. No se consigue separar el aprendizaje de la memoria, ni resulta posible realizar dicha distinción dentro del circuito neuronal. [7,8]
+La medida de lo aprendido se relaciona con la memoria, siendo ésta la
+expresión de la capacidad de recuperar informaciones adquiridas. [9]
+Dado que no se producen grandes cambios en el número de neuronas
+a lo largo de la vida que puedan explicar los elevados volúmenes de información que se almacenan en forma de memoria, la sinapsis ha constituido un buen candidato del sustrato mnemónico. [10,11] La sinapsis
+constituye el sitio físico que sirve de puente para el paso de información de una neurona a otra, permitiendo que las diferentes partes del
+sistema interactúen funcionalmente. [12]
+Las sinapsis o conexiones interneuronales se han calculado aproximadamente cien trillones en el cerebro. Estas conexiones están agrupadas
+en serie y en paralelo, en ellas se establecen las bases físicas de velocidad y sutileza de operación del cerebro, y hacen posible las diferentes
+funciones del sistema nervioso. [13,14] La figura 1 muestra la sinapsis
+y su complejidad.
+Uno de los factores tróficos que hacen posible la estructuración de las
+uniones interneuronales y el que determina si es en serie o paralelo, la
+longitud de las fibras que forman el circuito, es el factor de crecimiento
+neural, el cual fue identificado por primera vez en 1971 por Rita LeviMontalcini y Viktor Hamburger
+Este estudio tiene como objetivo revisar los diferentes tipos de memoria, aclarar los mecanismos moleculares y celulares básicos implicados
+en los distintos tipos de memoria, al igual que sus sitios neuroanatómicos implicados.
+Memoria
+La memoria es un proceso cognitivo relativamente complicado y en
+consecuencia se presupone que el sistema neuroanatómico subyacente ha de ser complejo. En los últimos años, numerosos estudios
+en animales de laboratorio con alteraciones mnésicas tras lesiones cerebrales y humanos con alteraciones de la memoria han mejorado la
+compresión de cómo el cerebro controla el funcionamiento mnésico
+y el aprendizaje.
+Fisiológicamente, los recuerdos se producen por variaciones de la sensibilidad de transmisión sináptica de una neurona a la siguiente. Estas
+variaciones a su vez generan nuevas vías o vías facilitadas de transmisión de señales por los circuitos neurales del cerebro. Las vías nuevas
+o facilitadas se llaman huellas de memoria. Son importantes porque
+una vez establecidas, la mente puede activarlas para reproducir los recuerdos. [16]
+Clasificación de memorias
+Memoria positiva y negativa
+El cerebro es inundado de información sensitiva procedente de nuestros sentidos. Afortunadamente, el cerebro puede desechar la información carente de interés. Esto se debe a la inhibición de las vías sinápticas de esta información, un proceso llamado habituación. A nivel
+molecular, el mecanismo de la habituación de la terminal sensitiva es
+consecuencia del cierre progresivo de los canales de calcio de la terminal presináptica.
+En cambio el cerebro tiene una capacidad de facilitar y almacenar las
+huellas de memoria con consecuencias importantes como el dolor
+o el placer. Ésta es la memoria positiva, resultado de la facilitación o
+sensibilización de las vías sinápticas. El mecanismo de la facilitación se
+estudió en el caracol del género Aplysia califórnica en el que actúa una
+terminal facilitadora sobre la terminal sensitiva. La estimulación de la
+terminal facilitadora libera serotonina sobre la terminal facilitadora. La
+serotonina actúa sobre receptores de serotonina a nivel de la membrana terminal sensitiva, los cuales inducen la formación de monofasfato
+de adenosina cíclico (AMPc). Éste activa una proteína cinasa dependiente de AMPc (PKA) que fosforila una proteína que forma parte de
+los canales de potasio (K+), bloqueando su conductancia. Esto permite
+que mayor cantidad de iones de Ca2+ penetre en la terminal sináptica
+prolongando el potencial de acción.
+Otra clasificación es la de memoria a corto y largo plazo, concepto que
+ya anticipaba Herman Ebbinghausen en 1885, con su experimento en
+que él mismo memorizaba una lista de sílabas sin sentido. Logró describir las leyes básicas de la memorización, la curva de aprendizaje, y
+del olvido. [17,18]
+Alteraciones físicas (estructurales) de la sinapsis ocurren cuando se desarrollan huellas de la memoria a largo plazo. Las alteraciones estructurales más importantes son:
+1. Aumento del número de lugares de liberación de vesículas para la
+secreción de neurotransmisores.
+2. Incremento del número de vesículas del transmisor
+3. Aumento del número de terminales sinápticas
+4. Modificaciones de las estructuras de las espinas dendríticas
+A su vez, la memoria a largo plazo se puede clasificar basándose en el
+tipo de información, en cómo se almacena y se recuerda dicha información en:
+1. Memoria explícita o declarativa,
+2. Memoria implícita o procedimental o no declarativa. [19]
+La memoria explícita almacena conocimientos, permite recordar acontecimientos, números, hechos, en esencia, el recuerdo de los detalles
+diversos de un pensamiento integrado, y requiere un esfuerzo consciente. En cambio, la memoria implícita almacena habilidades motoras, se asocia más con actividades motoras del cuerpo, y es inconsciente. [20,21]
+Esta diferenciación se puso de manifiesto primero con las lesiones de
+las áreas de asociación límbicas del lóbulo temporal. El caso más famoso y estudiado fue el paciente H.M., estudiado por Brenda Miller.
+Este paciente sufría de crisis convulsivas bilaterales del lóbulo temporal
+durante 10 años rebeldes al tratamiento. Se le extirpó la formación del
+hipocampo, el núcleo amigdalino, y parte de las áreas de asociación
+límbicas del lóbulo temporal. Este paciente tenía una memoria a largo
+plazo normal, pero era incapaz de transformar la nueva memoria en
+memoria a largo plazo. También se demostró que podía aprender nuevas capacidades motoras a un ritmo normal. [22,23]
+La memoria explícita es muy flexible y afecta a la asociación de múltiples fragmentos y trozos de información. Por el contrario, la memoria
+implícita es más rígida y está estrechamente conectada a las condiciones de los estímulos originales bajo los cuales se produjo el aprendizaje. [23]
+Memoria explícita
+El psicólogo Endel Tulving fue el primero en clasificar la memoria explícita en:
+1. Episódica o autobiográfica para los acontecimientos y la experiencia
+personal
+2. Semántica para los hechos, el conocimiento objetivo, el tipo de conocimiento que adquirimos en el colegio y los libros.
+El conocimiento almacenado como memoria explícita se adquiere primero a través del procesamiento en las áreas de asociación prefrontal,
+límbica, y parietooccipitotemporal de la corteza que sintetizan la información visual, auditiva y somática. Desde allí la información se transporta a las cortezas parahipocámpicas y perirrinal, luego a la corteza
+entorrinal, la circunvolución dentada, el hipocampo, el subículo y finalmente hacia la corteza entorrinal. Desde aquí la información es devuelta
+hacia las cortezas del parahipocampo y perirrinal, y finalmente de nuevo a las áreas de asociación de la neocorteza. [24]
+Así vemos, que en el procesamiento de la información para el almacenamiento de la memoria explícita, la corteza entorrinal tiene una doble
+función: es la principal fuente de aferencias hacia el hipocampo, y es la
+principal vía de salida del hipocampo.
+Es por tanto comprensible que las alteraciones de la memoria por lesiones de la corteza entorrinal son particularmente graves, como en
+la enfermedad de Alzheimer, principal enfermedad degenerativa que
+afecta al almacenamiento en la memoria explícita.
+El término hipocampo proviene del griego, que significa hippos = caballo, y kampos = monstruo marino Campe. [25] La siguiente figura
+muestra la forma del hipocampo, y como viaja la información desde la
+corteza entorrinal de vuelta a la corteza entorrinal para ir a las áreas de
+asociación de una forma más esquemática.
+Figura N° 2. Vías de entrada y salida de estímulo de formación del hipocampo.
+Figura N° 3. Sección frontal a través del lóbulo temporal. Mostrando el hipocampo. [26]
+ Las lesiones del lóbulo temporal medial como en el paciente H.M. interfieren sólo en el almacenamiento a largo plazo de recuerdos nuevos.
+Esto sugiere que el hipocampo es sólo una estación transitoria en el camino hacia la memoria a largo plazo. El almacenamiento a largo plazo
+de la memoria explícita tiene lugar en las áreas de asociación de la corteza cerebral que procesan inicialmente la información sensorial. [27]
+El conocimiento semántico (objetivo) tiene una organización notable y
+sorprendente. Este conocimiento no se almacena en una región única.
+Más bien, cada vez que el conocimiento sobre algo es recordado, el
+recuerdo se construye a partir de diferentes fragmentos diferentes de
+información, cada uno de los cuales se almacena en lugares especializados de memoria. Este tipo de memoria se almacena de forma distribuida en la neocorteza. [22, 28]
+En cambio, el conocimiento episódico (autobiográfico) sobre el tiempo y
+lugar se almacena en las zonas de asociación de los lóbulos frontales.
+Memoria implícita
+No depende directamente de los procesos conscientes ni su recuerdo
+requiere la búsqueda consciente de la información. Se construye lentamente, a través de la repetición, y se expresa principalmente en la
+ejecución, no en las palabras. Ejemplos de la memoria implícita son
+las capacidades motoras, y el aprendizaje de ciertos procedimientos y
+reglas. [29]
+La memoria implícita puede ser no asociativa y asociativa. En el aprendizaje no asociativo el sujeto aprende sobre las propiedades de un único estímulo. Ejemplos de este tipo de memoria no asociativa son la
+habituación y la sensibilización, los cuales son los tipos más simple de
+aprendizaje. [30]
+Se han diferenciado también dos tipos de aprendizaje asociativo basados en los procedimientos experimentales utilizados para establecer el aprendizaje. Tradicionalmente, los filósofos han pensado que el
+aprendizaje se logra a través de la asociación de ideas. De acuerdo con
+Ivan Pavlov, filósofo ruso, lo que los animales y los hombres aprenden
+cuando asocian ideas puede ser analizado en su forma más elemental
+estudiando la asociación de los estímulos. Estableció el condicionamiento clásico, en el que emparejaba un estímulo no condicionado
+(ENC) seguido de un estímulo condicionado (EC) en reiteradas ocasiones, el cual producía una respuesta refleja o incondicionada, hasta que
+el EC provocara la misma respuesta refleja, esta vez condicionada. Con
+la experiencia suficiente, un animal responderá al EC como si estuviera
+anticipando el ENC. Por ejemplo, si una luz se sigue reiteradamente de
+la presentación de un trozo de carne en un perro, finalmente la visión
+de la luz hará que el animal salive. [22,31]
+Un segundo modelo fundamental del aprendizaje asociativo, planteado por Edgar Thorndike y estudiado sistemáticamente por B.F. Skinner
+es el condicionamiento operante, en el cual el animal es adiestrado a
+ejecutar alguna acción para obtener un reforzador positivo, es decir
+una recompensa o evitar un castigo. [31] El ejemplo característico es
+cuando se coloca una paloma hambrienta en una cámara de exploración en la que el animal es recompensado por una acción específica.
+Por ejemplo, la cámara puede tener una palanca en una de las paredes,
+la cual presionará ocasionalmente por su aprendizaje previo y su respuesta innata. Sin embargo, aprenderá que cada vez que presione la
+palanca recibirá un reforzador positivo, y de este modo la presionará
+más seguida.
+Así el condicionamiento clásico se aprende una relación entre dos estímulos, y en el condicionamiento operante se aprende la relación entre
+la conducta y las consecuencias de dicha conducta. [22]
+Diferentes formas de memoria implícita se adquieren a través de diferentes maneras de aprender y afectan a regiones cerebrales distintas.
+La memoria adquirida a través del temor, que tiene un componente
+emocional, implica al núcleo amigdalino. La memoria adquirida a través del condicionamiento operante requiere el estriado y el cerebelo.
+La memoria adquirida a través del condicionamiento clásico, sensibilización y habituación implica reflejos, sistemas sensoriales y motores. 
+
+Mecanismos moleculares del almacenamiento de la memoria
+Almacenamiento de la memoria implícita
+La experiencia repetida consolida la memoria convirtiendo la forma a
+corto plazo en la forma a largo plazo. Como hemos mencionado, una
+única aplicación de serotonina a las neuronas sensitivas de Aplysia, origina una sensibilización a corto plazo. Sin embargo, cinco aplicaciones
+producen sensibilización a largo plazo, de varios días de duración. El
+proceso por el cual la memoria a corto plazo se convierte en memoria a
+largo plazo estable se denomina consolidación.
+Aquí intervienen tres procesos: expresión génica, nueva síntesis de
+proteínas, y crecimiento de conexiones sinápticas. Se ha definido que
+ocurre una aplicación repetida de serotonina, que activa la subunidad
+catalítica de PKA, el cual recluta otra cinasa segunda mensajera, la proteincinasa activada por mitógeno (MAPK), una cinasa que frecuentemente se asocia al crecimiento celular. Ambas cinasas son translocadas
+al núcleo de la neurona sensitiva. Ahí la subunidad catalítica activa un
+interruptor genético, el CREB-1 (proteína ligadora del elemento de respuesta al AMPc). Este factor de transcripción, cuando es fosforilado, se
+une a un elemento promotor denominado CRE (elemento de respuesta
+al AMPc). Por medio de la MAPK, la subunidad catalítica de PKA actúa también de forma indirecta aliviando las acciones inhibidoras de
+CREB-2, un represor de la transcripción. [22]
+La supresión de la acción inhibidora de CREB-2 y la activación de CREB-1
+inducen la expresión de dos genes: la enzima ubiquitina hidrolasa que
+activa el proteosoma para activar PKA persistentemente, y el factor
+de transcripción C/EBP, uno de los componentes de la cascada génica
+necesaria para el crecimiento de nuevas unidades sinápticas. [22] (Ver
+figura N° 5)
+Almacenamiento de la memoria explícita
+El componente importante del sistema temporal medial para el almacenamiento de la memoria explícita está en el hipocampo o Cuerno de
+Amón (CA) por la forma en que se representaba a este dios egipcio que
+se adoraba en la ciudad de Tebas. [32] Se caracteriza por sus grandes célula piramidales. El hipocampo está subdividido en cuatro subregiones: CA1, CA2, CA3, CA4. [33] El hipocampo recibe aferencias por tres
+vías principales (ver figura N° 6):
+1. La vía perforante, que se proyecta desde la corteza entorrinal a las
+células granulosas de la circunvolución dentada
+2. La vía de las fibras musgosas, que contiene los axones de las células
+granulosas y se dirige a las células piramidales de la región CA3 del hipocampo
+3. La vía colateral de Schaffer, que consiste en colaterales excitadoras
+en las células piramidales de la región CA3, termina en las células piramidales de la región CA1. [22]
+En 1973, Timothy Bliss, et al descubrieron en estas vías lo que se conoce como potenciación sináptica a largo plazo (Long term potentiation
+(LTP), por sus siglas en inglés) el cual consiste en un incremento sostenido de la eficacia de la transmisión sináptica tras estimular una vía
+aferente con estímulos de alta frecuencia. Este fenómeno ha sido estudiado más que todo en la sinapsis entre la vía colateral de Schaffer y las
+células piramidales CA1. Sin embargo, se ha visto que la LTP ocurre en
+otras regiones como en la corteza, amígdala, y cerebelo.
+La LTP posee las siguientes propiedades: [34]
+1. Estado dependiente: la membrana postsináptica debe estar lo suficientemente despolarizada para propiciar la LTP.
+2. Cooperatitividad: activación de múltiples entradas a la célula nerviosa.
+3. Especificidad: cuando la LTP es inducida por la estimulación de una
+sinapsis, ésta no va a ocurrir en una sinapsis inactiva que esté en contacto con la misma neurona.
+4. Asociatividad: una estimulación débil no desencadena LTP. Sin embargo, si una neurona presináptica es estimulada débilmente al mismo
+tiempo que la postsináptica, se dará una LTP. Esto constituye la ley de
+Hebb, en la que hay una activación simultánea de la neurona presináptica y la neurona postsináptica. [35]
+Como la LTP es un fenómeno dependiente de la actividad, que posee
+fases y es específico de las sinapsis activadas, su rápida inducción,
+asociatividad, y prolongada duración, éste fenómeno se ha impuesto
+como un modelo sinaptocelular de la memoria a largo plazo. [36-39]
+Mecanismo molecular de la LTP
+A pesar que el fenómeno de la LTP fue descubierto hace 37 años, sus
+mecanismos moleculares no eran bien entendidos hasta ahora. Las
+sinapsis entre las colaterales de Schaffer y las dendritas de las células
+piramidales de CA1 son glutaminérgicas. La membrana postsináptica
+de las prolongaciones dendríticas posee tres tipos de receptores glutaminérgicos: el tipo NMDA (N-metil-D-aspartato), no NMDA como AMPA
+(_-amino-3-hidroxi-5-hidroxi-5-metil-4-isoxazolpropionato), y metabótropo. [40.41]
+El receptor canal NMDA es permeable al Ca2+, pero es bloqueado fisiológicamente por Mg2+. Durante la transmisión sináptica de baja
+frecuencia, el glutamato liberado por las vías colaterales de Schaffer
+se unen a ambos receptores tanto NMDA como AMPA. Si la neurona
+postsináptica está en su potencial de membrana de reposo, los canales NMDA serán bloqueados por los iones de Mg2+. Debido a que el
+bloqueo de los canales de NMDA por el Mg2+ es voltaje-dependiente,
+la función de la sinapsis cambia drásticamente cuando la membrana postsináptica es despolarizada. Así, condiciones que inducen LTP,
+como estimulación de alta frecuencia causará una despolarización prolongada que expulsará el Mg2+ de los canales NMDA. Esto permitirá la
+entrada de Ca2+ y llevará a un incremento en la concentración de Ca2+
+dentro de las espinas dendríticas de la neurona postsináptica desencadenando la LTP. La subsiguiente elevación del Ca2+ en la espina dendrítica dispara las
+cinasas dependientes de calcio: Ca2+/Calmodulina cinasa II (CAMKII),
+proteincinasa C (PKC), y la tirosincinasa Fyn que juntas inducen LTP. La
+CAMKII y la PKC fosforila los receptores canales no NMDA (AMPA) y aumenta su sensibilidad al glutamato, activando de este modo algunos
+canales receptores de otro modo silentes. Estas alteraciones hacen una
+contribución postsináptica en la expresión y mantenimiento de la LTP.
+Así vemos como el mantenimiento de la LTP se debe a los receptores
+AMPA, mientras que la inducción depende en los receptores NMDA.
+[42] (Ver Figura N° 8)
+Posteriormente, la célula presináptica ha de ser informada que se ha
+inducido la LTP. Se ha postulado que un segundo mensajero activado
+por el Ca2+ como el óxido nítrico (NO), el cual es un gas fácilmente difundible de una célula a otra, pudiera ser el mensajero retrógrado involucrado en la LTP.
+Al igual que el almacenamiento de la memoria la LTP tiene dos fases:
+1. LTP temprana o LTP precoz que dura de 1 a 3 horas. No requiere síntesis de nuevas proteínas. [43]
+2. LTP tardía que dura más de 4 horas. Requiere síntesis de novo de
+proteína y ARN. [44-46]
+Esta fase tardía recluta la vía de transmisión de señales del AMPc-PKAMAPK-CREB, la cual activa la expresión de un número de genes implicados en la activación persistente de PKA, y en el crecimiento de nuevas
+zonas de sinapsis. 
+Conclusiones
+En los seres humanos, los mecanismos más importantes a través de los
+cuales el medio altera la conducta son el aprendizaje y la memoria. Somos lo que somos por lo que aprendemos y lo que recordamos.
+El aprendizaje y la memoria son dos procesos íntimamente relacionados, imposibles de separar.
+La memoria, el resultado del aprendizaje, no es un proceso simple, tiene por lo menos dos formas. La memoria implícita (no declarativa) es
+una memoria inconsciente de destrezas perceptivas y motoras. Mientras que la memoria explícita (declarativa) es la memoria de personas,
+lugares y objetos que requieren una recuperación consciente.
+La memoria está constituido por una alianza de diversos sistemas que
+interactúan sirviendo a diferentes funciones mnésicas que operan mediante circuitos neuroanatómicos y neuronales distintos.
+El almacenamiento a largo plazo de la memoria implícita depende de
+la vía AMPc-PKA-MAPK-CREB, y el almacenamiento de la memoria explícita depende de la potenciación a largo plazo en el hipocampo. Los
+estudios sobre los mecanismos celulares y moleculares del aprendizaje
+y la memoria tienen su foco principal en la plasticidad neuronal promovida por la potenciación sináptica a largo plazo.
+Los mecanismos neuronales implicados en el aprendizaje, adquisición
+y consolidación de la memoria no se conocen aún del todo y todavía
+tenemos mucho por descubrir. 

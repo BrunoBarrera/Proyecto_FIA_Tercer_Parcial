@@ -1,0 +1,42 @@
+NEUROANATOMÍA BÁSICA
+
+"Todo ser humano si se lo propone, puede ser escultor de su propio cerebro"
+Santiago Ramón y Cajal
+
+Autores:
+·	Víctor Manuel Benítez Sánchez
+·	Eva María Robles Hernández
+
+Diseño e Ilustración:
+·	Dalia Itzel Jiménez Martínez
+·	José Luis Ramírez Márquez
+· Arturo Castelán Quiroz
+
+
+CONTACTO
+Laboratorio de Investigación y Desarrollo de Aplicaciones Interactivas para
+la Neuro-Rehabilitación (LANR)
+
+Planta baja del edificio de Neurociencias, Instituto de Fisiología Celular, UNAM. Circuito Exterior s/n, Ciudad Universitaria, Coyoacán, 04510, CDMX, México.
+
+M. en C. Ana María Escalante Gonzalbo 55-5622-5730/ aescalan@ifc.unam.mx
+
+Ing. Yoás Saimon Ramírez Graullera 55-5622-5741/ ygraullera@ifc.unam.mx
+Con apoyo de la DGAPA, UNAM Proyecto PAPIIT IT200318
+
+El cerebelo es otra estructura del encéfalo que coordina los movimientos musculares que dirige la corteza motora. Los sensores de los músculos y de las articulaciones envían mensajes de retroalimentación a través de los nervios periféricos para indicar al cerebelo y a otras partes del cerebro dónde y cómo se está moviendo el brazo o la pierna y en qué posición se encuentra. Este intercambio de información permite que hagamos movimientos fluidos y coordinados. Por ejemplo, si quieres levantar el brazo, el cerebelo y el cerebro, en conjunto, envían un mensaje a los músculos del brazo para que éste se mueva. Cuando corres, participa una mayor cantidad de mensajes cerebrales, porque hay muchos músculos que deben trabajar al unísono o de forma encadenada.
+Para que el cerebro y el cerebelo puedan hacer todas estas funciones, se necesita irrigar sangre al encéfalo, para depositar oxígeno y nutrientes. La vascularización arterial cerebral se divide en circulación anterior, dependiente principalmente de la carótida interna y circulación posterior, a través del sistema vertebro- basilar. Ambas se unen a través del Polígono de Willis.
+
+El sistema nervioso se divide en dos componentes principales: El Sistema Nervioso Central (SNC) y el Sistema Nervioso Periférico (SNP). El SNC que se compone del encéfalo y la médula espinal, se conecta con el resto del cuerpo a través de fibras nerviosas o nervios (SNP) que llegan a órganos internos, músculos y a la superficie del cuerpo, permitiendo que el cerebro interprete (sienta) lo que sucede dentro y alrededor de nosotros.
+
+Las células principales del sistema nervioso son las neuronas, que tienen propiedades funcionales que les permiten la recepción, generación y propagación de impulsos nerviosos o transferencia de información de una célula a otra. Éstas tienen tres partes: el soma o cuerpo, las dendritas y los axones, y su función es mandar y recibir información a través de un proceso llamado transmisión sináptica. Los axones pueden medir más de 1 metro de longitud y al conjunto de varios axones es lo que llamamos nervios. Se calcula que existen alrededor de 86 mil millones de neuronas en el cerebro, dependiendo del género y la edad de cada persona.
+
+El cerebro está formado por dos hemisferios conectados entre sí que cumplen funciones distintas. El hemisferio izquierdo tiene la capacidad para las matemáticas, leer y escribir. El hemisferio derecho recibe, elabora y expresa toda la información sensorial y espacial. Sin embargo, a pesar de tener cierta especialización, ambos trabajan en conjunto para realizar todas las actividades mencionadas.
+
+El cerebro a la vez se divide en 5 partes llamados lóbulos cerebrales, que son: frontal (funciones intelectuales), parietal (reconocimiento del espacio), occipital (visión), temporal (comprensión, habla y memoria) e ínsula (dolor).
+
+En el lóbulo frontal se localiza la corteza motora que es aquella parte de la corteza cerebral cuyas principales funciones son permitir la generación, mantenimiento y terminación de movimiento voluntarios y conscientes por parte de la persona. Cuando decides moverte, la corteza motora envía una señal eléctrica, a través de la médula espinal y de los nervios periféricos, a los músculos, haciendo que estos se contraigan. La corteza motora de la parte derecha del cerebro controla los músculos de la parte izquierda del cuerpo y viceversa.
+
+En la corteza existe un mapa corporal de las vías nerviosas, sensoriales y motoras, llamado homúnculo. Es una representación de la superficie del cuerpo, en función de su importancia sensoriomotora, en el cerebro.
+
+Hay conexiones neuromusculares, es decir, las neuronas se comunican con células musculares, que hacen que el músculo se contraiga y se relaje para generar el movimiento. Los músculos tiran de las articulaciones, lo que permite movernos. Y el sistema nervioso el encargado de coordinar y controlar las funciones y movimientos. Para realizar movimientos primero se requiere de la percepción de un estímulo, interno o externo, cuya información se interpreta por las vías o nervios sensoriales y se intercambia con los nervios motores para finalmente generar un movimiento.

@@ -1,0 +1,140 @@
+El Músculo
+esquelético
+
+Informe
+La palabra músculo procede del latín musculus que significa ‘ratón pequeño’. Los músculos pueden considerarse los «motores» del organismo. Sus propiedades (excitabilidad, contractibilidad, elasticidad, etc.) les permiten generar fuerza y movimiento. El sistema nervioso es indispensable para su funcionamiento.
+Los músculos estriados esqueléticos están constituidos por células alargadas: las fibras musculares. Estas fibras, que se organizan en fascículos, se unifican por medio de envolturas elásticas. Cada fibra muscular presenta numerosos núcleos distribuidos en la periferia de la célula. Está delimitada por una membrana (sarcolema) y contiene en su citoplasma (sarcoplasma) unas miofibrillas responsables de la contracción muscular.
+Las miofibrillas presentan una estructura filamentosa regular (miofilamentos) que confiere al músculo ese aspecto estriado que se observa al microscopio.
+Una fibra muscular es el resultado de la unión de varias células no diferenciadas con un único núcleo denominada mioblasto. El miotubo, formado por la unión de los mioblastos, se caracteriza por presentar sus núcleos en posición central. Después, durante la diferenciación del miotubo en fibra muscular, los núcleos van a situarse en la periferia de la célula muscular.
+ 
+ORGANIZACIÓN ANATÓMICA
+Las células musculares, que se organizan en fascículos, se unifican por medio de envolturas de tejido conjuntivo.
+
+Un músculo esquelético está constituido por fascículos musculares formados, a su vez, por un conjunto de fibras musculares. Cada músculo se inserta en el hueso por medio de los tendones, que están constituidos básicamente por tejido fibroso, elástico y sólido.
+
+Envoltura de tejido conjuntivo
+
+Un compartimento muscular comprende un grupo de músculos rodeados por un tejido que los recubre: la aponeurosis. Las aponeurosis carecen de elasticidad, sujetan las células musculares y las obligan a contraerse en un determinado eje. Están unidas a los tendones que conectan los músculos a los huesos. La rotura de la aponeurosis provoca una hernia muscular.
+
+Inervación y vascularización del músculo
+
+Los músculos, además de estar constituidos por fibras musculares y tejido conjuntivo, están recorridos por vasos sanguíneos y fibras nerviosas.
+La actividad normal de un músculo esquelético depende de su inervación. Cada fibra muscular esquelética está en contacto con una terminación nerviosa que regula su actividad.
+Las fibras nerviosas motoras (o nervios motores) transmiten a los músculos las órdenes emitidas (impulsos nerviosos) por el sistema nervioso central. Los músculos se activan entonces de manera consciente (por ejemplo, el bíceps que dobla el brazo) o inconsciente (músculos respiratorios).
+La vascularización, que se realiza a través de las arterias y las venas, es esencial para el funcionamiento muscular. Las arterias proporcionan al tejido muscular los nutrientes y el oxígeno necesarios para su funcionamiento. Las venas siguen el camino inverso al de las arterias. La circulación de retorno elimina del músculo los residuos que proceden del trabajo muscular (ácido láctico, dióxido de carbono o CO2). La acumulación de ácido láctico es perjudicial para conseguir el esfuerzo muscular.
+
+Anatomía del músculo estriado esquelético
+El músculo esquelético está rodeado de varias capas de tejido conjuntivo:
+-	el endomisio rodea cada fibra muscular;
+-	el perimisio agrupa las distintas fibras musculares en haces de fibras musculares;
+-	el epimisio recubre el conjunto del músculo.
+Tras haber atravesado el epimisio, los vasos sanguíneos (arteriolas y vénulas) que garantizan la vascularización del músculo, crean una fina red de capilares que llega al perimisio y después al endomisio para vascularizar cada fibra muscular. Las prolongaciones de los nervios llegan también el perimisio. Terminan en una arborescencia cuyas ramificaciones acaban en la unión neuromuscular para inervar las diferentes fibras musculares.
+ 
+CARACTERÍSTICAS FUNCIONALES
+Las propiedades del músculo (excitabilidad, contractibilidad, elasticidad, etc.) permiten que realice sus funciones.
+
+Excitabilidad
+Es la facultad de percibir un estímulo y responder al mismo. Por lo que se refiere a los músculos esqueléticos, el estímulo es de naturaleza química: la acetilcolina liberada por la terminación nerviosa motora. La respuesta de la fibra muscular es la producción y la propagación a lo largo de su membrana de una corriente eléctrica (potencial de acción) que origina la contracción muscular.
+
+Contractibilidad
+Es la capacidad de contraerse con fuerza ante el estímulo apropiado. Esta propiedad es específica del tejido muscular.
+
+Elasticidad 
+La elasticidad es una propiedad física del músculo. Es la capacidad que tienen las fibras musculares para acortarse y recuperar su longitud de descanso, después del estiramiento.
+La elasticidad desempeña un papel de amortiguador cuando se producen variaciones bruscas de la contracción.
+
+Extensibilidad
+Es la facultad de estiramiento. Si bien las fibras musculares cuando se contraen, se acortan, cuando se relajan, pueden estirarse más allá de la longitud de descanso.
+
+Plasticidad
+El músculo tiene la propiedad de modificar su estructura en función del trabajo que efectúa. Se adapta al tipo de esfuerzo en función del tipo de entrenamiento (o de uso). Así, se puede hacer un músculo más resistente o más fuerte. Los velocistas, tienen en los miembros inferiores un predominio de fibras musculares de tipo «rápido», mientras que en los corredores de maratón, prevalecen las fibras musculares de tipo «lento».
+ 
+
+La actividad muscular está controlada por el sistema nervioso.
+Las fibras musculares están inervadas por fibras motoras ? o motoneuronas ?. Cada motoneurona inerva varias fibras musculares que activa de manera sincrónica.
+La estructura básica en torno a la cual se articula la fisiología muscular es la unidad motora.
+Una unidad motora está formada por una motoneurona (neurona motora) situada en médula espinal, su prolongación (axón) que avanza en el nervio periférico y el conjunto de las fibras musculares inervadas por la motoneurona.
+Cada axón motor se divide en una serie de ramificaciones, cada una de las cuales inerva una única fibra muscular. Así, en el bíceps braquial, una motoneurona inerva por término medio 100 fibras musculares que se activan de manera sincrónica. Durante un movimiento, el control de la fuerza de contracción está en relación con el número de unidades motoras reclutadas.
+ 
+DISTINTOS TIPOS DE FIBRAS MUSCULARES
+ 
+Existen una serie de métodos histoquímicos basados en el estudio de las enzimas del metabolismo muscular que permiten distinguir diferentes tipos de fibras musculares.
+
+Fibras de tipo I de contracción lenta o fibras rojas
+Son numerosas en los músculos rojos. Estas fibras, de pequeño diámetro y muy vascularizadas, contienen numerosas mitocondrias y poco glucógeno.
+Las fibras I son resistentes a la fatiga: se utilizan sobre todo en ejercicios poco enérgicos y prolongados (mantenimiento de la postura).
+ 
+Fibras de tipo II de contracción rápida
+Se localizan en los músculos pálidos y se denominan también fibras blancas. Son de mayor diámetro, presentan pocas mitocondrias, están poco vascularizadas pero contienen mucho glucógeno. Estas fibras, que son poco resistentes a la fatiga aunque muy potentes, se utilizan en los ejercicios breves pero intensos.
+
+Fibras de tipo IIa
+Son fibras intermedias cuyo porcentaje varía según los músculos del organismo y el individuo.
+ 
+La relación fibras lentas/rápidas puede evolucionar en función del entrenamiento y el tipo de ejercicio practicado. Numerosas fibras IIa o intermedias evolucionan hacia el tipo I a consecuencia de ejercicios prolongados y moderados (entrenamiento de fuerza). En cambio, los ejercicios breves e intensos, de 30 segundos a 2 minutos (entrenamiento de resistencia), provocan la evolución de las fibras IIa hacia el tipo II (fibras rápidas).
+ 
+ORGANIZACIÓN CELULAR
+Las células musculares, que se organizan en fascículos, se unifican por medio de unas envolturas de tejido conjuntivo.
+Cada fascículo muscular está formado por un conjunto de fibras musculares. La fibra muscular es una célula alargada cuya longitud puede alcanzar varios centímetros.
+
+Núcleos
+Frente a lo que sucede en las otras células del organismo, la célula muscular posee varios núcleos (multinucleada). Resulta de la fusión de células con un único núcleo (mononucleadas): los mioblastos (durante el desarrollo embrionario) o las células satélite (durante la regeneración después del nacimiento).
+La fibra muscular madura (multinucleada) contiene múltiples núcleos dispuestos en la periferia de la célula.
+ 
+Sarcolema
+La fibra muscular está rodeada por una membrana: el sarcolema. Ésta presenta finas invaginaciones tubulares (túbulos transversos o túbulos T) distribuidas regularmente a lo largo de la fibra muscular en la que penetra profundamente.
+
+Sarcoplasma
+El citoplasma de la fibra muscular, denominado sarcoplasma, contiene las organelas responsables de su funcionamiento (retículo endoplásmico, mitocondrias,…) y el citoesqueleto (1).
+En el sarcoplasma, se encuentran reservas importantes de glucógeno («combustible» de la célula muscular), así como la mioglobina (proveedor de oxígeno de la célula muscular).
+
+Retículo endoplásmico liso y túbulo T
+La fibra muscular posee un retículo sarcoplásmico (2) (RS) liso especialmente desarrollado. Éste forma extensiones de tal modo que dos bolsas de retículo sarcoplásmico rodean cada túbulo T para formar una tríada. La tríada es la estructura que permite el paso de la señal nerviosa (potencial de acción) durante la liberación del calcio a partir del RS, es decir, el acoplamiento de la excitación a la contracción.
+
+Miofibrillas
+La parte fundamental del citoesqueleto muscular está constituida por miofibrillas que son los elementos contráctiles de las células de los músculos esqueléticos. Cada miofibrilla está formada por una cadena de unidades contráctiles repetitivas, los sarcómeros.
+
+Sarcómero
+A lo largo de cada miofibrilla hay una alternancia de bandas oscuras (bandas A) y claras (bandas I). Cada banda A está cortada en el medio por una raya clara (zona H). En medio de la banda I se encuentra una zona más oscura (estría Z). La región de una miofibrilla incluida entre dos estrías Z sucesivas representa un sarcómero. Se trata de la unidad contráctil más pequeña de la fibra muscular.
+ 
+Miofilamentos
+En las moléculas, las estrías de las miofibrillas están formadas por una disposición ordenada de dos tipos de filamentos de proteína o miofilamentos en el sarcómero. Los filamentos gruesos están formados por moléculas de miosina. Los filamentos finos están formados principalmente por actina.
+ 
+Mitocondrias
+El músculo es una verdadera fábrica metabólica que consume energía. El sarcoplasma de una fibra muscular contiene numerosísimas mitocondrias. Son las que producen energía (ATP) directamente utilizable por la fibra muscular para contraer sus miofibrillas.
+(1)	El citoesqueleto constituye el armazón celular. En la célula muscular, la parte fundamental del citoesqueleto está constituida por unos elementos contráctiles, las miofibrillas.
+(2)	El retículo sarcoplásmico liso es una red de cavidades celulares. Constituye la reserva de calcio necesaria para la contracción muscular.
+
+Fibra muscular
+Cada fibra muscular tiene una forma cilíndrica, un diámetro de 50 micras y se extiende de una extremidad tendinosa a la otra. El sarcolema, membrana que la delimita, está rodeado por una red molecular que constituye la lámina basal. Bajo esta lámina basal se sitúan las células satélite o mioblastos potenciales.
+ 
+Sarcolema
+Lámina basal
+Actina
+Miosina	Zona
+H
+Banda I		Banda A	Banda I S a r c ó m e r o 
+Miofibrilla
+Fibra nerviosa
+motora
+Unión muscular
+Sarcolema Miofibrilla
+Mitocondria
+Saco de retículo sarcoplásmico
+Túbulo T
+Estría Z
+ 
+De la fibra muscular a los miofilamentos
+El interior de las fibras musculares está ocupado por numerosas miofibrillas que constituyen los elementos contráctiles.
+Los sarcomeros se caracterizan por asociar, en una trama hexagonal, filamentos proteicos finos (actina) y gruesos (miosina). El deslizamiento de unos filamentos sobre otros provoca la contracción de las miofibrillas.
+
+DESARROLLO DEL MÚSCULO
+La célula muscular, que nace de la capa media del embrión (mesodermo), pasa por varias fases de desarrollo.
+
+Crecimiento del músculo
+Durante la infancia y la pubertad, el crecimiento va a implicar un aumento del volumen del cuerpo muscular de aproximadamente 20 veces. El crecimiento del músculo después del nacimiento no depende de un aumento del número de las fibras musculares (alrededor de 250 millones), sino de un aumento de su diámetro (vinculado a la síntesis de nuevas miofibrillas) y de su longitud. Estas modificaciones están sometidas a factores nerviosos, mecánicos y hormonales.
+
+Envejecimiento del músculo
+Con la edad, los músculos se hacen más delgados y su fuerza disminuye. La utilización escasa o nula de los mismos desempeña un papel importante en la atrofia de las fibras musculares. Se produce una pérdida de las mismas, una disminución de su tamaño, etc. Con frecuencia, a estas lesiones musculares se añade un factor de denervación.
+
+Miogénesis de una fibra muscular
+El miotubo, que resulta de la fusión de varios mioblastos, se diferencia en fibra muscular madura (núcleos múltiples en la periferia). Los axones procedentes de las neuronas de la médula espinal crean una unión neuromuscular hacia la décima semana de la vida embrionaria.

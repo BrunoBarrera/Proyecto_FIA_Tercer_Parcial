@@ -1,0 +1,16 @@
+UV-LED es eficaz para inactivar los coronavirus humanos y el VIH 
+05 de Abril del 2022 
+
+La llegada de los diodos emisores de luz UV ofrece ventajas en cuanto a la facilidad de desinfección, ya que se puede suministrar con la misma unidad que la luz blanca estándar.  
+ 
+La desinfección de fómites sigue siendo una importante medida de salud pública para reducir la propagación de diversas enfermedades transmisibles, especialmente durante una pandemia. Con el reciente reconocimiento del papel que tienen el contacto estrecho y la aglomeración de personas en espacios cerrados en la transmisión de virus, existe un interés creciente por desarrollar tecnologías que permitan una desinfección frecuente y de alto rendimiento. 
+Los sanitizantes químicos convencionales utilizados en espacios clínicos y de laboratorio, aunque eficaces, son una opción poco práctica para desplegar a gran escala debido a los riesgos ambientales, de salud pública y de infraestructura asociados. Además, su uso incluye la variabilidad aportada por el usuario y su atención a los protocolos de limpieza reproducibles y prudentes. 
+La luz ultravioleta (UV) se ha establecido previamente como un método útil de desinfección con una eficacia demostrada para inactivar una amplia gama de microorganismos. La llegada de los diodos emisores de este tipo de onda ofrece ventajas en cuanto a la facilidad de su uso, ya que se puede suministrar germicida con la misma unidad de luz que suministra luz blanca estándar. 
+Investigadores de la Universidad de Toronto (Canadá) demostraron la eficacia y la viabilidad de estos diodos al inactivar dos modelos de virus distintos, el coronavirus humano 229E y el virus de la inmunodeficiencia humana. Es importante destacar que la misma dosis provocó la desactivación completa de esporas bacterianas resistentes a los rayos ultravioleta (Bacillus pumilus), un estándar de oro en esta materia.  
+Para comprobarlo crearon gotitas que contenían los virus para imitar las formas típicas en que la gente se encuentra con ellos, como al toser, estornudar o sangrar. Con 30 segundos de exposición, la capacidad de infección del virus se redujo en un 93%. 
+Al probar los virus en diferentes concentraciones descubrieron que las muestras con más partículas virales eran más resistentes a las luces UV. Pero incluso con una carga viral alta, la infectividad se redujo en un 88%. 
+Así, el trabajo demuestra la eficacia de un módulo UV-LED como medio de descontaminación al inactivar esporas bacterianas resistentes a la radiación UV, el VIH-1 y  el coronavirus humano 229E, observando una reducción de hasta 5,8 Log en la replicación viral, en el último caso.  
+Dentro de las limitaciones del estudio, los investigadores reconocen que los modelos de virus seleccionados eran todos con envoltura elegidos para evaluar cualquier diferencia potencial en la susceptibilidad a la UV debido a la longitud del genoma viral. 
+Fuente bibliográfica 
+DOI: 10.1186/s12985-022-01754-w 
+ 

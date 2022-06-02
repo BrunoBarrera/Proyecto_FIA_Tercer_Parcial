@@ -1,0 +1,14 @@
+Primera línea sanitaria: realidad virtual redujo el estrés
+18 Febrero 2022
+ 
+La pandemia trajo consigo un desgaste emocional, físico y social en los trabajadores de la salud. La realidad virtual se plantea como una herramienta de contención psicológica. 
+Desde la aparición del virus del SARS-CoV2 los trabajadores de la salud han arriesgado sus vidas para combatirlo. Con una sobrecarga laboral, miedo a enfermar a sus familiares, colegas y amigos y problemas financieros del sistema de salud, la llamada “primera línea de la salud” ha estado expuesta a altos niveles de ansiedad, depresión y burnout. Además, investigaciones sugieren que podrían desarrollar, con mayor frecuencia, síndrome de estrés postraumático. 
+Es por estas razones que buscar soluciones creativas para proveer soporte psicológico para estas personas es más importante que nunca. 
+La realidad virtual (RV) ha tenido un rápido crecimiento y un tremendo potencial para dar este soporte. Se ha demostrado con anterioridad su efectividad en pacientes con serios problemas mentales, incluidos el estrés postraumático, el síndrome de ansiedad generalizado, adicciones y depresión. 
+Un equipo de la Universidad de Ohio (USA) creó un sistema de RV de tres minutos con una simulación de escenas de la naturaleza con el fin de bajar el estrés en personas relacionadas al área de la salud. El sistema que permite visualizar en 360º fue concebido como un “respiro” dentro de las demandantes actividades llevadas a cabo durante la pandemia. 
+Hubo un total de 102 personas que participaron en el estudio de las cuales un 82,4% tenían relación con pacientes graves. 
+La simulación fue diseñada de manera realista, con variados detalles y un sistema inmersivo (que hace que el espectador sienta que vive la experiencia). Los participantes podían escuchar los sonidos de los pájaros pisando las hojas, por ejemplo, y se hacía un trayecto guiado y calmo. 
+Los resultados del experimento revelan una significativa reducción del estrés en el corto plazo en trabajadores de la salud. El simulador podría ser una solución accesible para brindar soporte emocional.
+Los investigadores concluyen que su sistema de RV puede ser probado en efectos a largo plazo y aducen que esta área es “prometedora” para futuras investigaciones. 
+Fuente bibliográfica
+DOI: /10.1371/journal.pone.0262703

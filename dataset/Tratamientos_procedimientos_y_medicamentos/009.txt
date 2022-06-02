@@ -1,0 +1,14 @@
+PAP ayudaría a detectar otros cánceres
+09 Febrero 2022
+ 
+La pesquisa se realiza mediante el análisis de muestras de células del cuello uterino que posean firmas epigenéticas únicas para el cáncer de mama y de ovario. 
+
+El cáncer de ovario es el responsable de la mayor proporción de muertes asociadas a problemas ginecológicos. En la actualidad, el 75% de ellos se diagnostican en una fase tardía. El cáncer de mama es el más frecuente en las mujeres y suele detectarse mediante una mamografía seguida de una biopsia. Investigaciones han sugerido, que los cambios en el ADN, podrían utilizarse para predecir el desarrollo de estas patologías.
+Martin Widschwendter y sus colegas del Instituto Karolinska estudiaron si es que es posible detectar otros cánceres a partir de muestras de células del cuello uterino. Para ello, utilizaron muestras recogidas de una cohorte de 242 mujeres con cáncer de ovario y 869 sin él. Los autores midieron 14.000 cambios epigenéticos (modificaciones moleculares que alteran los patrones de expresión de los genes sin que se altere el propio ADN) en las muestras de cribado.
+Los investigadores pudieron determinar una firma del ADN cervical, el índice WID-BC, que ofrece la oportunidad de identificar a las mujeres con un cáncer de mama primario de mal pronóstico basándose en una muestra que no tiene un vínculo anatómico directo con el órgano enfermo. Las mujeres en el cuartil superior del índice WID-BC presentan un riesgo 15,7 veces mayor de padecer cáncer de mama, independientemente de cualquier otro factor de riesgo.
+En la cohorte, la firma de metilación permitió a los autores identificar el 71,4% de las mujeres menores de 50 años y el 54,5% de las mayores de 50 años con cáncer de ovario con una especificidad del 75%. Los resultados se validaron además en una cohorte adicional de mujeres, en la que 47 tenían cáncer de ovario y 227 no, y descubrieron que las mujeres con puntuaciones más altas pueden tener un mayor riesgo.
+Los resultados sugieren que las alteraciones del epigenoma cervical cuantificadas por el índice reflejan la predisposición al cáncer en otros tejidos del cuerpo sensibles a las hormonas, más que la presencia de la enfermedad. 
+Los autores indican que sus hallazgos sobre el uso de firmas epigenéticas puede ayudar a la detección de estos cánceres. Sin embargo, concluyen que se necesitan más investigaciones y ensayos clínicos prospectivos a gran escala para confirmar este descubrimiento.
+Fuente bibliográfica
+DOI: 10.1038/s41467-021-27918-w
+

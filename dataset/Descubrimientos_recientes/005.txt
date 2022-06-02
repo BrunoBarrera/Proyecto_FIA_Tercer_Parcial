@@ -1,0 +1,13 @@
+Montelukast puede bloquear proteína crucial del SARS-CoV-2
+02 de Mayo del 2022
+
+La proteína no estructural 1 (del inglés Nsp1) suprime la función inmune y es vital en la replicación viral.  
+
+El SARS-CoV-2, es un virus envuelto que contiene ARN de cadena positiva y pertenece a la familia de los coronavirus beta que contiene un genoma de ARN de casi 30 kb con una tapa de 5' y una cola de 3' de poli-A  que codifica para 14 marcos de lectura abiertos (de su sigla en inglés ORF). Al entrar en las células del huésped, el ORF1a y el ORF1b codifican para dos poliproteínas que, posteriormente se escinden de forma autoprotética en 16 proteínas, a saber, Nsp1-Nsp16. Entre estas proteínas, Nsp1 contiene un dominio N-terminal y hélices C-terminales conectadas por una región enlazadora que se une al canal de entrada de ARNm de la subunidad ribosomal 40S y bloquea la entrada de ARNm, con lo que se interrumpe la síntesis de proteínas del huésped. Nsp1 también induce la escisión endonucleolítica.
+Investigadores del Instituto de Ciencia de la India analizaron distintos fármacos contra Nsp1-C-ter. Utilizaron un modelo computacional para examinar más de 1.600 fármacos aprobados por la FDA con el fin de encontrar los que se unen fuertemente a la molécula. A partir de ellos, pudieron preseleccionar una docena de fármacos, entre ellos el montelukast y el saquinavir, un medicamento contra el VIH. 
+En colaboración con el grupo de Sandeep Eswarappa, profesor asociado del Departamento de Bioquímica, el equipo cultivó entonces en el laboratorio células humanas que producían específicamente Nsp1, las trató con montelukast y saquinavir por separado y descubrió que solo el montelukast era capaz de rescatar la inhibición de la síntesis de proteínas por Nsp1 y muestra una actividad antiviral contra el SARS-CoV-2 con una reducción de la replicación viral en células HEK que expresan ACE2 y en células Vero-E6. 
+El rescate de la detención de la maquinaria de síntesis de proteínas del huésped por parte de montelukast parece contribuir a la actividad antiviral del fármaco; sin embargo, los investigadores sostienen que  sería esencial realizar más experimentos para averiguar el mecanismo detallado de su actividad antiviral. En conclusión, el estudio identifica la región C-terminal de Nsp1 como una diana farmacológica y el montelukast como un punto de partida para diseñar moléculas farmacológicas más potentes contra el SARS-CoV-2.
+
+Fuente bibliográfica
+DOI: 10.7554/eLife.74877
+

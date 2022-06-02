@@ -1,0 +1,12 @@
+Test de saliva para diagnosticar endometriosis
+22 Febrero 2022
+	 
+La pesquisa de esta enfermedad suele ser compleja y pueden pasar hasta ocho años. 
+La endometriosis, definida por la presencia de tejido similar al endometrio fuera del útero, afecta al 2-10% de la población femenina, es decir, a unos 190 millones de mujeres en todo el mundo. Se trata de una enfermedad heterogénea con una historia poco conocida y como tal plantea muchos desafíos. El primero es el diagnóstico a tiempo, sobre todo porque los síntomas son inespecíficos, y el examen clínico suele ser negativo o dar lugar a un diagnóstico erróneo.
+El segundo reto es que las exploraciones complementarias, especialmente los biomarcadores y los exámenes de imagen, no suelen ser concluyentes y no la pesquisan en su fase inicial o tienen una relevancia limitada para las formas graves. En consecuencia, las estrategias terapéuticas y de seguimiento se ven comprometidas y hay fracasos de los tratamientos convencionales. 
+Investigadores de la Sorbona (Francia) encontraron una relación entre determinados microARN y la aparición de la endometriosis. El estudio consistió en dos partes: (i) la identificación de un biomarcador basado en el perfil expresión de miARN en todo el genoma mediante la secuenciación de próxima generación (NGS) y (ii) el desarrollo de una firma diagnóstica.
+Los autores analizaron la saliva de 153 mujeres que padecían la enfermedad y de 47 mujeres sanas. De este modo, pudieron identificar 109 microARNs implicados.
+A partir de estos resultados, se desarrolló una prueba de diagnóstico rápido mediante una muestra de saliva con una sensibilidad 96,7% para casos positivos y de un 100% para los negativos. Además, el examen a es capaz de diagnosticar todas las formas de endometriosis. 
+La toma de muestras de saliva es un proceso barato y no invasivo y puede repetirse varias veces, por lo que puede mejorar el manejo terapéutico de las pacientes a través de la identificación temprana de la patología. 
+Fuente bibliográfica
+DOI: 10.3390/jcm11030612

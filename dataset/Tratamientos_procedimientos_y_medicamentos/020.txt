@@ -1,0 +1,13 @@
+Vacuna inhalatoria contra COVID-19 funciona también contra sus variantes
+16 Febrero 2022
+	 
+La inmunización intranasal posee vectores adenovirales de origen humano y chimpancé y muestra una capacidad superior de protección contra el virus que su símil intramuscular. 
+
+La aparición de las variantes de preocupación del  SARS-CoV2 amenazan la efectivdad de las actuales vacunas que se administran de forma intramuscular y que fueron diseñadas para dirigirse solamente a la proteína espiga del virus. 
+En razón a esto, existe una creciente necesidad de desarrollar una próxima generación de estrategias de inmunización que tengan larga duración. 
+Un equipo de la Universidad de McCaster recogió esta inquietud de la comunidad científica y en base a vectores adenovirales de origen chimpancé y humano fabricaron una vacuna intranasal trivalente que se expresa en la proteína spike 1, los nucleocápsidos y los antígenos RdRp.
+Con una sola dosis, particularmente hecha con el vector de origen chimpancé, se demostró una inmunización superior a la obtenida vía intramuscular debido a una inducción tripartita de la protección consistente en una respuesta local y sistémica de anticuerpos, células T de memoria residentes en el tejido de la mucosa y la inmunidad innata.
+Además, este tipo de vacuna proporciona protección tanto contra el SARS-CoV-2 ancestral como contra dos variantes de preocupación, la B.1.1.7 y B.1.351. 
+Los resultados indican que la administración en la mucosa respiratoria de la vacuna multivalente vectorizada por adenovirus representa una estrategia eficaz de la próxima generación de vacunas contra la COVID-19 para inducir una inmunidad total en la mucosa contra los virus contra los COV actuales y futuros. 
+Fuente bibliográfica
+DOI: 10.1016/j.cell.2022.02.005

@@ -1,0 +1,143 @@
+RESUMEN DEL SISTEMA NERVIOSO
+Dra. C. Lorenzo
+
+
+1.	El sistema nervioso controla e integra todas las acciones del cuerpo, percibiendo los cambios, interpretándolos y reaccionando a ellos.
+
+2.	El sistema nervioso central (SNC) consta del encéfalo y la médula espinal.
+
+3.	El sistema nervioso periférico (SNP) consta del sistema nervioso somático que innersa el músculo esqueletal; y el sistema nervioso autonómico, el cual inerva el músculo cardíaco, el músculo liso y las glándulas.
+
+HISTOLOGÍA
+
+1.	Las células nerviosas se llaman neuronas, son las responsables de la conducción de impulsos.	Una neurona no consta de un cuerpo celular, dendritas que reciben estímulos, y un axón que transmite impulsos del cuerpo celular a las dendritas o al cuerpo celular de otra neurona o a un órgano del cuerpo.	Algunos axones fuera del sistema nervioso central están rodeados de una vaina de mielina, formada por células de Schwann. El neurilema es una membrana fina por fuera de la mielina. (ver diagrama)
+
+2.	En base a su función las neuronas se clasifican en:
+a.	Sensoriales o aferentes que transmiten impulsos hacia el SNC.
+b.	Motoras o eferentes que transmiten del SNC a los efectores.
+c.	De asociación transmiten impulsos a otras neuronas.
+
+3.	La neuroglia esta formada por células de tejido conjuntivo que sostienen, unen las neuronas a los vasos sanguíneos y realizan fagocitosis. No es tejido nervioso, pero se encuentra solo en el SNC.
+
+4.	Las neuronas no se dividen pero los axones que tienen neurilema si ser cortan, son capaces de regenerarse.
+
+IMPULSO NERVIOSO
+
+1.	Irritabilidad es la habilidad de las neuronas para responder a un estímulo y convertirlo en un impulso nervioso.
+
+2.	El impulso nervioso es una onda de despolarización que se mueve de un punto a otro a lo largo de la membrana de una neurona.
+ 
+3.	Sinapsis – es el paso del impulso nervioso de una neurona a otra. Entre las 2 neuronas hay un espacio donde el axón libera un neurotransmisor. (sustancia química que estimula la próxima neurona o al efector).
+4.	La acetilcolina es en muchos casos el neurotransmisor en la sinapsis y en el músculo esqueletal. La colinesterasa destruye la acetilcolina una vez para el impulso.
+
+5.	En algunas sinapsis se liberan transmisores químicos inhibidores.
+
+6.	El arco reflejo es la unidad funcional del sistema nervioso. Es la ruta mas corta que puede tomar un impulso de un receptor a un efector.   (músculo o glándulas)
+
+7.	Un reflejo es una respuesta rápida e involuntaria a un estímulo, que se desplaza en un arco reflejo.   Ejemplo, el reflejo rotuliano que envuelve solo 2 neuronas; el retiro brusco de la mano de un objeto caliente, envuelve 3 neuronas.
+
+8.	La iniciación del impulso y la conducción, pueden ser inhibidas o bloqueadas por una disminución de la temperatura, por la presión o por ciertas drogas. Si se aplican presiones excesivas o prolongadas a un nervio, la transmisión del impulso ser interrumpe y una parte del cuerpo se “adormece” Los anestésicos son substancias químicas que producen pérdida parcial o completa de la sensación. Se cree que alteran la
+ 
+permeabilidad  de  la  membrana  de  al cerebro.
+ 
+neurona y no llega el impulso al
+ 
+
+ORGANIZACIÓN DEL TEJIDO NERVIOSO
+
+1.	Materia Gris = consiste de cuerpos de neuronas y dendritas o axones amielínicos.
+
+2.	Materia Blanca = consiste de axones mielínicos.
+
+3.	Nervio = es un haz de fibras en exterior del SNC.
+
+4.	Tracto = es un haz de fibras dentro del SNC.
+
+5.	Ganglio = una agrupación de cuerpos celulares fuera de SNC.
+
+6.	Las Fibras nerviosas = son las dendritas y los axones.
+
+7.	Núcleo = un conjunto de cuerpos celulares de neuronas o dendritas en el interior del encéfalo.
+ 
+ENCÉFALO
+
+1.	Las partes principales son el cerebro, el cerebelo y el tallo cerebral, que consiste de la medula oblongada, el pons y el mesencéfalo.   El tálamo y el hipotálamo.
+
+2.	El cerebro es la parte más grande. La corteza es arrugada, presenta circunvoluciones, fisuras y surcos.
+3.	Las funciones del cerebro son motoras (movimientos musculares voluntarios), sensoriales (interpretación de los impulsos sensitivos) y de asociación (impulsos emocionales e intelectuales como memoria, emociones, razonamiento e inteligencia).
+
+4.	Las ondas cerebrales dadas por la corteza cerebral se registran en un electroencefalograma. Este puede usarse para el diagnóstico de enfermedades, infecciones y tumores.
+
+5.	El cerebelo queda inferior al cerebro. Funciona en la coordinación de los músculos esquelétales y mantener la postura y el equilibrio.
+
+6.	La médula oblongada es una dilatación en la parte superior de la médula espinal luego de ésta pasar el foramen mágnum. Contiene núcleos que son centros reflejos vitales para la contracción cardíaca, la respiración, la vasoconstricción y vasodilatación. Funciones que nos mantienen vivos.
+
+7.	El pons queda superior a la médula oblongada. Conduce impulsos que tienen que ver con los movimientos esqueletales voluntarios que vienen de la corte za al cerebelo.
+
+8.	El mesencéfalo une al pons y al cerebelo con el cerebro. Conduce impulsos motores del cerebro al cerebelo y a la médula espinal y conduce impulsos sensoriales de la médula espinal y conduce impulsos sensoriales de la médula al tálamo. Regula los reflejos auditivos y visuales.
+
+9.	El tálamo sirve como una estación de relevo y un centro para la interpretación de ciertos impulsos como sensaciones de dolor.
+
+10.	El hipotálamo está por debajo del tálamo. Controla el sistema nervioso autonómico, regula la temperatura, el hambre y la sed y participa en los estados de vigilia y de sueño.
+
+MÉDULA ESPINAL
+
+1.	La médula espinal se extiende desde el foreman mágnum hasta la segunda vértebra lumbar.
+ 
+
+2.	La materia gris queda en la parte interna en forma de H con el canal central en el centro. La materia blanca rodea la materia gris.
+
+3.	Funciona como doble vía de los sistemas de conducción entre el encéfalo y la periferia y controla los reflejos simples. (no dependientes de los nervios craneales)
+
+
+CONSERVACIÓN Y PROTECCIÓN
+
+1.	La interrupción del suministro del 02 al encéfalo puede producir parálisis, retardación mental, epilepsia y muerte. La deficiencia de glucosa puede producir vértigos, convulsiones o inconsciencia. El cerebro necesita un suministro de 02 y glucosa constante.
+
+2.	El SNC está protegida por huesos (cráneo y vértebras) y por membranas, las menínges (duramadre, aracnoides y piamadre).
+
+3.	El líquido cerebroespinal protege y sirve como amortiguador de golpes. En el interior fluye por los ventrículos encefálicos y el canal central de la médula espinal. En el exterior circula por el espacio sub-aracnoideo.
+
+PORCIÓN SOMÁTICA DEL SISTEMA NERVIOSO PERIFÉRICO
+
+1.	El SN periférico conecta el SNC con otras partes del cuerpo. Consiste de nervios.
+
+2.	La porción somática consiste de todas las fibras de neuronas que conducen impulsos motores del SNC a los músculos esqueletales y todas las neuronas que conducen impulsos sensoriales al SNC.
+
+3.	En el encéfalo se originan 12 pares de nervios craneales algunos son sensoriales, otros son motores y otros son nervios mixtos (contienen fibras sensoriales y fibras motoras).
+
+4.	De la médula espinal se originan 31 pares de nervios, todos son mixtos. Están unidos a la médula por dos raíces; dorsal y ventral. Las ramas ventrales forman plexos (redes de fibras) antes de inervar partes del cuerpo.
+
+SISTEMA NERVIOSO AUTONÓMICO
+
+Es parte del SN periférico, se compone de neuronas que inervan efectores viscerales; músculo liso, músculo cardíaco y glándulas. Para cada efector hay 2 neuronas eferentes, preganglionares (con axones mielínicos) y postganglionares
+ 
+con axones amielínicos.	Controla las actividades del cuerpo de manera automática, fuera del nivel conciente.
+
+SUB-DIVISIONES DEL SNA
+
+1.	Parasimpática o craneosacral = la primera neurona motora, sale del encéfalo o de la porción sacral de la columna. Está en control la mayor parte del tiempo, se encarga de las funciones normales del cuerpo (digestión, eliminación). La segunda neurona motora sale de un ganglio en o cerca del órgano que inerva. Tanto al axón pregangliónico como el post-gangliónico liberan acetilcolina.
+2.	Simpática o Torácica-lumbar = prepara el cuerpo para afrontar estados de tensión (reacciones de pelee o huya). La primera neurona motora se encuentra en la materia gris de la médula, la segunda está en la cadena de ganglios simpáticos cerca de la médula o en ganglios colaterales. Segrega norepinefrina en el efector. La norepinefrina aumenta la velocidad cardíaca y respiratoria. Las pupilas se dilatan, los vasos sanguíneos de la piel y las vísceras se contraen; los vasos sanguíneos restantes se dilatan y le llega mas sangre al músculo esqueletal, al músculo cardíaco, los pulmones y al cerebro. La glucosa sanguínea aumenta, estimula las glándulas adrenales a producir epinefrina que prolonga los efectos.
+
+Cuando un órgano es inervado por ambos sistemas uno hace lo contrario del otro por ejemplo; el simpático dilata los bronquios, el parasimpático los contrae.
+
+DESORDENES COMUNES DEL SISTEMA NERVIOSO
+
+La causa principal del deterioro del SN son problemas del sistema circulatorio. La arterioescleorosis y la hipertensión resultan en una disminución en la cantidad de O2 que llega a las neuronas. Esa disminución gradual del O2 finalmente lleva a senilidad (cambios en el intelecto y en la memoria y otras funciones del SN debido al envejecimiento).
+
+1.	Accidente cerebro vascular = Ataque fulminante súbito; es la destrucción del tejido nervioso que resulta de cualquier lesión en los vasos que irrigan el cerebro. Las causas comunes son la hemorragia intracerebral, la embolia y la arteriosclerosis de las arterias cerebrales. El trastorno que sigue después del ataque depende de las partes del cerebro que fueron lesionadas. TIA muchas personas de edad avanzada sufren isquemia temporera, casi siempre debido a arteriosclerosis. Durante estos leves ataques la persona puede tener un desmayo corto, visión borrosa o vértigo y no darse cuenta de que ha ocurrido algo serio.
+ 
+2.	Enfermedad de Parkinson = se caracteriza por movimientos esqueletales inútiles que a veces interfieren con los movimientos voluntarios. Se debe a una producción deficiente de dopamina en los núcleos basales del cerebro. La dopamina inactiva la acetilcolina y evita la continúa conducción a través de la sinapsis. Ocurre temblor en las manos, rigidez en los músculos de la cara.
+
+3.	Esclerosis múltiple = es la destrucción de las vainas de mielina de las neuronas SNC. Se interrumpen las transmisiones del impulso. Se producen placas en múltiples regiones. Ejemplo: si se producen en el cerebelo puede producir incoordinación de una mano. Las vainas lesionadas a menudo se regeneran y los síntomas desaparecen por algún tiempo. Los síntomas dependen de las áreas del SNC que presentan mayor número de placas.
+
+4.	Enfermedad de Alzheimer = es una degeneración progresiva del cerebro que resulta en deterioro mental. Ejemplo: pérdida de memoria, desorientación, alucinaciones. También el individuo se deteriora físicamente.
+
+5.	Miastemia gravis = el termino atrofia se refiere a una reducción en el tamaño de un órgano. La atrofia muscular puede ser causada por la falta de uso, ya sea porque el individuo no hace ejercicios o porque los impulsos no llegan a las fibras musculares o por una miopatía. La miastemia gravis es una atrofia de los músculos esqueletales causada por la falla de las neuronas en liberar acetilcolina o por cantidades excesivas de colinesterasa. Es más común en mujeres. Los músculos de la cara y el cuello son los más afectados.
+
+6.	Lesiones de la médula espinal = la médula espinal puede ser lesionada por fractura o luxación de las vértebras o heridas. La lesión puede ser parcial o completa. En la transección completa todas las vías ascendentes y descendentes han sido cortadas. Ocurre una pérdida de todas las sensaciones y de los movimientos musculares voluntarios por debajo del nivel de la sección. Las personas con secciones completas de la médula cervical cerca de a la base del cráneo, usualmente mueren por asfixia. Tetraplejia = es la pérdida de la función motora y/o sensorial en los segmentos cervicales de la medula espinal.   Tanto los brazos como las piernas, se paralizan.
+Paraplejia = daño en los segmentos torácicos, lumbares y sacrales de la médula espinal. Produce parálisis de las piernas solamente.
+
+7.	Tumores cerebrales = pueden ser benignos o malignos pero debido a su relación con estructuras vitales, puede que tumores benignos tengan efectos malignos. Hay tumores del cráneo, de las meninges, la neuroglia, los nervios craneales y la hipófisis. Se encuentran también tumores
+ 
+metastáticos cuyo origen no es el SNC. Los síntomas se presentan cuando el tumor lesiona neuronas por invasión indirecta de ellas, por presión sobre otras partes del encéfalo y por obstrucción del líquido cerebroespinal. Los síntomas locales varían según la región tejido cerebral comprimido o destruida.

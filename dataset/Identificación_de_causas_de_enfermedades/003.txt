@@ -1,0 +1,421 @@
+Importancia de variabilidad de la presión arterial.
+RE SU MEN
+Se realizó una revisión actualizada sobre ritmo circadiano y patrones de variabilidad de la presión arterial 
+(PA), factores involucrados y repercusión. Entre los cambios de la presión arterial definidos que inciden en 
+la variabilidad se describe la marea hipertensiva matutina, caracterizada por mayor presión y variabilidad de 
+la misma en las primeras horas de la mañana que en el resto del día, la hipertensión de bata blanca o de 
+consultorio, que es aquella que ocurre en sujetos normotensos en medios habituales y que en un entorno 
+médico presentan cifras de hipertensión y los cambios del patrón durante el reposo nocturno que por co nvención se considera normal (dipper) cuando la caída nocturna es mayor de 10% y menor de 20%.
+Se describen 3 patrones anormales de variaciones de la presión arterial durante el sueño: non dipper, dipper reverso o raiser y dipper extremo o acentuado. Se describen los efectos de la variabilidad sobre órganos diana y su valor pronóstico. Se concluye que los efectos adversos de la hipertensión arterial (HTA) sobre el sistema cardiovascular son reflejos y están determinados, no solo por el grado de elevación de la 
+presión arterial, sino por la magnitud de la variabilidad de la misma en el período de 24 horas.
+
+Introducción
+n las últimas décadas el desarrollo de técnicas que permiten la medición continua o 
+periódica de la presión arterial (PA), tanto 
+sistólica como diastólica, en diferentes individuos ha evidenciado que esta experimenta espontáneas variaciones en el período de 24 horas 1-3
+. 
+Estas variaciones tienen su origen en cortos episodios presores y relajantes del tono vascular que le 
+confieren a los registros de presión arterial el característico aspecto de irregularidad 4, hecho que también se origina de la diferencia entre los mayores 
+valores diurnos y los menores nocturnos, la cual es 
+de alrededor de 15 a 20 mmHg 5. 
+Los primeros en demostrar estos cambios fueron 
+Mancia et al, en 1983, mediante registros continuos 
+intraarteriales que mostraron una variabilidad entre 
+50 y 60 mmHg en el período de 24 horas4. Inicialmente los estudios se realizaban en unidades de 
+investigación cardiovascular con registros intraarteriales directos. A partir de inicios de la década del 
+80 los investigadores concertaron en jerarquizar el 
+monitoreo no invasivo de la presión arterial 6. 
+La variabilidad de la presión arterial ha sido calculada sobre la base de la desviación estándar en el 
+período de 24 horas de la presión sistólica, diastólica y media, lo que ha permitido determinar que la 
+variabilidad de la presión arterial media es de alrededor del 10% del valor medio con grandes diferencias entre individuos y que la variabilidad de la presión sistólica es mayor que la de la diastólica. Se ha 
+reportado además que la fluctuación es mayor en 
+hipertensos que en normotensos 3. 
+Se han realizado estudios con otros índices de variabilidad para tratar de complementar las desviaciones estándar de la presión arterial en el período 
+de 24 horas. El grupo de Mancia, por ejemplo, ha 
+encontrado diferencias de las desviaciones estándar entre los períodos de media hora; variabilidad 
+que refleja, entre otras, las diferencias entre el día y 
+la noche, y dentro del período de media hora, lo 
+que muestra la corta duración de las fluctuaciones 
+de la presión arterial que ocurren en subperiodos 
+de duración limitada 7,8.
+Indicaciones del monitoreo ambulatorio de la 
+presión arterial (MAPA).
+Todavía existen numerosas interrogantes en lo relativo al uso óptimo del MAPA en el diagnóstico y 
+manejo de la hipertensión arterial (HTA) pues se 
+necesitan investigaciones que evalúen si el monitoreo ambulatorio puede reducir la sobre-prescripción 
+de drogas a pacientes que en el escenario de la 
+consulta parecen resistentes al tratamiento.
+Igualmente sería ventajoso verificar si con el uso del 
+monitoreo ambulatorio de la presión arterial (MAPA) 
+puede mejorarse el pronóstico al asegurar un incremento en el control de la presión arterial media 
+de 24 horas en pacientes de alto riesgo cuya presión en consulta, al reposo o en el pico de acción 
+de las drogas antihipertensivas, parece ser normal 
+17.
+Por el momento, y en el contexto de la práctica 
+clínica habitual, su uso está recomendado para 
+sujetos hipertensos de difícil control o resistentes al 
+tratamiento, y también para los que han presentado 
+eventos cardiovasculares o han tenido una reperc usión notoria sobre órganos diana.
+Se usa además en el diagnóstico de la hipertensión 
+de bata blanca, en la identificación de hipertensión 
+nocturna, en el manejo de la hipertensión durante el 
+embarazo, en la decisión del tratamiento en pacientes de edad avanzada, así como para evaluar la 
+existencia de síntomas sugerentes de hipotensión 
+arterial o cuando hay una variabilidad importante en 
+las cifras de presión arterial 18, 19. 
+Por último, el monitoreo ambulatorio de la presión 
+arterial (MAPA) constituye una invaluable herramienta en la valoración de la eficacia de las diferentes drogas antihipertensivas 3.
+RITMO CIRCADIANO DE LA PRESIÓN ARTERIAL.
+La presión arterial sigue un ritmo circadiano reproducible, semejante al patrón de cualquier variable 
+fisiológica 20
+. Los cambios de la presión arterial 
+están íntimamente ligados al nivel de vigilia, con los 
+mayores valores cuando el paciente está despierto, 
+física y mentalmente activo, y los más bajos durante 
+el descanso y el sueño 21, 22
+. 
+En la primera hora del sueño normalmente existe 
+una caída progresiva de la presión arterial, la que 
+usualmente muestra su máximo decrecimiento —de 
+un 15 a un 20%— dos horas después del comienzo. 
+Esto coincide con el estado más profundo de la 
+fase de ondas lentas del sueño. 
+Durante la fase REM (movimientos rápidos de ojos) 
+la presión arterial se mantiene aproximadamente un 
+10% menor que cuando se encuentra despierto 
+E
+Revista Cubana de
+Cardiología y Cirugía Cardiovascular
+Órgano Oficial de la Sociedad Cubana de Cardiología
+Volumen 22, No 1 (2016)
+ISSN: 1561-2937
+Publicada por ECIMED
+56
+pero es mucho más variable, con fluctuaciones de 
+hasta 30 mmHg en pocos minutos 22- 24
+. 
+Existe una elevación de la presión arterial que tarda 
+de tres a cinco horas y ocurre en la transición del 
+sueño al completo despertar. En la vigilia, la presión 
+arterial se eleva inmediatamente y esa relación queda evidenciada por el hecho de que en pacientes 
+obnubilados aparecen episodios de ritmo alfa 
+acompañados de elevaciones de la presión arterial 
+25
+. 
+De la misma forma, elevaciones de la presión arterial similares a las mediadas por 
+vasoconstricción simpática, pueden observarse 
+también durante los complejos K, que son breves 
+periodos de despertar durante los estadios 1 y 2 del 
+sueño en respuesta a estímulos externos. Estos 
+cambios en los valores de presión arterial son más 
+pronunciados en hipertensos que en normotensos 
+21, 22,26
+.
+Fluctuación de la presión arterial.
+La presión arterial fluctúa siguiendo un patrón rítmico característico y no de manera aleatoria. Un ritmo 
+de aprox. 0.1 Hz (6 ciclos/min) es fácilmente identificable cuando la presión arterial se monitoriza continuamente, patrón que fue establecido a finales del
+siglo XIX por Traube, Hering, y Mayer y que puede 
+ser analizado usando análisis espectral en el rango 
+de baja frecuencia. 
+Existe controversia sobre el origen de este ritmo. 
+Dos teorías han sido propuestas, la del marcapasos 
+y la del fenómeno de resonancia.
+La primera sugiere que el ritmo es generado mediante oscilaciones dentro del sistema nervioso 
+central, ya sea localizado en un marcapaso o en la 
+red neuronal. La segunda explica que este ritmo 
+puede ser el resultado de un fenómeno de resonancia debido a que el fenómeno baro-reflejo inhibe el 
+tono simpático ante cada incremento de la presión 
+arterial 27
+. 
+Es decir, la presión arterial no es una entidad fija, 
+por el contrario, continuas fluctuaciones ocurren 
+durante el día y la noche, de corta y más larga duración, algunas siguiendo el patrón circadiano ya 
+descrito, y otras en respuesta a diversos factores 
+como estrés psíquico, esfuerzos físicos, cambios 
+bruscos de temperatura, acción de medicamentos y 
+de hormonas 28,29
+. 
+El ejercicio físico agudo y el estrés emocional incrementan los valores de presión arterial y sus fluctuaciones, mientras que el sueño y la digestión 
+pueden claramente disminuirlas. Numerosos factores humorales — angiotensina, endotelina, óxido 
+nítrico, bradicinina, insulina —pueden estar involucrados en el control de las fluctuaciones aunque la 
+evidencia clínica no es aún concluyente 30-32
+. 
+También se relacionan con cambios en la respiración, así como con alteraciones rítmicas en el control central autonómico mediado por mecanismos 
+baro-reflejos. Algunas evidencias obtenidas de registros intraarteriales continuos indican que la variabilidad de la presión arterial podría deberse a una 
+disfunción de baro-receptores 33, 34
+. 
+ALTERACIONES DEL RITMO CIRCADIANO Y PATRONES DE VARIABILIDAD.
+Aunque los mecanismos responsables no han sido 
+satisfactoriamente dilucidados existe evidencia de 
+que numerosos factores humorales, nerviosos, reflejos y del comportamiento, están involucrados en 
+el fenómeno. 
+Aunque se ha mostrado que los valores clínicos 
+elevados de presión sanguínea, en cierto rango, 
+predicen un incremento de la morbilidad y mortalidad cardiovascular, existe un número de pacientes 
+con hipertensión arterial (HTA) que no presentan 
+morbilidad o eventos cardiovasculares adversos 35
+. 
+Este hallazgo puede ser explicado, al menos en 
+parte, por el hecho de que las tomas aisladas de 
+presión arterial realizadas durante las visitas clínicas, no reflejan precisamente las presiones arteriales prevalecientes durante las condiciones de vida 
+diarias normales, sugiriendo una superioridad potencial de la monitorización ambulatoria de 24 
+horas, a la realizada con el esfigmomanómetro 35
+. 
+Basados en estudios de laboratorio usando fenilefrina y nitroprusiato, se reporta una relación inversa 
+entre la sensibilidad de los baro-receptores arteriales y las oscilaciones de la presión arterial: mientras 
+mayor sea la variabilidad de la presión arterial, menor será la habilidad de los baro-receptores para 
+modular la presión arterial y la frecuencia cardíaca 
+36, 37
+. 
+La presión arterial puede variar también de una 
+estación del año a otra, siendo los menores valores 
+de variabilidad detectados en verano y los mayores 
+en invierno.
+El estudio PAMELA, por su parte, demostró que no 
+existen diferencias entre las tomas hospitalarias, en 
+casa o ambulatorias durante los diferentes días de
+Revista Cubana de
+Cardiología y Cirugía Cardiovascular
+Órgano Oficial de la Sociedad Cubana de Cardiología
+Volumen 22, No 1 (2016)
+ISSN: 1561-2937
+Publicada por ECIMED
+57
+trabajo de la semana, contrario a lo que se creía 
+anteriormente 38
+. 
+Otros estudios han mostrado que las fluctuaciones 
+de la presión arterial se incrementan progresivamente con la edad 39, 40
+.
+Las desviaciones estándar para 24 horas, cuando 
+se basan en estudios de hipertensión arterial (HTA) 
+esencial, son progresivamente mayores con el incremento de los valores de presión arterial. Esto es 
+poco probable que sea el resultado del incremento 
+de las diferencias entre el día y la noche de la presión arterial, partiendo del hecho de que la hipotensión nocturna tiene una magnitud similar en individuos normotensos e hipertensos y no parece estar 
+relacionada con un incremento en la magnitud de 
+las oscilaciones de corta duración de la presión 
+arterial 3, 41
+.
+La hipertensión arterial (HTA) esencial tiene una 
+base genética y se asocia con una alteración en la 
+liberación endotelial de óxido nítrico (ON). En seres 
+humanos se ha identificado una variante del gen de 
+la óxido nítrico sintetasa endotelial (ONSe) dentro 
+del exón 7: la transversión G -> T a laposición del 
+nucleótido 894 de la ONSe ADNc, lo que resulta en 
+un cambio de Glu298 (CAG) a Asp (GAT). Se ha 
+hallado una asociación significativa entre HTA y el 
+polimorfismo 894G>T (Glu298Asp) ONSe. 
+Por consiguiente, los cambios en la vía del óxido 
+nítrico derivado del endotelio, en especial aquellos 
+involucrados en la patogénesis de la hipertensión 
+arterial (HTA), pueden deberse a una menor liberación de óxido nítrico relacionada con la presencia 
+de la forma alélica de 894G>T del gen de la óxido 
+nítrico sintetasa endotelial 42
+. 
+El polimorfismo 894G>T del gen de la óxido nítrico 
+sintetasa endotelial puede relacionarse con la variación circadiana de la presión arterial (PA) en pacientes con hipertensión arterial (HTA). La respuesta 
+vascular a las hormonas vasoconstrictoras puede 
+ser modulada por el polimorfismo del gen del óxido 
+nítrico sintetasa endotelial. 
+Se ha observado una diferencia significativa en las 
+frecuencias genotípicas y alélicas entre los raisers y 
+los dippers, y una tendencia al aumento de las frecuencias genotípicas y alélicas del polimorfismo en 
+el grupo non-dipper (non-dippers y raisers) comparado con el grupo dipper (dippers extremos y dippers) 42
+.
+Hipertensión matutina (morning surge).
+Entre los cambios de la presión arterial definidos 
+que inciden en la variabilidad se describe la llamada 
+“marea hipertensiva matutina”, caracterizada por 
+mayor presión y variabilidad de la misma en las 
+primeras horas de la mañana que en el resto del día 
+4
+3, trastorno que se asocia a la enfermedad cerebrovascular 44, 45. También se ha planteado que la 
+presión arterial al despertar es tan indicativa de la 
+marea hipertensiva como el promedio de 6 a.m. a 
+medio día 46, 47, horario del día donde se ha descrito 
+una incidencia mayor de infartos agudos del miocardio y de la muerte súbita, patrón válido para 
+pacientes con insuficiencia cardiaca y también para 
+la población en general.
+La explicación a este fenómeno se halla —en parte— en los cambios que ocurren en la mañana en la 
+actividad simpática, en la sensibilidad de los baro 
+receptores y la coagulabilidad, así como otras 
+anormalidades electrofisiológicas 48-50
+.
+Patrón nocturno
+Otra de las causas principales de variabilidad circadiana de la presión arterial está en los cambios que 
+tienen lugar durante el reposo nocturno, particula rmente en posición de decúbito. En la mayoría de las 
+personas, el reposo en decúbito reduce la frecuencia cardiaca y la presión arterial 51
+. 
+La caída nocturna (dipper) por convención se considera normal cuando es mayor de 10% y menor de 
+20%. Se han descrito 3 patrones anormales de variaciones de la presión arterial durante el sueño: 
+non dipper (caída de la presión arterial durante el 
+sueño entre 0-10%), dipper reverso o raiser (presión 
+arterial nocturna mayor que la diurna) y dipper extremo o acentuado (caída de presión arterial durante el sueño mayor del 20%) lo que se corresponde 
+con hipotensión nocturna 52, 53
+. 
+Cuando la reducción nocturna es mayor de 20%, 
+pudiera tener una relación causal específica con 
+enfermedad cerebrovascular silente y lesión de la 
+sustancia blanca mediada por hipoperfusión cerebral 54-56
+. 
+En algunos individuos, sin que guarde relación con 
+la frecuencia cardiaca, no hay caída nocturna u 
+ocurre un aumento paradójico de la presión arterial 
+durante el sueño (non dipper o raiser). Un estudio 
+prospectivo ha encontrado que estos pacientes 
+suelen presentar insuficiencia renal 57. También se 
+ha comunicado que el patrón riser aumenta en forma significativa el riesgo de accidente cerebro va scular; además, los individuos con un patrón circadiano non-dipper presentan mayor riesgo de complicaciones cerebrales y cardiovasculares que aque-
+Revista Cubana de
+Cardiología y Cirugía Cardiovascular
+Órgano Oficial de la Sociedad Cubana de Cardiología
+Volumen 22, No 1 (2016)
+ISSN: 1561-2937
+Publicada por ECIMED
+58
+llos con patrón dipper. Se ha sugerido que en los 
+non-dippers y en los raisers, la mayor carga de presión puede contribuir al incremento del riesgo ca rdiovascular 58-60
+.
+La disminución en la declinación nocturna de la 
+presión arterial puede favorecer el deterioro de la
+vasodilatación dependiente del endotelio y aumentar la viscosidad plasmática nocturna, lo que ocasiona una disminución del estrés de cizallamiento 
+(shear stress) y de la producción de oxido nítrico 61, 
+62
+.
+Hipertensión de bata blanca o de consultorio.
+Por último se describe la “hipertensión de bata 
+blanca”, también denominada hipertensión de consultorio, que es aquella que ocurre en sujetos normotensos en medios habituales —menor de 135/85 
+mmHg como promedio en actividad— y que en un 
+entorno médico presentan cifras iguales o superiores a 140 mmHg de presión arterial sistólica y 90 
+mmHg de presión arterial diastólica 63, 64
+. 
+Es válido señalar que la hipertensión de bata blanca 
+(HBB) se distingue del “efecto de bata blanca” en 
+que la primera es solo una definición binaria —la 
+tiene o no—, y el segundo se caracteriza por una 
+elevación de la presión arterial en la consulta, incl uso en pacientes normotensos, efecto que puede 
+medirse cuantitativamente y representa la diferencia 
+entre la presión arterial promedio antes de entrar a 
+la consulta y la obtenida por el médico 65
+. 
+En la mayoría de los casos, la variación en la presión arterial se asocia a cambios en la relación entre 
+el sistema nervioso simpático y el parasimpático 66
+. 
+Se ha planteado que la respuesta vasoconstrictora 
+a la reacción de alerta a la medición esfigmomanométrica de la presión arterial está asociada a 
+cambios complejos de la actividad nerviosa simpática en la circulación cutánea y en la distribución 
+esquelética muscular 67. Este hecho puede tener un 
+origen central en áreas diencefálicas integrando los 
+ajustes cardiovasculares al comportamiento emocional 68
+.
+Se ha reportado que la prevalencia de hipertensión 
+arterial (HTA) de bata blanca oscila de 15 a 30 por 
+ciento, y que varía considerablemente de acuerdo a 
+la estratificación de la presión arterial empleada, de 
+la definición de HTA de bata blanca y de la población estudiada 69, 70
+.
+Dos estudios han reportado que ocurren menos 
+eventos asociados a complicaciones de hipertensión en personas con hipertensión arterial (HTA) de 
+bata blanca que en hipertensos con promedio diurno mayor o igual a 140/90 mm Hg. En uno de estos 
+trabajos se hizo un seguimiento de los pacientes y 
+se concluyó que no había diferencia de riesgo entre 
+sujetos normotensos y aquellos con HTA de bata 
+blanca 71-73
+. 
+En el estudio Sys Eur.12, por ejemplo, se encontró 
+que el tratamiento antihipertensivo aleatorizado es 
+efectivo para reducir el riesgo de complicaciones 
+cardiovasculares cuando la presión arterial sistólica 
+(PAS) es mayor de 160 mmHg., y que no hay ventaja si esta es menor.
+De los estudios anteriores se podría concluir que la 
+hipertensión arterial (HTA) de bata blanca no ofrece 
+mayor riesgo, o al menos que no requiere tratarse 
+con medicamentos como también queda claro que 
+el diagnóstico de HTA requiere de un profundo y 
+variado registro como única forma de reducir los 
+errores y la tendencia a sobrevalorar la prevalencia 
+de hipertensión arterial. 
+Repercusión de la variabilidad de la presión arterial.
+Aunque es difícil establecer el valor pronóstico de la 
+variación, suele aceptarse que constituye un riesgo 
+independiente de morbimortalidad cardiovascular 
+72. Clement et al. demostraron que el desenlace 
+cardiovascular de pacientes tratados por hipertensión arterial (HTA) se pronosticaba mejor por la 
+presión arterial ambulatoria que por la de consulta 
+74. Aún más notable fue el hallazgo de que los pacientes bajo tratamiento, cuya presión arterial sistólica media de 24 horas era superior a 135 mmHg, 
+tenían el doble de probabilidad de tener un evento 
+cardiovascular adverso que aquellos con una media 
+inferior a 135 75
+.
+En los últimos años, los estudios realizados han 
+aportado evidencias sobre la importancia clínica de 
+las determinaciones de la presión arterial fuera de la 
+consulta que permiten caracterizar, con mayor precisión, la gravedad de la hipertensión e identificar 
+un perfil de riesgo más alto en algunos individuos 
+aparentemente normotensos 76
+.
+Según destacan estudios como el ELSA (European 
+Lacidipine Study on Atherosclerosis) y el SAMPLE 
+(Study on Ambulatory Pressure and Lisinopril Evaluation), esta superioridad está basada en la evidencia de que las lesiones de órganos diana relacionadas con hipertensión, se corresponden más 
+con los valores del monitoreo ambulatorio de 24 
+horas de la presión arterial, tanto sistólica como 
+diastólica, que con los valores en consulta. Esto ha 
+sido demostrado para la hipertrofia ventricular izquierda mediante eco cardiografía, disfunción sistó-
+Revista Cubana de
+Cardiología y Cirugía Cardiovascular
+Órgano Oficial de la Sociedad Cubana de Cardiología
+Volumen 22, No 1 (2016)
+ISSN: 1561-2937
+Publicada por ECIMED
+59
+lica y diastólica, hipertrofia vascular, infartos cerebrales lacunares, daño renal y retinopatía 77-79
+. 
+El ELSA demostró una relación más estricta de las 
+anormalidades de la pared vascular carotídea con el 
+promedio de 24 horas de la presión arterial que con 
+la presión arterial clínica 54; mientras que el SAMPLE 
+encontró que la regresión —inducida por drogas 
+antihipertensivas— del engrosamiento anormal de 
+la pared ventricular izquierda, tiene una predicción 
+más certera cuando el tratamiento es guiado por los 
+valores de presión arterial ambulatorios que por los 
+obtenidos en consulta 81
+.
+No solo los valores absolutos de presión arterial 
+sino también las fluctuaciones de la misma durante 
+el periodo de 24 horas, son determinantes en las 
+lesiones de los órganos diana. Se ha demostrado 
+que la extensión de estas lesiones se relaciona con 
+el número de picos de la presión arterial ocurridos 
+durante el día y que están asociados a estímulos 
+físicos, ambientales o psíquicos 82
+. 
+También se ha demostrado que para un determinado promedio de presión arterial de 24 horas, los 
+puntajes de lesiones de órganos diana relacionadas 
+con HTA, se asocian, directa y estrechamente, con 
+las desviaciones estándar de la presión arterial para 
+24 horas; y que una mayor variabilidad de la presión 
+arterial se vincula a un incremento en las lesiones 
+de órganos diana, en particular la hipertrofia del 
+ventrículo izquierdo 83, 84
+. 
+Estos datos sugieren que los efectos adversos de la 
+hipertensión arterial (HTA) sobre el sistema cardiovascular son reflejos y están determinados, no solo 
+por el grado de elevación de la presión arterial, sino 
+por la magnitud de la variabilidad de la misma en el 
+período de 24 horas 85
+.
+Conclusiones
+Lo antes expuesto nos permite definir las razones 
+principales que explican el creciente interés de 
+clínicos e investigadores en esas fluctuaciones de la 
+presión sanguínea. 
+En primer lugar, el análisis minucioso de esta variabilidad durante las 24 horas, tiene relevancia fisiopatológica ya que permite obtener información de los 
+mecanismos envueltos en el control homeostático 
+de la presión arterial en condiciones fisiológicas y 
+patológicas, tales como hipertensión esencial y 
+secundaria, insuficiencia cardíaca congestiva, diabetes, insuficiencia renal y otras enfermedades 
+cardiovasculares o no, que afectan el control autonómico de la circulación 86-88
+. 
+En segundo lugar, este análisis incrementa el diagnóstico de hipertensión arterial (HTA) al permitiracumular información concluyente sobre la asociación de valores de HTA y lesiones en órganos dianas, la progresión de estas en el transcurso de los 
+años.

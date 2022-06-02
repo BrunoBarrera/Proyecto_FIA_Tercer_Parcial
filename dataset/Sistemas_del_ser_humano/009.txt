@@ -1,0 +1,96 @@
+SISTEMA MUSCULAR
+Conceptos
+
+Los músculos del cuerpo están compuestos por tres tipos de tejido muscular distinto. En ciertas características los tres tipos son similares: los afecta el mismo tipo de estímulo, producen potencial de acción poco después de haber sido estimulados, poseen la facultad de contraerse, la fuerza de contracción depende de su longitud inicial, tienen la propiedad de mantener tono, se atrofian debido a la circulación inadecuada y se hipertrofian respondiendo al aumento de trabajo. En cambio en algunos otros aspectos muestran grandes diferencias:
+
+•	El músculo liso es involuntario y forma las paredes de las vísceras huecas, como el estómago y la vejiga, y la de los diversos sistemas tubulares, como el circulatorio, el tubo digestivo, el aparato respiratorio y los órganos de la reproducción. Se contraen con mayor lentitud, son más extensibles y capaces de contracción más sostenida y rítmica, mas sensible a los estímulos térmicos y químicos. La contracción del músculo liso de un órgano hueco ocasiona el vaciamiento de este órgano; en el caso del tubo digestivo, el contenido es propulsado hacia el exterior mediante ondas de contracción (movimientos peristálticos).
+
+•	El músculo cardiaco, no se encuentra bajo el dominio de la voluntad, es automático. Posee cuatro propiedades básicas; 1) ritmo, o sea la propiedad de generar impulsos periódicos; 2) conductividad, o sea la propiedad de trasmitir esos impulsos por todo el miocardio; 3) irritabilidad, o sea la propiedad de responder a los estímulos; 4) contractibilidad, o sea la propiedad de contraerse respondiendo a un estímulo.
+
+•	El músculo estriado o esquelético, el de mayor interés para nosotros, está compuesto por fibras que presentan bandas oscuras y claras alternas. Estas fibras son inervadas por los nervios craneales o espinales y están bajo el gobierno voluntario. Este tipo de músculos contiene receptores para el dolor y sus principales funciones son el movimiento corporal y el mantenimiento de la postura.
+
+
+
+ 
+Los músculos representan entre el 40% y el 45% del peso corporal del adulto. El sistema muscular voluntario se compone de aproximadamente 434 músculos, pero solo 75 pares intervienen en la postura y el movimiento generales del cuerpo.
+
+
+
+PARTES DE UN MÚSCULO ESTRIADO O ESQUELÉTICO
+•	VIENTRE MUSCULAR O CUERPO: parte central de un músculo, formado por numerosas fibras musculares envueltas cada una de ellas con su capa de tejido conjuntivo llamada ENDOMISIO. El conjunto de fibras musculares con sus respectivos endomisios constituyen un FASCICULO, rodeado por una nueva capa de tejido conjuntivo el PERMISIO, el conjunto de fascículos rodeados por sus perimisios , forman el vientre muscular que se encuentra rodeado por el PERIMISIO.
+•	TENDON : cuerda de tejido conjuntivo denso que une a los músculos con el hueso.
+•	APONEUROSIS : estructuras membranosas presentes en músculos planos , y que les permiten insertarse.
+•	RETINACULOS : elementos fibrosos que cubren a los diferentes tendones y que los mantienen apegados
+•	BOLSAS SINOVIALES : bolsas que contienen líquido sinovial , que rodean a algunos tendones evitando el roce contra superficies duras.
+ 
+ 
+
+
+Clasificación de los músculos esqueléticos
+
+Algunos músculos son láminas planas, como el trapecio y el transverso del abdomen, otros, fusiformes, como el bíceps y el pronador redondo; otros, largos y delgados, como el sartorio y el peroneo lateral; y por último, otros son como abanicos, como el pectoral mayor.
+Algunos músculos llevan el nombre por su forma, pero otros lo hacen por su función o ubicación.
+
+
+
+ 
+Origen e inserción
+Cuando un músculo se contrae con energía, tiende a mover los dos huesos en los cuales se inserta, pero para simplificar el problema suele suponerse que el hueso que se mueve menos, permanece fijo. El punto donde un músculo se une con el hueso fijo se llama origen; mientras que el lugar en donde se une con el hueso móvil se llama inserción. También consideraremos que el origen es el extremo que esté más próximo al centro del cuerpo (proximal) y la inserción el punto que esté más alejado (distal).
+
+
+NOMENCLATURA MUSCULAR
+Según la característica se pueden clasificar por:
+
+•	FUNCION: de acuerdo al trabajo que realicen reciben nombres de supinadores, pronadores, aductores, elevadores , tensores.
+•	FORMA : triangulares , cuadrado , piramidal , romboides , trapecio
+•	DIRECCION DE FIBRAS : rectos , oblicuos , transversos
+•	NUMERO DE INSERCIONES : bíceps, tríceps , cuádriceps
+•	REGION TOPOGRAFICA : pectorales , glúteos , braquiales , dorsales
+•	RELACION OSEA : frontal , occipital , tibial
+•	TAMAÑO: Tamaño relativo del músculo. Ej.:
+•	MAYOR Glúteo mayor
+•	MENOR Glúteo menor
+•	LARGO Aductor largo de muslo
+•	CORTO Peroneo lateral corto
+•	ORIGEN E INSERCIÓN: Localizaciones del origen e inserción del músculo. Ej. Esternocleidomastoideo
+
+•	ACCIÓN PRINCIPAL DE UN MÚSCULO:
+•	FLEXOR : disminuye el ángulo de la articulación
+•	EXTENSOR : aumenta el ángulo de la articulación
+•	ABDUCTOR: separa a un hueso de la línea media
+•	ADUCTOR : acerca a un hueso a la línea media
+•	ELEVADOR: produce un movimiento hacia arriba
+•	DEPRESOR : produce un movimiento hacia abajo
+•	SUPINADOR : vuelve la palma de la mano hacia arriba
+•	PRONADOR : vuelve la palma de la mano hacia abajo
+•	ESFINTER : reduce el tamaño de una apertura
+•	TENSOR : aumenta la rigidez de una parte del cuerpo
+•	ROTADOR : mueve un hueso alrededor de su eje longitudinal
+
+ESTRUCTURA MICROSCÓPICA DEL MÚSCULO ESTRIADO
+
+El músculo estriado es un tipo de músculo que tiene como unidad fundamental el sarcómero, y que presenta, al verlo a través de un microscopio, estrías que están formadas por las bandas claras (ACTINA) y oscuras alternadas (MIOSINA) del sarcómero. Está formado por fibras musculares de forma cilíndrica, con extremos que mantienen el mismo grosor en toda su extensión. Es el encargado del movimiento de los esqueletos axial y apendicular y del mantenimiento de la postura o posición corporal. Además, el músculo esquelético ocular ejecuta los movimientos más precisos de los ojos.
+ 
+PROPIEDADES DEL TEJIDO MUSCULAR
+•	Elongación: es la propiedad que tiene la fibra muscular de estirarse.
+•	Contractibilidad: es la propiedad de acortarse sin perder el volumen
+•	Elasticidad: propiedad de volver a su forma original
+•	Irritabilidad: el músculo responde frente a determinados estímulos
+
+LA CONTRACCIÓN MUSCULAR
+La contracción para todos los músculos estriados (voluntarios), ocurren como resultado de un esfuerzo consciente originado en el cerebro. Las señales del cerebro viajan muy rápido en la forma de potenciales de acción por los nervios hasta la neurona motora que injerta fibra muscular. En el caso de los reflejos involuntarios, la señal eréctil puede originarse en la médula espinal a través de un circuito con la materia gris. En la musculatura involuntaria, como son el caso del corazón y la musculatura lisa (por ejemplo, en el intestino o el sistema vascular), la contracción ocurre como resultado de actividad inconsciente del sistema nervioso autónomo o bien por estimulación endógena del mismo músculo. Algunas contracciones como la locomoción, la respiración, y la masticación pueden iniciarse tanto consciente como inconscientemente, pero se continúan por medio de un reflejo inconsciente.
+
+La contracción muscular se puede explicar como un desplazamiento de los miofilamentos, es decir la cabeza de la miosina se ancla a la actina produciéndose así el dicho desplazamiento. Cabe decir que la contracción muscular está regulada por el calcio, el ATP y el Magnesio.
+
+ 
+AUTOTEST
+Seminario: Sistema muscular
+Preguntas
+1)	¿Cuáles son los tipos de tejido muscular?
+2)	¿Cómo se constituye en músculo esquelético? Explicar cada parte.
+3)	¿Cómo se pueden clasificar los músculos estriados? Ejemplos
+4)	¿Cómo se compone microscópicamente el músculo esquelético?
+5)	¿Cómo se produce la contracción muscular?
+
+Espacio para tus respuestas
+

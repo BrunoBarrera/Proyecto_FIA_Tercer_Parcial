@@ -1,0 +1,14 @@
+Rejuvenecimiento multiómico de células humanas
+22 de Abril del 2022
+
+El método desarrollado pudo remozar en 30 años las células de la piel.
+
+El envejecimiento es la disminución gradual de la aptitud del organismo que se produce con el tiempo y que conduce a la disfunción de los tejidos y a la enfermedad. A nivel celular, se asocia a una reducción de la función, una alteración de la expresión génica y una perturbación del epigenoma. La reprogramación de células somáticas, el proceso de convertirlas en células madre pluripotentes inducidas (de su sigla en inglés iPSC), puede revertir estos cambios.
+ 
+Una investigación del Instituto Babraham desarrolló un método que fue capaz de remozar las células de la piel humana en 30 años sin que pierdan su función especializada. Para ello trabajaron la técnica de "reprogramación transitoria en fase de maduración" (de su sigla en inglés MPTR), en el que los factores se expresan hasta el punto de rejuvenecimiento seguido de la retirada de su inducción.
+Utilizando fibroblastos dérmicos de donantes de mediana edad descubrieron que las células pierden temporalmente y luego readquieren su identidad de fibroblastos durante la MPTR, posiblemente como resultado de la memoria epigenética en los potenciadores o la expresión persistente de algunos genes de fibroblastos.
+El epigenoma, incluidos los niveles de metilación de histonas H3K9me3 y el reloj de envejecimiento de la metilación del ADN, se rejuveneció en una medida similar. La magnitud del cambio instigado por el MPTR parece sustancialmente mayor que el logrado en anteriores protocolos de reprogramación transitoria. Además, los fibroblastos produjeron niveles juveniles de proteínas de colágeno y mostraron una renovación funcional parcial de su velocidad de migración.
+
+Por último, el trabajo sugiere que una reprogramación más extensa no da lugar necesariamente a un mayor reversibilidad del tiempo, sino que existen ventanas de tiempo óptimas para el transcriptoma y el epigenoma. En general, se logró demostrar que es posible separar el rejuvenecimiento de la reprogramación completa de la pluripotencia, lo que debería facilitar el descubrimiento de nuevos genes y terapias.
+Fuente bibliográfica
+DOI: 10.7554/eLife.71624

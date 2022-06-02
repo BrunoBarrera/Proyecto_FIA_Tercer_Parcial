@@ -1,0 +1,14 @@
+Nanopartícula de doble objetivo para el tratamiento del cáncer
+08 de Abril del 2022
+
+De origen lipídico, pueden utilizar el ARN para superar la resistencia tanto a la quimioterapia, como a la inmunoterapia.
+
+
+La quimioinmunoterapia es una combinación de quimioterapia "estándar" con inmunoterapia, en la que se utilizan inhibidores del punto de control inmunitario (ICIs) como el nivolumab y pembrolizumab mostrando beneficios terapéuticos en la clínica. Sin embargo, muchos pacientes siguen respondiendo mal y la nanoterapéutica podría ser una estrategia novedosa para mejorarla.
+
+El microambiente del tumor está enriquecido con varias células inmunes, desde mieloides hasta linfocitos. Las primeras, incluidos los monocitos y los macrófagos, son reclutadas por el nicho de células cancerosas inflamadas y, paradójicamente, inducen un estado inmunosupresor en los tumores sólidos.
+
+Recientemente, se ha descubierto que la hemo-oxigenasa-1 (HO1) actúa como molécula inmunoterapéutica en las células mieloides tumorales, además de la función general de quimiorresistencia en las células cancerosas.
+Un grupo de investigación de la Universidad de Tel-Aviv ha demostrado que un sistema de administración de fármacos basado en nanopartículas lipídicas puede utilizar el ARN para superar la resistencia tanto a la quimioterapia, como a la inmunoterapia en los tratamientos contra el cáncer. Los científicos desarrollaron un nanoterapéutico inhibidor de HO1 dirigido a los mieloides tumorales y a las células cancerosas utilizando nanopartículas lipídicas cargadas con ARNi. La inhibición de la HO1 sensibiliza las  células cancerosas a los quimioterapéuticos aumentando la  muerte celular inmunogénica y reprograma los mieloides tumorales con un fenotipo distinguido. Este proceso induce el reclutamiento de células T citotóxicas CD8+, lo que se correlaciona con la mejora de la capacidad de respuesta a los inhibidores de puntos de control inmunitarios en la terapia combinada. Este es el primer caso de un único fármaco basado en una nanopartícula cargada de ARN que realiza dos trabajos muy diferentes, incluso opuestos.
+Fuente bibliográfica
+DOI: 10.1002/adma.202106350

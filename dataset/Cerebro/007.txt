@@ -1,0 +1,383 @@
+No siempre a cada síntoma le corresponde un daño | 29 4BR22
+
+Síntomas, placebo y cerebro bayesiano
+
+A pesar de su éxito, el modelo biomédico no ha proporcionado una explicación adecuada de dos fenómenos bien
+demostrados: los síntomas sin alteración fisiopatológica y el alivio después de la administración de un placebo.
+Autor: Ongero, Giulia, Kapíchuk, Ted J. Fuente: Pain: doi: 10.1097/.pain.0000000000001367 Topical Review Symptom perception, placebo effects, and the Bayesian brainOngaro, Giulioa, *; Kapichuk, Ted J.b,c
+Página 1
+
+Introducción
+
+El modelo biomédico estándar e ideal de la percepción de los síntomas trata al cerebro en gran parte como un órgano pasivo
+impulsado por estímulos. Abraza la idea de que el cerebro absorbe las señales sensoriales del cuerpo y las convierte,
+directamente, en experiencia consciente.
+
+En consecuencia, la biomedicina funciona bajo el supuesto de que los síntomas son las consecuencias directas de la disfunción
+fisiológica y la mejoría es la consecuencia directa de la restauración de la función corporal.
+
+A pesar de su éxito, el modelo biomédico no ha proporcionado una explicación adecuada de 2 fenómenos bien demostrados en
+medicina:
+
+(1) La experiencia de los síntomas sin alteración fisiopatológica.
+(2) La experiencia de alivio después de la administración de tratamientos con placebo.
+
+Esta revisión tópica promueve la idea de que el "procesamiento predictivo", un enfoque bayesiano de la percepción que se está
+afianzando rápidamente en la neurociencia, ayuda significativamente a acomodar estos dos fenómenos.
+
+Expande el trabajo empírico reciente de alta calidad sobre el procesamiento predictivo y describe, más ampliamente, cómo los
+modelos bayesianos ofrecen una imagen completamente diferente de cómo el cerebro percibe los síntomas y el alivio.
+
+El cerebro bayesiano
+
+El sistema nervioso está lidiando constantemente con un flujo continuo y potencialmente abrumador de señales variables
+provenientes de nuestro cuerpo y sentidos. Por el bien de la adaptación, el cerebro debe convertir este juego confuso de
+entradas sensoriales y disparos neuronales en una percepción confiable del mundo. El debate en la ciencia cognitiva ha girado
+en torno a cómo exactamente el cerebro realiza esta tarea.
+
+La percepción está modulada cognitivamente y podría considerarse mejor un proceso de predicción
+basado en una integración de entradas sensoriales, experiencia previa y pautas contextuales
+
+Si bien las teorías anteriores, en línea con el modelo biomédico actual de la enfermedad, consideraron la percepción
+principalmente como una lectura de abajo hacia arriba de las señales sensoriales, los modelos bayesianos emergentes sugieren,
+en cambio, que la percepción está modulada cognitivamente (en su mayor parte inconscientemente), y podría considerarse
+mejor un proceso de predicción, basado en una integración de entradas sensoriales, experiencia previa y pautas contextuales.
+
+La sugerencia clave es que para percibir el mundo, el cerebro sigue una teoría de probabilidad conocida como la regla de Bayes.
+En su forma matemática, la regla actualiza la probabilidad de una hipótesis dada (o "anterior"), dada alguna evidencia,
+considerando el producto de la probabilidad y la probabilidad previa de la hipótesis.
+
+En escalas de tiempo rápidas, el cerebro implementa predicciones bayesianas generando continuamente una cascada de arriba
+a abajo de hipótesis codificadas neurológicamente (en su mayoría no conscientes) sobre el estado del cuerpo y el mundo.
+
+Este flujo de hipótesis de arriba hacia abajo se encuentra con la corriente de abajo hacia arriba de entradas sensoriales que
+provienen de los sentidos. Cualquier desajuste entre la entrada predicha y la entrada real da como resultado un "error de
+predicción", lo que incita al sistema a revisar sus hipótesis. La percepción de abajo hacia arriba es, por lo tanto, inseparable de la
+predicción de arriba hacia abajo.
+
+Lo que percibimos no es el mundo como realmente es, sino la mejor suposición del cerebro
+177
+Algunas de las hipótesis que dan cuenta de las características más abstractas y generales del mundo están "incorporadas" por
+la evolución; otros son susceptibles de refinamiento progresivo a través del aprendizaje del desarrollo. A lo largo de la vida, el
+sistema nervioso se involucra en la actualización continua de estos antecedentes para predecir mejor las siguientes entradas
+sensoriales entrantes y minimizar el error.
+
+Una implicación central de la teoría es que lo que percibimos no es el mundo como realmente lo es, sino la mejor suposición del
+cerebro, refinado continuamente por la evidencia sensorial entrante. La percepción visual, el dominio del cual procede gran
+parte de la evidencia del cerebro bayesiano ha emergido y ofrece la forma más intuitiva de comprender su principio clave.
+
+Para mencionar un ejemplo simplista, los troncos en un bosque que está infestado por serpientes podrían percibirse al principio
+como serpientes, hasta que obtengamos una vista más refinada que actualice la hipótesis.
+
+Es importante destacar que la interacción entre las predicciones descendentes y las señales ascendentes que se encuentran en
+el corazón del procesamiento predictivo se modulan de manera flexible por la "precisión" (o "variación inversa", en términos
+estadísticos) de las hipótesis y la evidencia sensorial.
+
+Al enfrentarse con la tarea de determinar la probabilidad de que un conjunto dado de entradas represente un estado predicho,
+el cerebro utiliza la experiencia previa y las indicaciones contextuales sutiles para determinar su precisión.
+
+El ejemplo de ver a los trocos de los árboles como serpientes representa un caso en el que hipótesis altamente precisas
+conformadas por la experiencia previa (saber cómo es una serpiente, saber que las serpientes habitan en el bosque) anulan las
+entradas visuales imprecisas.
+
++ De hecho, el modelo de cerebro bayesiano es capaz de explicar cómo, en contextos de predicciones precisas e insumos
+imprecisos, las percepciones pueden desviarse del estado real del mundo.
+e Ala inversa, también aclara cómo se pueden hacer inferencias en condiciones de ambigúedad que carecen de
+
+estimaciones precisas.
+
+El modelo está respaldado por una creciente evidencia computacional y de neuroimagen, y promueve la idea de que la precisión
+de las predicciones descendentes podría estar "codificada" en el cerebro por neurotransmisores como la dopamina.
+
+217
+MEA AE
+A perceptual output of the brain
+
+ 
+
+Percepción de los síntomas y “síntomas sin explicación médica”
+
+ 
+
+Sentimos dolor porque predecimos que estamos sufriendo, sobre la base de una integración de entradas
+sensoriales, experiencias previas y señales contextuales
+
+ 
+
+ 
+
+ 
+
+La idea de que lo que percibimos no es el mundo tal como es, sino nuestra mejor hipótesis de que se aplica igualmente al cuerpo
+y a los estados corporales subjetivos, como los síntomas médicos. No necesariamente sentimos dolor, sugiere este marco,
+porque lo "percibimos" directamente desde el cuerpo periférico. Para decirlo enfáticamente, sentimos dolor porque
+predecimos que estamos sufriendo, sobre la base de una integración de entradas sensoriales, experiencias previas y señales
+contextuales.
+
+La experiencia de los síntomas surge de la inferencia de que el cuerpo se ha desviado de las constantes fisiológicas que definen
+la salud. Desde una perspectiva bayesiana, la experiencia de la salud depende del hecho de que mantenemos una hipótesis
+general de "condición corporal saludable" (en parte determinada por la evolución, en parte por el desarrollo) que explica un
+cierto rango de variaciones normales en la información somática, por ejemplo, en la frecuencia de los latidos del corazón,
+
+dolores corporales, etc.)
+
+ 
+
+Mientras estas variaciones se mantengan dentro de los límites predichos por la hipótesis de la
+"condición corporal saludable", el cerebro los trata como "ruido" y no se percibe ningún síntoma.
+
+ 
+
+ 
+
+ 
+
+Cuando, debido a una causa perturbadora como la enfermedad, la variación de los insumos somáticos es demasiado grande
+para ser predicha con éxito por el aumento de la hipótesis general y el error de predicción, el cerebro debe generar otra
+hipótesis que justifique la nueva evidencia.
+
+De acuerdo con la teoría, sentimos síntomas, incluido el dolor, cuando la hipótesis con el error de predicción más bajo
+representa un evento somático anormal. Este encuadre muestra en última instancia que la fisiopatología puede estar unida de
+forma poco flexible a la percepción de los síntomas, ya que este último está mediado por hipótesis generadas internamente
+sobre las causas de las entradas, no solo determinadas por las entradas en sí mismas
+
+3/7
+El grado de correlación entre la fisiopatología y los síntomas variará según la precisión relativa asignada a los insumos y las hipótesis, respectivamente.
+
+Cuando un sujeto se encuentra inesperadamente con un cierto estímulo doloroso por primera vez, la hipótesis en curso de que
+el sistema está sano se revisa rápidamente al encontrar evidencia sensorial inequívoca que se aleja de él.
+
+Dado que el sistema no ha tenido una exposición previa al estímulo, las señales sensoriales tienen una mayor precisión con
+respecto a las hipótesis anteriores y, por lo tanto, un mayor impacto en la percepción. Por eso, en los casos de disfunción
+localizada y dolor agudo, encontramos una alta correlación entre la fisiopatología y la percepción de los síntomas.
+
+Sin embargo, para muchos síntomas crónicos subjetivos, que a menudo involucran sensibilización central, somatización,
+amplificación nociceptiva aberrante o información ambigua, que cambia con frecuencia, el proceso puede revertirse.
+
+Aquí, la percepción de los síntomas cambia en la dirección de las hipótesis generadas por el cerebro, lo que explica la baja
+correlación que encontramos entre la fisiopatología objetiva y la experiencia subjetiva a través de una serie de enfermedades
+crónicas.
+
+Desde una perspectiva bayesiana, el dolor crónico refleja la alta precisión que se coloca sobre las
+hipótesis frente a la evidencia sensorial.
+
+Las variaciones leves e inofensivas en los insumos interoceptivos en ciertos contextos (que en individuos sanos serían tratados
+como "ruido") incitan al cerebro a inferir erróneamente el dolor como la causa de estos insumos, y a sentir el dolor en
+consecuencia.
+
+La ansiedad, el miedo, la percepción de amenaza y los estados emocionales catastrofistas que a menudo acompañan a este trastorno tienen el efecto de
+empeorar los síntomas al mantener la vigilancia frente al dolor predicho.
+
+Además, en el contexto del dolor crónico, el cerebro no solo percibe pasivamente el dolor, sino que también puede desempeñar
+un papel en su propia intensificación. Esto es así porque bajo el marco de procesamiento predictivo, otra forma de minimizar el
+error de predicción reside en la generación de acción corporal. Si, en el contexto de la percepción, el cerebro revisa sus
+predicciones para que coincidan con la entrada, en acción, minimiza el error de predicción modificando las entradas para que
+puedan ajustarse a la predicción.
+
+En una condición de dolor crónico, el cerebro puede que inicie inconscientemente sensaciones viscerales (p. ej., tensión
+estomacal) que coincidan con la hipótesis de dolor.
+
+En todo esto, vemos que el cerebro, en un contexto de desequilibrio de precisión, continúa realizando su tarea bayesiana
+ordinaria de minimizar el error de predicción para adaptar las entradas a las predicciones, incluso en detrimento del bienestar
+subjetivo,
+
+El marco nos invita a apreciar el papel destacado que desempeña el contexto social en la
+configuración y el refuerzo de las predicciones de los síntomas.
+
+El conocimiento de los efectos secundarios de una droga, la información verbal sobre el dolor inminente administrado por un
+médico o una forma culturalmente específica de atender a nuestro cuerpo aumenta la precisión de la hipótesis de los síntomas
+inminentes, lo que lo lleva a dominar la percepción de los síntomas.
+
+Los llamados "efectos nocebo", en los cuales los síntomas negativos atribuidos a la medicación surgen independientemente de
+la actividad biológica, se encuentran dentro del mismo conjunto de procesos.
+
+Es importante destacar que el enfoque va de alguna manera hacia la superación de la distinción artificial pero generalizada entre los síntomas
+"explicados" y "inexplicables" en la biomedicina (o entre enfermedades "reales" e "imaginarias”),
+
+Un resultado importante de la teoría es que todos los síntomas son producto de un proceso inferencial que nunca es estrictamente reducible a la
+disfunción fisiológica y, a veces, solo se relaciona de forma flexible o no.
+
+Los síntomas "explicados" y "inexplicados" se encuentran en un continuo, que difiere solo en la medida en que están acoplados a un trastorno
+orgánico.
+
+Dado que el mismo proceso inferencial está implicado en ambos casos, la teoría también explica por qué los llamados síntomas "reales" e
+"imaginarios" parecen ser fenomenológicamente indistinguibles desde el punto de vista del paciente.
+
+Alivio de los síntomas y efecto placebo
+A/7
+Una historia muy similar, si se invierte, se aplica al alivio de los síntomas. Desde la perspectiva bayesiana, la experiencia de
+recuperación no es la consecuencia directa de la restauración de la función corporal, sino que es el proceso de inferir que
+ciertos cambios interoceptivos son signos de que se está produciendo esta mejora. La hipótesis en curso de que estamos
+enfermos debe ser revisada al encontrar evidencia de que el cuerpo está volviendo a una "condición corporal saludable".
+
+Sin embargo, esta revisión de las hipótesis suele ser más lenta o difícil si la persona no recibe ninguna indicación externa que la
+mejora está en marcha. Sin recibir esta información, el cerebro podría explicar la variación en la información interoceptiva que
+sigue a una intervención médica efectiva como mero "ruido" y se adhiere a una hipótesis de dolor continuo.
+
+La investigación en modelos experimentales agudos llevados a cabo dentro del paradigma abierto-oculto en los estudios con
+placebo lo muestran muy claramente, ya que demuestran que los pacientes que reciben fármacos para aliviar los síntomas (por
+ejemplo, analgésicos, ansiolíticos) de forma encubierta tienden a experimentar un alivio mucho menor. a los pacientes que
+reciben tratamiento a plena vista.
+
+El ritual médico incita al cerebro a interpretar incluso pequeños cambios interoceptivos en el cuerpo
+como consecuencia de la curación, y a experimentar alivio en consecuencia.
+
+Tales predicciones se cumplen por sí mismas. Simultáneamente, bajo predicciones precisas de salud entrante, el cerebro
+también puede llegar a aliviar los síntomas a través de procesos de inferencia activa.
+
+En resumen, el cerebro puede iniciar sensaciones viscerales saludables (por ejemplo, relajar los músculos del estómago) que se
+ajustan a la hipótesis de que uno está volviendo a una "condición corporal saludable", todo con el propósito de cumplir la
+predicción y minimizar el error,
+
+Muchos elementos del contexto terapéutico pueden desempeñar un papel en la mejora de las predicciones de bienestar,
+especialmente en situaciones crónicas. Los experimentos han demostrado que las sugerencias verbales de atención y apoyo
+comunicadas por un médico de confianza son fundamentales para obtener los efectos del placebo, como lo es el valor percibido
+del tratamiento en sí.
+
+Por ejemplo, los tratamientos inertes presentados como costosos para los pacientes tienden a ser más efectivos que los
+tratamientos que los pacientes saben que son menos costosos.
+
+Aprendizaje social: observar de primera mano los efectos de un tratamiento en otros, también contribuye en gran medida a la
+formación de placebo respuestas.
+
+Es importante destacar que la evidencia reciente sugiere que las características del ritual terapéutico pueden ser efectivas
+incluso cuando se las toma de manera subliminal. Esta evidencia es totalmente compatible con el hallazgo de que los pacientes
+pueden recibir beneficios en un paradigma de "placebo de etiqueta abierta”, en el que se encuentran honestamente les dijo que
+están recibiendo un placebo.
+
+Desde una perspectiva de procesamiento predictivo, parte de esta respuesta probablemente se desencadena debido a
+predicciones inconscientes provocadas por la suposición incorporada de la toma de medicamentos y al estar en un entorno
+clínico asociado con la eficacia.
+
+La respuesta también puede estar relacionada con inferencias bajo ambigúedad. Dos mensajes contradictorios integrados en
+placebos de etiqueta abierta: “esta píldora de placebo inerte puede ayudar; esta píldora placebo no puede funcionar ": puede
+crear una mayor disonancia neurológica, cognitiva y corporal que conduce a inferencias no conscientes que perturban la
+sensibilización central.
+
+Obviamente, las predicciones positivas de alivio a menudo son insuficientes para llevar a una recuperación total o incluso
+parcial. El procesamiento predictivo explica la razón por la cual, en presencia de una fisiopatología sólida, los efectos del
+placebo tienden a ser difíciles de obtener.
+
+Si una predicción altamente ponderada de alivio inminente se encuentra con una fuerte evidencia sensorial de lo contrario, el
+cerebro eventualmente inferirá que el cuerpo todavía tiene dolor.
+
+De hecho, los rituales terapéuticos solos tienden a no funcionar en condiciones fisiológicas que se encuentran fuera del alcance
+del sistema nervioso, y en su mayoría son efectivos en los síntomas de autoevaluación que no están acoplados a la
+
+fisiopatología. 517
+De manera crucial, el enfoque de procesamiento predictivo muestra que el ritual terapéutico y los ingredientes activos de la
+intervención, aunque a través de diferentes rutas, actúan en el mismo proceso inferencial por el cual experimentamos alivio de
+los síntomas.
+
+El primero fortalece las predicciones de salud inminente al ofrecer evidencia externa de que la recuperación se está llevando a
+cabo (a través del drama ritual, la interacción verbal, etc.).
+
+El segundo refuerza las predicciones de salud inminente al eliminar la fuente de entradas nociceptivas o, en el caso de los
+medicamentos que alivian los síntomas, al estimular los neurotransmisores que codifican la precisión de las predicciones de
+arriba hacia abajo.
+
+Dado que, cualquiera que sea la ruta, el mismo proceso de inferencia básico se encuentra en el corazón del alivio de los
+síntomas, el marco explica por qué la curación que se relaciona principalmente con una intervención médica (el llamado "efecto
+de tratamiento") y la curación que se relaciona con el ritual terapéutico (el llamado "efecto placebo") pueden ser igualmente
+reales desde el punto de vista del paciente.
+
+Conclusiones
+
+e Los síntomas sin causa física y el alivio a través de la intervención con placebo son anomalías para el modelo biomédico de
+la enfermedad.
+
++ Elenfoque bayesiano de la percepción explica y acomoda estos dos fenómenos. Expone los efectos placebo y nocebo, no
+como eventos aberrantes, sino como facetas del modus operandi general del sistema nervioso.
+
+e También muestra que estos actúan en los mismos procesos inferenciales que la enfermedad "real" y los tratamientos
+reales".
+
+* Laimplicación de este enfoque es que, para centrarse verdaderamente en el paciente, la medicina debe atender el proceso
+predictivo que se encuentra en la base de la percepción de los síntomas, y luego evaluar qué cursos de acción eficientes
+pueden llevar al cerebro a predecir la salud del cuerpo.
+
+Referencias bibliográficas
+
+1. Anchisi D, Zanon MA. Bayesian perspective on sensory and cognitive integration in pain perception and placebo analgesia.
+PLoS One 2015;10:e0117270,
+2. Barrett LF, Simmons WK, Interoceptive predictions in the brain. Nat Rev Neurosci 2015;16:419-29,
+3. Benedetti F, Lanotte M, Lopiano L, Colloca L. When words are painful: unraveling the mechanisms of the nocebo effect.
+Neuroscience 2007;147:260-71.
+4. enedetti F, Maggi G, Lopiano L, Lanotte M, Rainero l, Vighetti S, Pollo A. Open versus hidden medical treatments: the
+patient's knowledge about a therapy affects the therapy outcome. Prev Treat 2003;6:1a.
+5, Benedetti F, Carlino E, Pollo A. Hidden administration of drugs. Clin Pharmacol Ther 2011;90:651-61.
+6. Brown H, Adams RA, Parees l, Edwards M, Friston K. Active inference, sensory attenuation and illusions. Cogn Process
+2013;14:411-27,
+7. Búchel C, Geuter S, Sprenger C, Eippert F. Placebo analgesia: a predictive coding perspective. Neuron 2014;81:1223-39,.
+8. Carvalho C, Caetano JM, Cunha L, Rebouta P, Kaptchuk TJ, Kirsch |. Open-label placebo treatment in chronic low back
+pain: a randomized controlled trial. PAIN 2016;157:2766.
+9. Clark A. Whatever next? Predictive brains, situated agents, and the future of cognitive science. Behav Brain Sci
+2013;36:181-204,
+10. Clark A. Surfing uncertainty: prediction, action, and the embodied mind. Oxford: Oxford University Press, 2015,
+11. Colagiuri B, Quinn VF, Colloca L. Nocebo hyperalgesia, partial reinforcement, and extinction. ) Pain 2015;16:995-1004.
+12, Colloca L, Benedetti F. Placebo analgesia induced by social observational learning. PAIN 2009;144:28-34,
+13. Edwards MJ, Adams RA, Brown H, Parees |, Friston KJ, A Bayesian account of “hysteria”. Brain 2012;135:3495-512.
+14, Espay AJ, Norris MM, Eliassen JC, Dwivedi A, Smith MS, Banks C, Allendorfer JB, Lang AE, Fleck DE, Linke MJ, Szaflarski
+JP. Placebo effect of medication cost in Parkinson disease a randomized double-blind study. Neurology 2015;84:794-802.
+15. Friston K, Shiner T, Fitzgerald T, Galea JM, Adams R, Brown H, Dolan RJ, Moran R, Stephan KE, Bestmann S. Dopamine,
+
+affordance and active inference. PLoS Comput Biol 2012;8:e1002327.
+617
+16. Geuter S, Koban L, Wager TD. The cognitive neuroscience of Placebo effects: concepts, predictions, and physiology. Annu
+Rev Neurosci 2017;40:167-88.
+
+17. Grahl A, Onat S, Búchel C. The periaqueductal gray and Bayesian integration in placebo analgesia. Elife 2018;7:e32930.
+
+18. Hechler T, Endres D, Thorwart A. Why harmless sensations might hurt in individuals with chronic pain: about heightened
+prediction and perception of pain in the mind. Front Psychol 2016;7:1638.
+
+19. Hohwy J. The predictive mind. Oxford: Oxford University Press, 2013.
+
+20. Jensen KB, Kaptchuk TJ, Kirsch l, Raicek J, Lindstrom KM, Berna C, Gollub RL, Ingvar M, Kong J. Nonconscious activation
+of placebo and nocebo pain responses. Proc Natl Acad Sci 2012;109:15959-64,
+
+21. Kam-Hansen S, Jakubowski M, Kelley JM, Kirsch |, Hoaglin DC, Kaptchuk TJ, Burstein R. Altered placebo and drug labeling
+changes the outcome of episodic migraine attacks. Sci Transl Med 2014;6:218ra5.
+
+22.
+
+23. Kaptchuk TJ. Open-label placebos: reflections on a research agenda. Perspect Biol Med 2018;61:311-34,
+
+24.
+
+25. Kaptchuk TJ, Kelley JM, Conboy LA, Davis RB, Kerr CE, Jacobson EE, Kirsch l, Schyner RN, Nam BH, Nguyen LT, Park M.
+Components of placebo effect: randomised controlled trial in patients with irritable bowel syndrome. BMJ 2008;336:999-
+1003.
+
+26. Kaptchuk TJ, Friedlander E, Kelley JM, Sanchez MN, Kokkotou E, Singer JP, Kowalczykowski M, Miller FG, Kirsch l, Lembo
+AJ. Placebos without deception: a randomized controlled trial in irritable bowel syndrome. PLoS One 2010;5:e15591.
+
+27. Seth AK, Suzuki K, Critchley HD. An interoceptive predictive coding model of conscious presence. Front Psychol
+2012;2:395.
+
+28.
+
+29. Tenenbaum JB, Kemp C, Griffiths TL, Goodman ND. How to grow a mind: statistics, structure, and abstraction.
+
+30. Van den Bergh O, Brown RJ, Petersen S, Witthóft M. Idiopathic environmental intolerance: a comprehensive model. Clin
+Psychol Sci 2017;5:551-67,
+
+31.
+
+32. Van den Bergh O, Witthóft M, Petersen S, Brown RJ. Symptoms and the body: taking the inferential leap. Neurosci
+Biobehav Rev 2017;74:185-203.
+
+33. Wechsler ME, Kelley JM, Boyd lO, Dutile S, Marigowda G, Kirsch l, Israel E, Kaptchuk TJ. Active albuterol or placebo, sham
+acupuncture, or no intervention in asthma. N Engl ) Med 2011;365:119-26.
+
+34. Wiech K. Deconstructing the sensation of pain: the influence of cognitive processes on pain perception. Science
+2016;354:584-7.
+
+35.
+
+36. Wilkinson S. Accounting for the phenomenology and varieties of auditory verbal hallucination within a predictive
+processing framework. Conscious Cogn 2014;30:142-55.
+
+37. Zaman J, Vlaeyen JW, Van Oudenhove L, Wiech K, Van Diest |. Associative fear learning and perceptual discrimination: a
+perceptual pathway in the development of chronic pain. Neurosci Biobehav Rev 2015;51:118-25
+
